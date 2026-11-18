@@ -1,0 +1,35 @@
+{
+  "created_date": "2026-11-17",
+  "source_url": "https://www.kaggle.com/datasets/ulrikthygepedersen/nfl-draft-1985-2015",
+  "source_sha256": "d8ff231d3bd521ead2463bfdd89c2c156f794e84905f2e873379f5f3f754c110",
+  "source_rows": 8435,
+  "source_columns": 34,
+  "target": "success = 1 if pb >= 1; 0 otherwise (recorded snapshot, not lifetime success)",
+  "algorithm": "StratifiedGroupKFold; first fold reserved",
+  "n_splits": 5,
+  "shuffle": true,
+  "random_state": 42,
+  "group_key": "nonempty player_id; otherwise unique year/pick",
+  "development_rows": 6748,
+  "reporting_rows": 1687,
+  "reporting_fraction": 0.2,
+  "known_player_overlap": 0,
+  "files": {
+    "development_set.csv": {
+      "sha256": "4cbf33485f8e5922bfd7b6f683c2ed52fcc23c6603c9fa04dc77d2381e209238",
+      "bytes": 762890
+    },
+    "reporting_set.csv": {
+      "sha256": "e9ce4f5488b53a2eaa4575d028152e680c2e20edf8c3e4c7579a64470d991ea1",
+      "bytes": 190839
+    }
+  },
+  "versions": {
+    "python": "3.13.7",
+    "pandas": "2.3.3",
+    "numpy": "2.3.3",
+    "scikit_learn": "1.9.0"
+  },
+  "prior_exposure": "Full-file descriptive and aggregate outcome summaries preceded reservation; no models were fitted. This is a prospective freeze, not a never-viewed dataset.",
+  "reporting_policy": "No reporting-set EDA, transformations, tuning, threshold selection, or model evaluation until the final phase. Hash verification and upload are permitted."
+}

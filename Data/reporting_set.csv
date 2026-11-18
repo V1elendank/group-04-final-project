@@ -1,0 +1,1688 @@
+column_a,player_id,year,rnd,pick,tm,player,hof,pos,position_standard,first4av,age,to,ap1,pb,st,carav,drav,g,cmp,pass_att,pass_yds,pass_td,pass_int,rush_att,rush_yds,rush_tds,rec,rec_yds,rec_tds,tkl,def_int,sk,college_univ
+2015Dante Fowler,FowlDa00,2015,1,3,JAX,Dante Fowler,No,OLB,LB,0,21,2016,0,0,0,0,0,10,,,,,,,,,,,,16,,2.5,Florida
+2015DeVante Parker,ParkDe01,2015,1,14,MIA,DeVante Parker,No,WR,WR,3,22,2016,0,0,0,3,3,24,,,,,,,,,64,979,5,,,,Louisville
+2015Cedric Ogbuehi,OgbuCe00,2015,1,21,CIN,Cedric Ogbuehi,No,T,T,0,23,2016,0,0,1,0,0,15,,,,,,,,,,,,,,,Texas A&M
+2015Bud Dupree,DuprAl00,2015,1,22,PIT,Bud Dupree,No,OLB,LB,3,22,2016,0,0,0,3,3,18,,,,,,,,,,,,19,,4,Kentucky
+2015Byron Jones,JoneBy00,2015,1,27,DAL,Byron Jones,No,CB,DB,4,23,2016,0,0,1,4,4,27,,,,,,,,,,,,92,,,Connecticut
+2015Phillip Dorsett,DorsPh00,2015,1,29,IND,Phillip Dorsett,No,WR,WR,2,22,2016,0,0,0,2,2,21,,,,,,4,20,0,42,620,2,,,,Miami (FL)
+2015Devin Smith,SmitDe04,2015,2,37,NYJ,Devin Smith,No,WR,WR,1,23,2015,0,0,0,1,1,10,,,,,,,,,9,115,1,,,,Ohio St.
+2015Jalen Collins,CollJa02,2015,2,42,ATL,Jalen Collins,No,CB,DB,1,22,2016,0,0,0,1,1,19,,,,,,,,,,,,19,,,LSU
+2015Jaquiski Tartt,TartJa00,2015,2,46,SFO,Jaquiski Tartt,No,SS,DB,3,23,2016,0,0,1,3,3,24,,,,,,,,,,,,62,1,2,Samford
+2015Denzel Perryman,PerrDe00,2015,2,48,SDG,Denzel Perryman,No,ILB,LB,5,21,2016,0,0,1,5,5,21,,,,,,,,,,,,83,1,3,Miami (FL)
+2015Jordan Phillips,PhilJo01,2015,2,52,MIA,Jordan Phillips,No,NT,DT,3,23,2016,0,0,1,3,3,25,,,,,,,,,,,,21,1,2.5,Oklahoma
+2015Ameer Abdullah,AbduAm00,2015,2,54,DET,Ameer Abdullah,No,RB,RB,5,22,2016,0,0,1,5,5,19,,,,,,161,698,2,30,240,2,,,,Nebraska
+2015Senquez Golson,GolsSe00,2015,2,56,PIT,Senquez Golson,No,CB,DB,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi
+2015Markus Golden,GoldMa00,2015,2,58,ARI,Markus Golden,No,DE,DE,4,24,2016,0,0,0,4,4,25,,,,,,,,,,,,45,,10,Missouri
+2015A.J. Cann,CannA.00,2015,3,67,JAX,A.J. Cann,No,G,G,0,23,2016,0,0,2,6,6,24,,,,,,,,,,,,,,,South Carolina
+2015Tyler Lockett,LockTy00,2015,3,69,SEA,Tyler Lockett,No,WR,WR,9,23,2016,1,1,0,9,9,26,,,,,,7,35,0,74,989,6,,,,Kansas St.
+2015Jamon Brown,BrowJa04,2015,3,72,STL,Jamon Brown,No,T,T,3,22,2016,0,0,0,3,3,14,,,,,,,,,,,,,,,Louisville
+2015Owamagbe Odighizuwa,OdigOw00,2015,3,74,NYG,Owamagbe Odighizuwa,No,DE,DE,0,23,2016,0,0,0,0,0,14,,,,,,,,,,,,3,,,UCLA
+2015Alex Carter,CartAl01,2015,3,80,DET,Alex Carter,No,CB,DB,0,20,,0,0,0,,,,,,,,,,,,,,,,,,Stanford
+2015Lorenzo Mauldin,MaulLo00,2015,3,82,NYJ,Lorenzo Mauldin,No,OLB,LB,2,22,2016,0,0,0,2,2,25,,,,,,,,,,,,13,1,6.5,Louisville
+2015Steven Nelson,NelsSt01,2015,3,98,KAN,Steven Nelson,No,CB,DB,1,22,2016,0,0,0,1,1,22,,,,,,,,,,,,39,,,Oregon St.
+2015Paul Dawson,DawsPa00,2015,3,99,CIN,Paul Dawson,No,ILB,LB,1,22,2015,0,0,0,1,1,11,,,,,,,,,,,,3,,,TCU
+2015Bryce Petty,PettBr01,2015,4,103,NYJ,Bryce Petty,No,QB,QB,0,24,2016,0,0,0,0,0,2,21,34,182,1,1,,,,,,,,,,Baylor
+2015Tre' Jackson,JackTr00,2015,4,111,NWE,Tre' Jackson,No,G,G,6,22,2015,0,0,1,6,6,13,,,,,,,,,,,,,,,Florida St.
+2015Ramik Wilson,WilsRa00,2015,4,118,KAN,Ramik Wilson,No,ILB,LB,2,23,2016,0,0,0,2,2,16,,,,,,,,,,,,35,1,,Georgia
+2015Za'Darius Smith,SmitZa00,2015,4,122,BAL,Za'Darius Smith,No,DE,DE,2,23,2016,0,0,0,2,2,25,,,,,,,,,,,,29,,6.5,Kentucky
+2015Jon Feliciano,FeliJo00,2015,4,128,OAK,Jon Feliciano,No,G,G,2,23,2016,0,0,0,2,2,16,,,,,,,,,,,,,,,Miami (FL)
+2015Max Garcia,GarcMa00,2015,4,133,DEN,Max Garcia,No,C,C,3,23,2016,0,0,1,3,3,25,,,,,,,,,,,,,,,Florida
+2015Mark Glowinski,GlowMa00,2015,4,134,SEA,Mark Glowinski,No,G,G,1,23,2016,0,0,1,1,1,19,,,,,,,,,,,,,,,West Virginia
+2015Marcus Hardison,HardMa00,2015,4,135,CIN,Marcus Hardison,No,DE,DE,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Arizona St.
+2015Martrell Spaight,SpaiMa00,2015,5,141,WAS,Martrell Spaight,No,OLB,LB,0,22,2016,0,0,0,0,0,10,,,,,,,,,,,,,1,,Arkansas
+2015Jay Ajayi,AjayJa00,2015,5,149,MIA,Jay Ajayi,No,RB,RB,2,22,2016,0,0,0,2,2,18,,,,,,193,989,7,22,166,0,,,,Boise St.
+2015Jarvis Harrison,HarrJa02,2015,5,152,NYJ,Jarvis Harrison,No,G,G,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Texas A&M
+2015Tye Smith,SmitTy01,2015,5,170,SEA,Tye Smith,No,CB,DB,0,22,2015,0,0,0,0,0,4,,,,,,,,,,,,,,,Towson
+2015Robert Myers,MyerRo01,2015,5,176,BAL,Robert Myers,No,G,G,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee St.
+2015Matthew Wells,WellMa00,2015,6,178,NWE,Matthew Wells,No,LB,LB,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Mississippi St.
+2015Kyshoen Jarrett,JarrKy00,2015,6,181,WAS,Kyshoen Jarrett,No,SS,DB,2,22,2015,0,0,0,2,2,16,,,,,,,,,,,,38,,,Virginia Tech
+2015JaCorey Shepherd,ShepJa00,2015,6,191,PHI,JaCorey Shepherd,No,CB,DB,0,,2016,0,0,0,0,,4,,,,,,,,,,,,,,,Kansas
+2015Nick O'Leary,OLeaNi00,2015,6,194,BUF,Nick O'Leary,No,TE,TE,0,23,2016,0,0,0,0,0,14,,,,,,,,,8,131,0,,,,Florida St.
+2015Randall Evans,EvanRa00,2015,6,196,PHI,Randall Evans,No,CB,DB,0,23,2015,0,0,0,0,0,1,,,,,,,,,,,,,,,Kansas St.
+2015Darren Waller,WallDa01,2015,6,204,BAL,Darren Waller,No,WR,WR,0,23,2016,0,0,0,0,0,12,,,,,,,,,6,49,1,,,,Georgia Tech
+2015Kristjan Sokoli,SokoKr00,2015,6,214,SEA,Kristjan Sokoli,No,DT,DT,0,24,2015,0,0,0,0,0,1,,,,,,,,,,,,,,,Buffalo
+2015Andre Debose,DeboAn00,2015,7,221,OAK,Andre Debose,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Florida
+2015Deon Simon,SimoDe00,2015,7,223,NYJ,Deon Simon,No,NT,DT,0,25,2016,0,0,0,0,0,10,,,,,,,,,,,,3,,,NW State (LA)
+2015Jake Rodgers,RodgJa02,2015,7,225,ATL,Jake Rodgers,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,East. Washington
+2015Martin Ifedi,IfedMa00,2015,7,227,STL,Martin Ifedi,No,DE,DE,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Memphis
+2015Ben Koyack,KoyaBe00,2015,7,229,JAX,Ben Koyack,No,TE,TE,0,22,2016,0,0,0,0,0,8,,,,,,,,,8,76,0,,,,Notre Dame
+2015Dezmin Lewis,LewiDe02,2015,7,234,BUF,Dezmin Lewis,No,WR,WR,0,22,2015,0,0,0,0,0,1,,,,,,,,,,,,,,,Central Arkansas
+2015Brian Mihalik,MihaBr00,2015,7,237,PHI,Brian Mihalik,No,DE,DE,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Boston Col.
+2015Darryl Roberts,RobeDa00,2015,7,247,NWE,Darryl Roberts,No,CB,DB,0,24,2016,0,0,0,0,,6,,,,,,,,,,,,10,,,Marshall
+2015Ryan Murphy,MurpRy00,2015,7,248,SEA,Ryan Murphy,No,DB,DB,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Oregon St.
+2015Denzell Goode,GoodDe01,2015,7,255,IND,Denzell Goode,No,T,T,2,24,2016,0,0,0,2,2,15,,,,,,,,,,,,,,,Mars Hill
+2014Jadeveon Clowney,ClowJa00,2014,1,1,HOU,Jadeveon Clowney,No,DE,DE,6,21,2016,0,0,2,6,6,27,,,,,,,,,,,,65,,7.5,South Carolina
+2014Jake Matthews,MattJa00,2014,1,6,ATL,Jake Matthews,No,T,T,16,22,2016,0,0,3,16,16,41,,,,,,,,,,,,1,,,Texas A&M
+2014Anthony Barr,BarrAn00,2014,1,9,MIN,Anthony Barr,No,LB,LB,16,22,2016,0,1,3,16,16,37,,,,,,,,,,,,138,1,9.5,UCLA
+2014Taylor Lewan,LewaTa00,2014,1,11,TEN,Taylor Lewan,No,T,T,10,23,2016,0,0,2,10,10,37,,,,,,,,,1,10,1,,,,Michigan
+2014Aaron Donald,DonaAa00,2014,1,13,STL,Aaron Donald,No,DT,DT,31,23,2016,1,2,3,30,30,42,,,,,,,,,,,,105,,25,Pittsburgh
+2014Calvin Pryor,PryoCa00,2014,1,18,NYJ,Calvin Pryor,No,DB,DB,10,22,2016,0,0,3,10,10,39,,,,,,,,,,,,118,2,0.5,Louisville
+2014Ja'Wuan James,JameJa01,2014,1,19,MIA,Ja'Wuan James,No,T,T,12,22,2016,0,0,2,12,12,33,,,,,,,,,,,,1,,,Tennessee
+2014Deone Bucannon,BucaDe00,2014,1,27,ARI,Deone Bucannon,No,DB,DB,9,22,2016,0,0,2,9,9,42,,,,,,,,,,,,209,1,5,Washington St.
+2014Jimmie Ward,WardJi01,2014,1,30,SFO,Jimmie Ward,No,DB,DB,4,23,2016,0,0,0,4,4,31,,,,,,,,,,,,92,1,1,Northern Illinois
+2014Ra'Shede Hageman,HageRa00,2014,2,37,ATL,Ra'Shede Hageman,No,DT,DT,6,24,2016,0,0,1,6,6,39,,,,,,,,,,,,34,,2,Minnesota
+2014Bishop Sankey,SankBi00,2014,2,54,TEN,Bishop Sankey,No,RB,RB,6,22,2015,0,0,1,6,6,29,,,,,,199,762,3,32,272,1,1,,,Washington
+2014Cody Latimer,LatiCo00,2014,2,56,DEN,Cody Latimer,No,WR,WR,0,21,2016,0,0,0,0,0,29,,,,,,2,1,0,11,104,1,,,,Indiana
+2014Stanley Jean-Baptiste,JeanSt00,2014,2,58,NOR,Stanley Jean-Baptiste,No,DB,DB,0,24,2014,0,0,0,0,0,4,,,,,,,,,,,,,,,Nebraska
+2014Jarvis Landry,LandJa00,2014,2,63,MIA,Jarvis Landry,No,WR,WR,16,21,2016,0,1,3,16,16,42,1,2,9,0,0,23,127,1,254,2601,11,4,,,LSU
+2014C.J. Fiedorowicz,FiedC.00,2014,3,65,HOU,C.J. Fiedorowicz,No,TE,TE,0,22,2016,0,0,3,1,1,41,,,,,,,,,56,582,5,1,,,Iowa
+2014Dezmen Southward,SoutDe00,2014,3,68,ATL,Dezmen Southward,No,DB,DB,1,23,2015,0,0,0,1,1,19,,,,,,,,,,,,17,1,1,Wisconsin
+2014Charles Sims,SimsCh00,2014,3,69,TAM,Charles Sims,No,RB,RB,10,24,2016,0,0,0,10,10,28,,,,,,214,830,2,84,863,5,1,,,West Virginia
+2014Jay Bromley,BromJa00,2014,3,74,NYG,Jay Bromley,No,DT,DT,3,22,2016,0,0,0,3,3,34,,,,,,,,,,,,28,,1,Syracuse
+2014Travis Swanson,SwanTr00,2014,3,76,DET,Travis Swanson,No,C,C,10,23,2016,0,0,2,10,10,41,,,,,,,,,,,,1,,,Arkansas
+2014Dexter McDougle,McDoDe00,2014,3,80,NYJ,Dexter McDougle,No,DB,DB,1,23,2016,0,0,0,1,1,15,,,,,,,,,,,,1,,,Maryland
+2014Brandon Linder,LindBr00,2014,3,93,JAX,Brandon Linder,No,OL,C,6,22,2016,0,0,1,6,6,27,,,,,,,,,,,,,,,Miami (FL)
+2014Jaylen Watkins,WatkJa01,2014,4,101,PHI,Jaylen Watkins,No,DB,DB,0,21,2016,0,0,0,0,0,18,,,,,,,,,,,,14,,,Florida
+2014Devonta Freeman,FreeDe00,2014,4,103,ATL,Devonta Freeman,No,RB,RB,15,22,2016,0,1,2,15,15,41,,,,,,475,1973,15,134,1055,6,3,,,Florida St.
+2014Bryan Stork,StorBr00,2014,4,105,NWE,Bryan Stork,No,C,C,11,23,2015,0,0,1,11,11,21,,,,,,,,,,,,,,,Florida St.
+2014Bruce Ellington,ElliBr00,2014,4,106,SFO,Bruce Ellington,No,WR,WR,2,23,2015,0,0,0,2,2,26,,,,,,7,35,1,19,215,2,1,,,South Carolina
+2014Russell Bodine,BodiRu00,2014,4,111,CIN,Russell Bodine,No,C,C,15,22,2016,0,0,3,15,15,42,,,,,,,,,,,,,,,North Carolina
+2014Aaron Colvin,ColvAa00,2014,4,114,JAX,Aaron Colvin,No,DB,DB,6,22,2016,0,0,1,6,6,28,,,,,,,,,,,,100,,5,Oklahoma
+2014Shaquelle Evans,EvanSh00,2014,4,115,NYJ,Shaquelle Evans,No,WR,WR,0,23,,0,0,0,,,,,,,,,,,,,,,,,,UCLA
+2014Tre Boston,BostTr00,2014,4,128,CAR,Tre Boston,No,DB,DB,4,22,2016,0,0,0,4,4,37,,,,,,,,,,,,60,2,2,North Carolina
+2014Larry Webster,WebsLa00,2014,4,136,DET,Larry Webster,No,DE,DE,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Bloomsburg
+2014Prince Shembo,ShemPr00,2014,4,139,ATL,Prince Shembo,No,LB,LB,2,22,2014,0,0,0,2,2,16,,,,,,,,,,,,32,,,Notre Dame
+2014Taylor Hart,HartTa00,2014,5,141,PHI,Taylor Hart,No,DE,DE,1,23,2016,0,0,0,1,1,15,,,,,,,,,,,,13,,,Oregon
+2014Arthur Lynch,LyncAr00,2014,5,155,MIA,Arthur Lynch,No,TE,TE,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Georgia
+2014Ed Stinson,StinEd00,2014,5,160,ARI,Ed Stinson,No,DE,DE,4,24,2016,0,0,0,4,4,29,,,,,,,,,,,,22,,1,Alabama
+2014A.J. McCarron,McCaA.00,2014,5,164,CIN,A.J. McCarron,No,QB,QB,0,24,2016,0,0,0,3,3,8,79,119,854,6,2,14,31,0,,,,,,,Alabama
+2014Vinnie Sunseri,SunsVi00,2014,5,167,NOR,Vinnie Sunseri,No,DB,DB,0,22,2014,0,0,0,0,0,9,,,,,,,,,,,,3,,,Alabama
+2014Jordan Tripp,TripJo00,2014,5,171,MIA,Jordan Tripp,No,LB,LB,2,23,2016,0,0,0,2,1,31,,,,,,,,,,,,7,,,Montana
+2014Devon Kennard,KennDe00,2014,5,174,NYG,Devon Kennard,No,DE,DE,8,23,2016,0,0,1,8,8,31,,,,,,,,,,,,95,1,4.5,USC
+2014Kenneth Acker,AckeKe00,2014,6,180,SFO,Kenneth Acker,No,DB,DB,5,22,2016,0,0,1,5,5,21,,,,,,,,,,,,63,3,,SMU
+2014Antone Exum,ExumAn00,2014,6,182,MIN,Antone Exum,No,DB,DB,3,23,2015,0,0,0,3,3,26,,,,,,,,,,,,14,,,Virginia Tech
+2014T.J. Jones,JoneT.00,2014,6,189,DET,T.J. Jones,No,WR,WR,0,22,2015,0,0,0,1,1,10,,,,,,1,-3,0,10,132,1,,,,Notre Dame
+2014Matt Hazel,HazeMa01,2014,6,190,MIA,Matt Hazel,No,WR,WR,0,22,2015,0,0,0,0,0,5,,,,,,,,,0,0,0,,,,Coastal Carolina
+2014Jemea Thomas,ThomJe03,2014,6,206,NWE,Jemea Thomas,No,DB,DB,0,24,2014,0,0,0,0,,2,,,,,,,,,,,,,,,Georgia Tech
+2014Jay Prosch,ProsJa00,2014,6,211,HOU,Jay Prosch,No,FB,FB,0,22,2016,0,0,0,0,0,42,,,,,,9,37,0,2,30,0,1,,,Auburn
+2014Michael Campanaro,CampMi02,2014,7,218,BAL,Michael Campanaro,No,WR,WR,1,23,2015,0,0,0,1,1,8,,,,,,2,17,1,12,137,1,,,,Wake Forest
+2014Storm Johnson,JohnSt03,2014,7,222,JAX,Storm Johnson,No,RB,RB,0,22,2014,0,0,0,0,0,6,,,,,,29,86,2,1,-4,0,,,,Central Florida
+2014Brandon Watts,WattBr00,2014,7,223,MIN,Brandon Watts,No,LB,LB,0,23,2015,0,0,0,0,0,9,,,,,,,,,,,,3,,,Georgia Tech
+2014Rob Blanchflower,BlanRo01,2014,7,230,PIT,Rob Blanchflower,No,TE,TE,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Massachusetts
+2014Terrence Fede,FedeTe00,2014,7,234,MIA,Terrence Fede,No,DE,DE,2,22,2016,0,0,0,2,2,29,,,,,,,,,,,,19,,1,Marist
+2014James Wright,WrigJa03,2014,7,239,CIN,James Wright,No,WR,WR,1,22,2016,0,0,0,1,1,19,,,,,,5,24,0,11,141,0,6,,,LSU
+2014Jeremy Gallon,GallJe00,2014,7,244,NWE,Jeremy Gallon,No,WR,WR,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Michigan
+2014Jonathan Dowling,DowlJo00,2014,7,247,OAK,Jonathan Dowling,No,DB,DB,0,22,2014,0,0,0,0,0,7,,,,,,,,,,,,4,,,West. Kentucky
+2014Lavelle Westbrooks,WestLa00,2014,7,252,CIN,Lavelle Westbrooks,No,DB,DB,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Georgia Southern
+2014Yawin Smallwood,SmalYa00,2014,7,253,ATL,Yawin Smallwood,No,LB,LB,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Connecticut
+2014Tyler Starr,StarTy00,2014,7,255,ATL,Tyler Starr,No,LB,LB,0,23,2015,0,0,0,0,0,1,,,,,,,,,,,,,,,South Dakota
+2013Jonathan Cooper,CoopJo01,2013,1,7,ARI,Jonathan Cooper,No,G,G,6,23,2016,0,0,1,6,6,26,,,,,,,,,,,,,,,North Carolina
+2013Kyle Long,LongKy00,2013,1,20,CHI,Kyle Long,No,G,G,32,24,2016,0,3,3,30,30,55,,,,,,,,,1,-1,0,4,,,Oregon
+2013Datone Jones,JoneDa03,2013,1,26,GNB,Datone Jones,No,DE,DE,7,23,2016,0,0,0,7,7,53,,,,,,,,,,,,46,1,8,UCLA
+2013Manti Te'o,TeoxMa00,2013,2,38,SDG,Manti Te'o,No,LB,LB,14,22,2016,0,0,2,13,13,38,,,,,,,,,,,,160,2,1.5,Notre Dame
+2013Kiko Alonso,AlonKi00,2013,2,46,BUF,Kiko Alonso,No,LB,LB,11,23,2016,0,0,2,11,9,37,,,,,,,,,,,,166,6,2,Oregon
+2013Margus Hunt,HuntMa00,2013,2,53,CIN,Margus Hunt,No,DE,DE,3,26,2016,0,0,0,3,3,38,,,,,,,,,,,,13,,1.5,SMU
+2013Jamar Taylor,TaylJa01,2013,2,54,MIA,Jamar Taylor,No,DB,DB,4,23,2016,0,0,0,4,4,43,,,,,,,,,,,,101,2,,Boise St.
+2013Montee Ball,BallMo00,2013,2,58,DEN,Montee Ball,No,RB,RB,8,22,2014,0,0,0,8,8,21,,,,,,175,731,5,29,207,0,6,,,Wisconsin
+2013Robert Alford,AlfoRo00,2013,2,60,ATL,Robert Alford,No,DB,DB,12,24,2016,0,0,3,12,12,51,,,,,,,,,,,,131,9,,SE Louisiana
+2013Christine Michael,MichCh00,2013,2,62,SEA,Christine Michael,No,RB,RB,4,22,2016,0,0,0,4,4,31,,,,,,223,966,6,24,124,1,,,,Texas A&M
+2013Dwayne Gratz,GratDw00,2013,3,64,JAX,Dwayne Gratz,No,DB,DB,10,23,2016,0,0,2,10,10,43,,,,,,,,,,,,91,3,,Connecticut
+2013Larry Warford,WarfLa00,2013,3,65,DET,Larry Warford,No,G,G,20,22,2016,0,0,4,19,19,52,,,,,,,,,,,,3,,,Kentucky
+2013T.J. McDonald,McDoTJ00,2013,3,71,STL,T.J. McDonald,No,DB,DB,15,22,2016,0,0,4,14,14,47,,,,,,,,,,,,194,3,5,USC
+2013Corey Lemonier,LemoCo00,2013,3,88,SFO,Corey Lemonier,No,DE,DE,3,21,2016,0,0,0,3,3,48,,,,,,,,,,,,34,,2,Auburn
+2013Alex Okafor,OkafAl00,2013,4,103,ARI,Alex Okafor,No,DE,DE,14,22,2016,0,0,2,14,14,36,,,,,,,,,,,,63,1,12.5,Texas
+2013Shamarko Thomas,ThomSh00,2013,4,111,PIT,Shamarko Thomas,No,DB,DB,3,22,2016,0,0,0,3,3,47,,,,,,,,,,,,30,,,Syracuse
+2013Khaseem Greene,GreeKh00,2013,4,117,CHI,Khaseem Greene,No,LB,LB,3,24,2014,0,0,0,3,3,25,,,,,,,,,,,,33,1,,Rutgers
+2013Khaled Holmes,HolmKh00,2013,4,121,IND,Khaled Holmes,No,C,C,4,23,2015,0,0,0,4,4,17,,,,,,,,,,,,,,,USC
+2013Quinton Patton,PattQu00,2013,4,128,SFO,Quinton Patton,No,WR,WR,4,23,2016,0,0,1,4,4,36,,,,,,3,51,0,66,834,1,,,,Louisiana Tech
+2013John Simon,SimoJo01,2013,4,129,BAL,John Simon,No,DE,DE,7,22,2016,0,0,0,7,1,44,,,,,,,,,,,,79,,10,Ohio St.
+2013Marcus Lattimore,LattMa00,2013,4,131,SFO,Marcus Lattimore,No,RB,RB,0,21,,0,0,0,,,,,,,,,,,,,,,,,,South Carolina
+2013Sanders Commings,CommSa00,2013,5,134,KAN,Sanders Commings,No,DB,DB,0,23,2013,0,0,0,0,0,2,,,,,,,,,,,,1,,,Georgia
+2013Lavar Edwards,EdwaLa00,2013,5,142,TEN,Lavar Edwards,No,DE,DE,1,23,2016,0,0,0,1,1,22,,,,,,,,,,,,14,,2,LSU
+2013Kenny Stills,StilKe00,2013,5,144,NOR,Kenny Stills,No,WR,WR,17,21,2016,0,0,3,16,14,57,,,,,,4,8,0,145,2420,15,2,,,Oklahoma
+2013Steven Means,MeanSt00,2013,5,147,TAM,Steven Means,No,DE,DE,1,23,2016,0,0,0,1,1,18,,,,,,,,,,,,5,,1,Buffalo
+2013Brandon McGee,McGeBr00,2013,5,149,STL,Brandon McGee,No,DB,DB,1,22,2015,0,0,0,1,1,18,,,,,,,,,,,,14,,,Miami (FL)
+2013Terry Hawthorne,HawtTe00,2013,5,150,PIT,Terry Hawthorne,No,DB,DB,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Illinois
+2013Stansly Maponga,MapoSt00,2013,5,153,ATL,Stansly Maponga,No,DE,DE,2,22,2015,0,0,0,2,2,26,,,,,,,,,,,,4,,1,TCU
+2013Jordan Mills,MillJo02,2013,5,163,CHI,Jordan Mills,No,T,T,18,22,2016,0,0,3,17,15,49,,,,,,,,,,,,1,,,Louisiana Tech
+2013Ricky Wagner,WagnRi00,2013,5,168,BAL,Ricky Wagner,No,T,T,17,23,2016,0,0,2,16,16,57,,,,,,,,,,,,,,,Wisconsin
+2013Jamoris Slaughter,SlauJa00,2013,6,175,CLE,Jamoris Slaughter,No,DB,DB,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Notre Dame
+2013David Quessenberry,QuesDa00,2013,6,176,HOU,David Quessenberry,No,OL,T,0,23,,0,0,0,,,,,,,,,,,,,,,,,,San Jose St.
+2013Tourek Williams,WillTo00,2013,6,179,SDG,Tourek Williams,No,DE,DE,4,22,2016,0,0,0,4,4,41,,,,,,,,,0,0,0,30,,2,Florida International
+2013Nick Moody,MoodNi00,2013,6,180,SFO,Nick Moody,No,LB,LB,2,23,2015,0,0,0,2,2,23,,,,,,,,,,,,19,,,Florida St.
+2013DeVonte Holloman,HollDe01,2013,6,185,DAL,DeVonte Holloman,No,LB,LB,1,22,2013,0,0,0,1,1,9,,,,,,,,,,,,14,,2,South Carolina
+2013Andre Ellington,ElliAn00,2013,6,187,ARI,Andre Ellington,No,RB,RB,15,24,2016,0,0,1,14,14,47,,,,,,386,1674,9,106,953,3,2,,,Clemson
+2013Cornelius Washington,WashCo00,2013,6,188,CHI,Cornelius Washington,No,LB,LB,1,24,2016,0,0,0,1,1,25,,,,,,,,,,,,13,,3,Georgia
+2013Mike James,JameMi00,2013,6,189,TAM,Mike James,No,RB,RB,2,22,2016,0,0,0,2,2,22,1,1,2,1,0,83,351,0,15,60,0,,,,Miami (FL)
+2013Bacarri Rambo,RambBa00,2013,6,191,WAS,Bacarri Rambo,No,DB,DB,6,23,2016,0,0,1,6,1,35,,,,,,,,,,,,81,3,2,Georgia
+2013Vince Williams,WillVi01,2013,6,206,PIT,Vince Williams,No,LB,LB,9,23,2016,0,0,1,9,9,58,,,,,,,,,,,,126,,2.5,Florida St.
+2013Michael Williams,WillMi06,2013,7,211,DET,Michael Williams,No,TE,TE,0,23,2015,0,0,0,0,,15,,,,,,,,,3,26,0,,,,Alabama
+2013Armonty Bryant,BryaAr00,2013,7,217,CLE,Armonty Bryant,No,DE,DE,3,23,2016,0,0,0,3,3,35,,,,,,,,,,,,45,,11.5,East Central (OK)
+2013Kerwynn Williams,WillKe05,2013,7,230,IND,Kerwynn Williams,No,RB,RB,2,22,2016,0,0,0,2,0,17,,,,,,80,388,1,4,27,0,,,,Utah St.
+2013Steve Beauharnais,BeauSt00,2013,7,235,NWE,Steve Beauharnais,No,LB,LB,0,23,2014,0,0,0,0,0,5,,,,,,,,,,,,2,,,Rutgers
+2013B.J. Daniels,DaniB.00,2013,7,237,SFO,B.J. Daniels,No,QB,QB,0,23,2015,0,0,0,0,,8,1,2,7,0,0,6,6,0,2,18,0,,,,South Florida
+2013David King,KingDa00,2013,7,239,PHI,David King,No,DE,DE,0,23,2016,0,0,0,0,,9,,,,,,,,,,,,2,,1.5,Oklahoma
+2013Jared Smith,SmitJa02,2013,7,241,SEA,Jared Smith,No,DT,DT,0,23,,0,0,0,,,,,,,,,,,,,,,,,,New Hampshire
+2012Andrew Luck,LuckAn00,2012,1,1,IND,Andrew Luck,No,QB,QB,48,23,2016,0,3,4,45,45,65,1460,2481,17665,120,63,273,1347,13,,,,6,,,Stanford
+2012Dontari Poe,PoexDo00,2012,1,11,KAN,Dontari Poe,No,DT,DT,37,22,2016,0,2,5,35,35,72,,,,,,2,2,2,,,,147,,12,Memphis
+2012Kendall Wright,WrigKe01,2012,1,20,TEN,Kendall Wright,No,WR,WR,22,22,2016,0,0,3,21,21,63,,,,,,11,90,0,276,3204,18,4,,,Baylor
+2012Chandler Jones,JoneCh03,2012,1,21,NWE,Chandler Jones,No,DE,DE,33,22,2016,0,1,5,31,31,65,,,,,,,,,,,,160,1,44,Syracuse
+2012Brandon Weeden,WeedBr00,2012,1,22,CLE,Brandon Weeden,No,QB,QB,15,28,2015,0,0,1,14,11,34,559,965,6462,31,30,61,201,1,0,-9,0,,,,Oklahoma St.
+2012Riley Reiff,ReifRi00,2012,1,23,DET,Riley Reiff,No,T,T,28,23,2016,0,0,4,26,26,73,,,,,,,,,,,,2,,,Iowa
+2012David Wilson,WilsDa01,2012,1,32,NYG,David Wilson,No,RB,RB,5,21,2013,0,0,0,5,5,21,,,,,,115,504,5,6,42,1,1,,,Virginia Tech
+2012Brian Quick,QuicBr00,2012,2,33,STL,Brian Quick,No,WR,WR,8,23,2016,0,0,0,8,8,61,,,,,,,,,93,1377,10,2,,,Appalachian St.
+2012Coby Fleener,FleeCo00,2012,2,34,IND,Coby Fleener,No,TE,TE,19,24,2016,0,0,4,18,18,70,,,,,,1,2,1,216,2556,20,5,1,,Stanford
+2012Andre Branch,BranAn00,2012,2,38,JAX,Andre Branch,No,LB,LB,10,23,2016,0,0,0,10,10,61,,,,,,,,,,,,81,,17.5,Clemson
+2012Tavon Wilson,WilsTa00,2012,2,48,NWE,Tavon Wilson,No,DB,DB,6,22,2016,0,0,1,6,6,64,,,,,,,,,,,,106,6,,Illinois
+2012Kelechi Osemele,OsemKe00,2012,2,60,BAL,Kelechi Osemele,No,T,T,23,23,2016,0,0,4,22,22,61,,,,,,,,,,,,,,,Iowa St.
+2012Bryan Anger,AngeBr00,2012,3,70,JAX,Bryan Anger,No,P,P,12,23,2016,0,0,0,11,11,74,1,1,19,0,0,1,0,0,,,,1,,,California
+2012Brandon Taylor,TaylBr02,2012,3,73,SDG,Brandon Taylor,No,DB,DB,1,22,2012,0,0,0,1,1,4,,,,,,,,,,,,3,,0.5,LSU
+2012Russell Wilson,WilsRu00,2012,3,75,SEA,Russell Wilson,No,QB,QB,70,23,2016,0,3,5,65,65,74,1344,2070,16688,117,36,450,2509,13,3,31,1,4,,,Wisconsin
+2012Jamell Fleming,FlemJa00,2012,3,80,ARI,Jamell Fleming,No,DB,DB,5,23,2015,0,0,0,5,2,46,,,,,,,,,,,,56,,,Oklahoma
+2012Sean Spence,SpenSe00,2012,3,86,PIT,Sean Spence,No,LB,LB,7,23,2016,0,0,1,7,7,42,,,,,,,,,,,,85,,3,Miami (FL)
+2012Kirk Cousins,CousKi00,2012,4,102,WAS,Kirk Cousins,No,QB,QB,16,24,2016,0,0,2,16,16,41,918,1387,10736,67,37,61,153,6,,,,,,,Michigan St.
+2012Joe Adams,AdamJo01,2012,4,104,CAR,Joe Adams,No,WR,WR,0,22,2012,0,0,0,0,0,9,,,,,,3,13,0,1,7,0,,,,Arkansas
+2012Alameda Ta'amu,Ta'aAl00,2012,4,109,PIT,Alameda Ta'amu,No,DT,DT,3,22,2014,0,0,0,3,0,21,,,,,,,,,,,,5,,,Washington
+2012Kyle Wilber,WilbKy00,2012,4,113,DAL,Kyle Wilber,No,LB,LB,10,23,2016,0,0,0,9,9,68,,,,,,,,,,,,63,,3.5,Wake Forest
+2012James-Michael Johnson,JohnJa04,2012,4,120,CLE,James-Michael Johnson,No,LB,LB,11,23,2015,0,0,2,11,4,47,,,,,,,,,,,,77,,1,Nevada
+2012Keshawn Martin,MartKe01,2012,4,121,HOU,Keshawn Martin,No,WR,WR,7,22,2016,0,0,1,7,4,58,,,,,,5,59,0,62,685,5,1,,,Michigan St.
+2012Nick Toon,ToonNi00,2012,4,122,NOR,Nick Toon,No,WR,WR,3,23,2015,0,0,0,3,3,17,,,,,,1,4,0,21,283,1,3,,,Wisconsin
+2012Ron Brooks,BrooRo01,2012,4,124,BUF,Ron Brooks,No,DB,DB,4,23,2016,0,0,0,4,4,52,,,,,,,,,,,,66,,,LSU
+2012Mike Daniels,DaniMi00,2012,4,132,GNB,Mike Daniels,No,DT,DT,20,23,2016,0,0,3,19,19,72,,,,,,,,,,,,101,1,20,Iowa
+2012Matt Johnson,JohnMa05,2012,4,135,DAL,Matt Johnson,No,DB,DB,0,23,2012,0,0,0,0,0,,,,,,,,,,,,,,,,East. Washington
+2012Chris Greenwood,GreeCh01,2012,5,148,DET,Chris Greenwood,No,DB,DB,0,23,2013,0,0,0,0,0,3,,,,,,,,,,,,6,,,Albion
+2012Bradie Ewing,EwinBr00,2012,5,157,ATL,Bradie Ewing,No,RB,RB,0,22,2013,0,0,0,0,0,2,,,,,,,,,2,29,0,,,,Wisconsin
+2012Ryan Miller,MillRy00,2012,5,160,CLE,Ryan Miller,No,G,G,0,23,2012,0,0,0,0,0,8,,,,,,,,,,,,,,,Colorado
+2012Marvin Jones,JoneMa02,2012,5,166,CIN,Marvin Jones,No,WR,WR,18,22,2016,0,0,2,17,17,54,,,,,,17,148,0,176,2459,19,5,,,California
+2012Winston Guy,GuyxWi00,2012,6,181,SEA,Winston Guy,No,DB,DB,3,22,2016,0,0,0,3,0,37,,,,,,,,,,,,35,,2,Kentucky
+2012B.J. Cunningham,CunnB.00,2012,6,183,MIA,B.J. Cunningham,No,WR,WR,0,23,2013,0,0,0,0,,2,,,,,,,,,,,,,,,Michigan St.
+2012Nick Mondek,MondNi00,2012,6,195,HOU,Nick Mondek,No,OL,T,0,23,2012,0,0,0,0,0,,,,,,,,,,,,,,,,Purdue
+2012Nate Ebner,EbneNa00,2012,6,197,NWE,Nate Ebner,No,DB,DB,4,23,2016,0,0,0,4,4,67,,,,,,,,,,,,11,,,Ohio St.
+2012LaVon Brazill,BrazLa00,2012,6,206,IND,LaVon Brazill,No,WR,WR,3,23,2013,0,0,0,3,3,25,,,,,,,,,23,347,3,5,,,Ohio
+2012Aaron Brown,BrowAa01,2012,7,209,STL,Aaron Brown,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Hawaii
+2012Kheeston Randall,RandKh00,2012,7,215,MIA,Kheeston Randall,No,DT,DT,1,23,2012,0,0,0,1,1,12,,,,,,,,,,,,6,,,Texas
+2012Trevor Guyton,GuytTr00,2012,7,219,MIN,Trevor Guyton,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,California
+2012Nate Potter,PottNa00,2012,7,221,ARI,Nate Potter,No,T,T,3,24,2013,0,0,0,3,3,21,,,,,,,,,,,,,,,Boise St.
+2012Caleb McSurdy,McSuCa00,2012,7,222,DAL,Caleb McSurdy,No,LB,LB,0,22,2012,0,0,0,0,0,,,,,,,,,,,,,,,,Montana
+2012J.R. Sweezy,SweeJ.00,2012,7,225,SEA,J.R. Sweezy,No,DT,DT,0,23,2015,0,0,3,25,25,59,,,,,,,,,,,,2,,,North Carolina St.
+2012David Molk,MolkDa00,2012,7,226,SDG,David Molk,No,C,C,3,23,2015,0,0,0,3,1,20,,,,,,,,,,,,,,,Michigan
+2012Bryce Brown,BrowBr02,2012,7,229,PHI,Bryce Brown,No,RB,RB,9,21,2015,0,0,0,8,6,42,,,,,,251,1076,7,37,316,0,1,,,Kansas St.
+2012Andrew Datko,DatkAn00,2012,7,241,GNB,Andrew Datko,No,OL,T,0,22,2012,0,0,0,0,0,,,,,,,,,,,,,,,,Florida St.
+2012Jordan White,WhitJo02,2012,7,244,NYJ,Jordan White,No,WR,WR,0,24,2012,0,0,0,0,0,3,,,,,,,,,1,13,0,,,,West. Michigan
+2012Travian Robertson,RobeTr00,2012,7,249,ATL,Travian Robertson,No,DT,DT,1,23,2014,0,0,0,1,1,14,,,,,,,,,,,,4,,,South Carolina
+2012John Potter,PottJo00,2012,7,251,BUF,John Potter,No,K,K,0,22,2013,0,0,0,0,0,9,,,,,,,,,,,,,,,West. Michigan
+2012Daryl Richardson,RichDa00,2012,7,252,STL,Daryl Richardson,No,RB,RB,7,22,2016,0,0,0,7,7,27,,,,,,169,697,0,38,284,0,,,,Abilene Christian
+2011Jake Locker,LockJa00,2011,1,8,TEN,Jake Locker,No,QB,QB,16,23,2014,0,0,1,15,15,30,408,709,4967,27,22,95,644,5,0,0,0,2,,,Washington
+2011Tyron Smith,SmitTy00,2011,1,9,DAL,Tyron Smith,No,T,T,54,20,2016,1,3,5,49,49,88,,,,,,,,,,,,3,,,USC
+2011Nick Fairley,FairNi00,2011,1,13,DET,Nick Fairley,No,DT,DT,19,23,2016,0,0,3,18,16,71,,,,,,,,,,,,99,,18.5,Auburn
+2011Robert Quinn,QuinRo00,2011,1,14,STL,Robert Quinn,No,DE,DE,41,21,2016,1,2,3,39,39,79,,,,,,,,,,,,153,,53,North Carolina
+2011Mike Pouncey,PounMi00,2011,1,15,MIA,Mike Pouncey,No,G,G,38,22,2016,0,3,5,34,34,77,,,,,,,,,,,,4,,,Florida
+2011Nate Solder,SoldNa00,2011,1,17,NWE,Nate Solder,No,T,T,40,23,2016,0,0,4,37,37,76,,,,,,,,,0,0,0,5,,,Colorado
+2011Prince Amukamara,AmukPr00,2011,1,19,NYG,Prince Amukamara,No,DB,DB,18,22,2016,0,0,4,17,17,63,,,,,,,,,,,,251,7,,Nebraska
+2011Adrian Clayborn,ClayAd00,2011,1,20,TAM,Adrian Clayborn,No,DE,DE,16,23,2016,0,0,2,15,13,62,,,,,,,,,,,,107,,20.5,Iowa
+2011Cameron Jordan,JordCa00,2011,1,24,NOR,Cameron Jordan,No,DE,DE,42,22,2016,0,2,6,38,38,90,,,,,,,,,,,,175,1,43,California
+2011Jimmy Smith,SmitJi03,2011,1,27,BAL,Jimmy Smith,No,DB,DB,20,23,2016,0,0,3,19,19,72,,,,,,,,,,,,193,8,1,Colorado
+2011Ryan Williams,WillRy00,2011,2,38,ARI,Ryan Williams,No,RB,RB,1,21,2012,0,0,0,1,1,5,,,,,,58,164,0,7,44,0,,,,Virginia Tech
+2011Rahim Moore,MoorRa00,2011,2,45,DEN,Rahim Moore,No,DB,DB,22,21,2015,0,0,3,20,18,64,,,,,,,,,,,,181,9,1,UCLA
+2011Marcus Gilchrist,GilcMa00,2011,2,50,SDG,Marcus Gilchrist,No,DB,DB,23,22,2016,0,0,4,21,14,88,,,,,,,,,,,,282,10,3,Clemson
+2011Da'Quan Bowers,BoweDa00,2011,2,51,TAM,Da'Quan Bowers,No,DE,DE,7,21,2015,0,0,0,7,7,53,,,,,,,,,,,,46,,7,Clemson
+2011Torrey Smith,SmitTo02,2011,2,58,BAL,Torrey Smith,No,WR,WR,35,22,2016,0,0,5,32,29,89,,,,,,7,48,0,263,4497,36,6,,,Maryland
+2011Brandon Harris,HarrBr00,2011,2,60,HOU,Brandon Harris,No,DB,DB,3,21,2014,0,0,0,3,2,42,,,,,,,,,,,,38,,,Miami (FL)
+2011Marcus Gilbert,GilbMa00,2011,2,63,PIT,Marcus Gilbert,No,T,T,31,23,2016,0,0,4,29,29,71,,,,,,,,,,,,4,,,Florida
+2011Randall Cobb,CobbRa00,2011,2,64,GNB,Randall Cobb,No,WR,WR,46,21,2016,0,1,2,43,43,77,0,1,0,0,0,50,335,0,354,4395,34,5,,,Kentucky
+2011Ryan Mallett,MallRy00,2011,3,74,NWE,Ryan Mallett,No,QB,QB,4,23,2016,0,0,0,4,0,17,179,324,1762,7,9,21,1,1,,,,,,,Arkansas
+2011Austin Pettis,PettAu00,2011,3,78,STL,Austin Pettis,No,WR,WR,8,23,2014,0,0,0,8,8,51,,,,,,1,-6,0,107,1034,9,5,,,Boise St.
+2011Leonard Hankerson,HankLe00,2011,3,79,WAS,Leonard Hankerson,No,WR,WR,12,22,2015,0,0,0,11,9,41,,,,,,2,5,0,107,1408,9,,,,Miami (FL)
+2011DeMarcus Van Dyke,VanDDe00,2011,3,81,OAK,DeMarcus Van Dyke,No,DB,DB,3,22,2013,0,0,0,3,2,25,,,,,,,,,,,,14,1,,Miami (FL)
+2011Jah Reid,ReidJa00,2011,3,85,BAL,Jah Reid,No,T,T,11,23,2016,0,0,1,11,6,54,,,,,,,,,,,,,,,Central Florida
+2011Curtis Marsh,MarsCu01,2011,3,90,PHI,Curtis Marsh,No,DB,DB,1,23,2013,0,0,0,1,1,26,,,,,,,,,,,,13,,,Utah St.
+2011Sione Fua,FuaxSi00,2011,3,97,CAR,Sione Fua,No,DT,DT,5,23,2014,0,0,1,5,4,40,,,,,,,,,,,,15,,,Stanford
+2011Da'Norris Searcy,SearDa00,2011,4,100,BUF,Da'Norris Searcy,No,DB,DB,19,22,2016,0,0,1,18,13,86,,,,,,,,,,,,213,6,4.5,North Carolina
+2011Luke Stocker,StocLu00,2011,4,104,TAM,Luke Stocker,No,TE,TE,3,23,2016,0,0,3,3,3,66,,,,,,,,,47,378,2,7,,,Tennessee
+2011David Arkin,ArkiDa00,2011,4,110,DAL,David Arkin,No,G,G,0,23,2014,0,0,0,0,0,2,,,,,,,,,,,,,,,Missouri State
+2011Chimdi Chekwa,ChekCh00,2011,4,113,OAK,Chimdi Chekwa,No,DB,DB,2,23,2016,0,0,0,2,2,35,,,,,,,,,1,22,0,46,,,Ohio St.
+2011James Brewer,BrewJa00,2011,4,117,NYG,James Brewer,No,T,T,4,23,2014,0,0,0,4,4,26,,,,,,,,,,,,,,,Indiana
+2011Alex Henery,HeneAl00,2011,4,120,PHI,Alex Henery,No,K,K,8,24,2014,0,0,0,8,9,50,,,,,,,,,,,,4,,,Nebraska
+2011Taiwan Jones,JoneTa00,2011,4,125,OAK,Taiwan Jones,No,RB,RB,3,23,2016,0,0,0,3,3,60,,,,,,44,183,0,15,214,1,29,,,East. Washington
+2011Julius Thomas,ThomJu00,2011,4,129,DEN,Julius Thomas,No,TE,TE,17,23,2016,0,2,3,16,13,57,,,,,,,,,185,2018,33,5,,,Portland St.
+2011Anthony Sherman,SherAn00,2011,5,136,ARI,Anthony Sherman,No,RB,RB,4,22,2016,0,0,1,4,1,86,,,,,,6,14,0,48,380,2,37,,,Connecticut
+2011Brandon Burton,BurtBr00,2011,5,139,MIN,Brandon Burton,No,DB,DB,1,22,2013,0,0,0,1,1,23,,,,,,,,,,,,11,,,Southern Utah
+2011Karl Klug,KlugKa00,2011,5,142,TEN,Karl Klug,No,DT,DT,11,23,2016,0,0,0,10,10,91,,,,,,,,,1,9,0,72,,20,Iowa
+2011Ahmad Black,BlacAh00,2011,5,151,TAM,Ahmad Black,No,DB,DB,3,21,2013,0,0,0,3,3,24,,,,,,,,,,,,41,2,,Florida
+2011Richard Sherman,SherRi00,2011,5,154,SEA,Richard Sherman,No,DB,DB,72,23,2016,3,3,6,66,66,90,,,,,,,,,,,,248,30,1,Stanford
+2011Niles Paul,PaulNi00,2011,5,155,WAS,Niles Paul,No,WR,WR,5,22,2016,0,0,0,5,5,68,,,,,,2,6,0,55,762,2,21,,,Nebraska
+2011Jermale Hines,HineJe00,2011,5,158,STL,Jermale Hines,No,DB,DB,0,23,2011,0,0,0,0,,10,,,,,,,,,,,,3,,,Ohio St.
+2011Nathan Enderle,EndeNa00,2011,5,160,CHI,Nathan Enderle,No,QB,QB,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Idaho
+2011Julian Vandervelde,VandJu00,2011,5,161,PHI,Julian Vandervelde,No,G,G,1,23,2015,0,0,0,1,1,17,,,,,,,,,,,,,,,Iowa
+2011Chris Carter,CartCh00,2011,5,162,PIT,Chris Carter,No,LB,LB,5,22,2016,0,0,0,5,4,58,,,,,,,,,,,,16,,,Fresno St.
+2011Pernell McPhee,McPhPe00,2011,5,165,BAL,Pernell McPhee,No,DE,DE,16,22,2016,0,0,1,15,9,78,,,,,,,,,,,,110,1,25,Mississippi St.
+2011Quan Sturdivant,SturQu00,2011,6,171,ARI,Quan Sturdivant,No,LB,LB,0,22,2012,0,0,0,0,,,,,,,,,,,,,,,,,North Carolina
+2011Caleb Schlauderaff,SchlCa00,2011,6,179,GNB,Caleb Schlauderaff,No,G,G,1,23,2013,0,0,0,1,,12,,,,,,,,,,,,,,,Southern Utah
+2011Ronald Johnson,JohnRo05,2011,6,182,SFO,Ronald Johnson,No,WR,WR,0,23,2012,0,0,0,0,,,,,,,,,,,,,,,,,USC
+2011Jordan Todman,TodmJo00,2011,6,183,SDG,Jordan Todman,No,RB,RB,4,21,2016,0,0,0,4,0,56,,,,,,118,509,3,40,314,2,10,,,Connecticut
+2011Brian Rolle,RollBr00,2011,6,193,PHI,Brian Rolle,No,LB,LB,6,22,2012,0,0,1,6,6,20,,,,,,,,,,,,45,,1,Ohio St.
+2011Andrew Jackson,JackAn00,2011,7,210,ATL,Andrew Jackson,No,OL,G,0,22,2012,0,0,0,0,,,,,,,,,,,,,,,,,Fresno St.
+2011Mikail Baker,BakeMi00,2011,7,216,STL,Mikail Baker,No,DB,DB,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Baylor
+2011Anthony Allen,AlleAn01,2011,7,225,BAL,Anthony Allen,No,RB,RB,1,23,2012,0,0,0,1,1,21,,,,,,19,69,1,2,12,0,9,,,Georgia Tech
+2011Scotty McKnight,McKnSc00,2011,7,227,NYJ,Scotty McKnight,No,WR,WR,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+2011Andrew Gachkar,GachAn00,2011,7,234,SDG,Andrew Gachkar,No,LB,LB,9,22,2016,0,0,0,8,8,90,,,,,,,,,,,,98,,2,Missouri
+2011Michael Jasper,JaspMi00,2011,7,245,BUF,Michael Jasper,No,DT,DT,0,24,,0,0,0,,,,,,,,,,,,,,,,,,
+2011Curtis Holcomb,HolcCu00,2011,7,250,SFO,Curtis Holcomb,No,DB,DB,0,23,2012,0,0,0,0,,,,,,,,,,,,,,,,,Florida A&M
+2010Trent Williams,WillTr21,2010,1,4,WAS,Trent Williams,No,T,T,42,22,2016,0,4,6,50,50,93,,,,,,,,,,,,8,,,Oklahoma
+2010Eric Berry,BerrEr99,2010,1,5,KAN,Eric Berry,No,DB,DB,30,21,2016,2,4,5,38,38,80,,,,,,,,,,,,343,12,5.5,Tennessee
+2010Derrick Morgan,MorgDe99,2010,1,16,TEN,Derrick Morgan,No,DE,DE,24,21,2016,0,0,6,26,26,86,,,,,,,,,,,,165,,35.5,Georgia Tech
+2010Demaryius Thomas,ThomDe03,2010,1,22,DEN,Demaryius Thomas,No,WR,WR,49,22,2016,0,3,5,53,53,95,0,1,0,0,0,3,6,0,511,7299,52,6,,,Georgia Tech
+2010Bryan Bulaga,BulaBr20,2010,1,23,GNB,Bryan Bulaga,No,T,T,31,21,2016,0,0,6,34,34,74,,,,,,,,,,,,2,,,Iowa
+2010Arrelious Benn,BennAr00,2010,2,39,TAM,Arrelious Benn,No,WR,WR,7,22,2016,0,0,2,7,7,47,,,,,,15,44,0,64,978,6,5,,,Illinois
+2010Torell Troup,TrouTo00,2010,2,41,BUF,Torell Troup,No,DT,DT,3,21,2012,0,0,0,3,3,21,,,,,,,,,,,,17,,,Central Florida
+2010Rob Gronkowski,GronRo00,2010,2,42,NWE,Rob Gronkowski,No,TE,TE,46,21,2016,3,4,5,52,52,87,,,,,,1,2,1,405,6095,68,2,,,Arizona
+2010Jared Veldheer,VeldJa20,2010,3,69,OAK,Jared Veldheer,No,T,T,30,23,2016,0,0,5,37,20,93,,,,,,,,,,,,8,,,Hillsdale
+2010Chad Jones,,2010,3,76,NYG,Chad Jones,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,LSU
+2010Damian Williams,WillDa04,2010,3,77,TEN,Damian Williams,No,WR,WR,10,22,2014,0,0,1,9,9,57,,,,,,1,5,0,107,1327,5,,,,USC
+2010Jordan Shipley,ShipJo00,2010,3,84,CIN,Jordan Shipley,No,WR,WR,7,24,2012,0,0,0,7,5,24,,,,,,,,,79,858,4,1,,,Texas
+2010Colt McCoy,McCoCo00,2010,3,85,CLE,Colt McCoy,No,QB,QB,13,24,2015,0,0,2,12,10,34,508,842,5586,26,23,118,420,2,2,8,0,2,,,Texas
+2010Daniel Te'o-Nesheim,Teo-Da99,2010,3,86,PHI,Daniel Te'o-Nesheim,No,DE,DE,12,23,2013,0,0,2,12,1,39,,,,,,,,,,,,37,,5,Washington
+2010Tony Moeaki,MoeaTo00,2010,3,93,KAN,Tony Moeaki,No,TE,TE,10,23,2015,0,0,2,10,9,48,,,,,,,,,91,1201,6,1,,,Iowa
+2010Brandon Ghee,GheeBr99,2010,3,96,CIN,Brandon Ghee,No,DB,DB,3,23,2014,0,0,0,3,2,29,,,,,,,,,,,,10,1,,Wake Forest
+2010Rennie Curran,CurrRe99,2010,3,97,TEN,Rennie Curran,No,LB,LB,1,21,2010,0,0,0,1,1,9,,,,,,,,,,,,,,,Georgia
+2010Perry Riley,RilePe00,2010,4,103,WAS,Perry Riley,No,LB,LB,25,22,2016,0,0,4,27,27,85,,,,,,,,,,,,276,3,9.5,LSU
+2010Darrell Stuckey,StucDa20,2010,4,110,SDG,Darrell Stuckey,No,DB,DB,7,23,2016,0,1,0,8,8,83,,,,,,,,,,,,44,,1,Kansas
+2010Thaddeus Gibson,GibsTh99,2010,4,116,PIT,Thaddeus Gibson,No,DE,DE,0,22,2012,0,0,0,0,,4,,,,,,,,,,,,,,,Ohio St.
+2010E.J. Wilson,WilsE.99,2010,4,127,SEA,E.J. Wilson,No,DE,DE,0,22,2010,0,0,0,0,0,2,,,,,,,,,,,,1,,,North Carolina
+2010Jason Fox,FoxxJa20,2010,4,128,DET,Jason Fox,No,T,T,4,22,2015,0,0,1,9,2,37,,,,,,,,,,,,1,,,Miami (FL)
+2010O'Brien Schofield,SchoOB99,2010,4,130,ARI,O'Brien Schofield,No,DE,DE,13,23,2016,0,0,2,17,7,84,,,,,,,,,,,,102,,15.5,Wisconsin
+2010Dominique Franks,FranDo99,2010,5,135,ATL,Dominique Franks,No,DB,DB,6,22,2014,0,0,0,6,5,52,,,,,,,,,,,,37,3,,Oklahoma
+2010John Conner,ConnJo00,2010,5,139,NYJ,John Conner,No,RB,RB,0,23,2014,0,0,1,0,0,62,,,,,,27,108,2,12,84,1,2,,,Kentucky
+2010Ed Wang,WangEd20,2010,5,140,BUF,Ed Wang,No,T,T,0,23,2010,0,0,0,0,0,6,,,,,,,,,,,,,,,Virginia Tech
+2010Zoltan Mesko,MeskZo99,2010,5,150,NWE,Zoltan Mesko,No,P,P,6,24,2013,0,0,0,6,6,56,,,,,,,,,,,,,,,Michigan
+2010David Reed,ReedDa00,2010,5,156,BAL,David Reed,No,WR,WR,2,23,2013,0,0,0,2,2,36,,,,,,2,31,0,6,68,0,2,,,Utah
+2010Chris DeGeare,DeGeCh20,2010,5,161,MIN,Chris DeGeare,No,G,G,2,23,2012,0,0,0,2,2,8,,,,,,,,,,,,1,,,Wake Forest
+2010Kerry Meier,MeieKe00,2010,5,165,ATL,Kerry Meier,No,WR,WR,0,23,2012,0,0,0,0,0,12,,,,,,,,,0,0,0,,,,Kansas
+2010Jonathan Crompton,CromJo00,2010,5,168,SDG,Jonathan Crompton,No,QB,QB,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee
+2010Marshall Newhouse,NewhMa20,2010,5,169,GNB,Marshall Newhouse,No,G,G,32,22,2016,0,0,3,30,20,81,,,,,,,,,,,,1,,,TCU
+2010Fendi Onobun,OnobFe00,2010,6,170,STL,Fendi Onobun,No,TE,TE,0,23,2011,0,0,0,0,0,4,,,,,,,,,2,15,0,,,,Arizona
+2010Anthony Dixon,DixoAn00,2010,6,173,SFO,Anthony Dixon,No,RB,RB,7,23,2015,0,0,0,7,4,96,,,,,,274,934,11,23,140,0,8,,,Mississippi St.
+2010Ramon Harewood,HareRa00,2010,6,194,BAL,Ramon Harewood,No,T,T,2,23,2012,0,0,0,2,2,6,,,,,,,,,,,,,,,Morehouse
+2010David Gettis,GettDa00,2010,6,198,CAR,David Gettis,No,WR,WR,3,23,2012,0,0,1,3,3,17,,,,,,3,2,0,37,508,3,3,,,Baylor
+2010Charles Scott,,2010,6,200,PHI,Charles Scott,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,LSU
+2010Jorrick Calvin,CalvJo99,2010,6,201,ARI,Jorrick Calvin,No,DB,DB,1,23,2010,0,0,0,1,,12,,,,,,,,,,,,,,,Troy
+2010Jordan Pugh,PughJo99,2010,6,202,CAR,Jordan Pugh,No,DB,DB,4,22,2013,0,0,0,4,3,44,,,,,,,,,,,,34,2,1,Texas A&M
+2010Levi Brown,BrowLe00,2010,7,209,BUF,Levi Brown,No,QB,QB,0,23,2010,0,0,0,0,0,1,2,3,24,0,1,,,,,,,,,,Troy
+2010Cody Grimm,GrimCo99,2010,7,210,TAM,Cody Grimm,No,DB,DB,6,23,2012,0,0,1,6,6,23,,,,,,,,,,,,47,2,,Virginia Tech
+2010Marquis Johnson,JohnMa99,2010,7,211,STL,Marquis Johnson,No,DB,DB,0,22,2011,0,0,0,0,0,5,,,,,,,,,,,,5,,,Alabama
+2010Willie Young,YounWi99,2010,7,213,DET,Willie Young,No,DE,DE,13,25,2016,0,0,2,17,9,88,,,,,,,,,,,,114,1,29,North Carolina St.
+2010Dekoda Watson,WatsDe99,2010,7,217,TAM,Dekoda Watson,No,LB,LB,10,22,2016,0,0,0,9,8,83,,,,,,,,,,,,77,1,3,Florida St.
+2010Phillip Adams,AdamPh00,2010,7,224,SFO,Phillip Adams,No,DB,DB,9,22,2015,0,0,0,10,1,78,,,,,,,,,,,,99,5,,South Carolina St.
+2010George Selvie,SelvGe99,2010,7,226,STL,George Selvie,No,DE,DE,16,23,2015,0,0,2,17,2,80,,,,,,,,,,,,105,,14,South Florida
+2010Jim Dray,DrayJi00,2010,7,233,ARI,Jim Dray,No,TE,TE,4,23,2016,0,0,3,4,2,91,,,,,,,,,56,605,3,1,,,Stanford
+2010Dexter Davis,DaviDe99,2010,7,236,SEA,Dexter Davis,No,LB,LB,1,23,2012,0,0,0,1,1,16,,,,,,,,,,,,10,,1,Arizona St.
+2010Ryan D'Imperio,DImpRy00,2010,7,237,MIN,Ryan D'Imperio,No,RB,RB,0,23,2011,0,0,0,0,0,12,,,,,,,,,2,7,0,,,,Rutgers
+2010Kurt Coleman,ColeKu99,2010,7,244,PHI,Kurt Coleman,No,DB,DB,17,22,2016,0,0,4,22,13,99,,,,,,,,,,,,282,19,1,Ohio St.
+2010Zac Robinson,RobiZa00,2010,7,250,NWE,Zac Robinson,No,QB,QB,0,24,2012,0,0,0,0,,,,,,,,,,,,,,,,,Oklahoma St.
+2009Michael Crabtree,CrabMi00,2009,1,10,SFO,Michael Crabtree,No,WR,WR,34,22,2016,0,0,7,42,34,105,,,,,,3,18,0,484,5850,41,6,,,
+2009Brian Cushing,CushBr99,2009,1,15,HOU,Brian Cushing,No,LB,LB,36,22,2016,0,1,5,47,47,94,,,,,,,,,,,,407,,,
+2009Josh Freeman,FreeJo00,2009,1,17,TAM,Josh Freeman,No,QB,QB,40,21,2015,0,0,4,38,37,62,1179,2048,13873,81,68,205,946,4,0,-3,0,6,,,
+2009Vontae Davis,DaviVo99,2009,1,25,MIA,Vontae Davis,No,DB,DB,24,21,2016,0,2,6,38,11,110,,,,,,,,,,,,329,,,
+2009Donald Brown,BrowDo00,2009,1,27,IND,Donald Brown,No,RB,RB,23,22,2015,0,0,1,25,21,88,,,,,,695,2829,18,120,1066,2,11,,,
+2009Louis Delmas,DelmLo99,2009,2,33,DET,Louis Delmas,No,DB,DB,25,22,2014,0,0,6,26,23,78,,,,,,,,,,,,294,,,
+2009Everette Brown,BrowEv99,2009,2,43,CAR,Everette Brown,No,DE,DE,6,22,2014,0,0,0,6,5,44,,,,,,,,,,,,48,,,
+2009Connor Barwin,BarwCo99,2009,2,46,HOU,Connor Barwin,No,DE,DE,26,22,2016,0,1,6,40,16,107,,,,,,,,,,,,232,,,
+2009Darcel McBath,McBaDa99,2009,2,48,DEN,Darcel McBath,No,DB,DB,3,23,2012,0,0,0,3,2,37,,,,,,,,,,,,30,,,
+2009David Veikune,VeikDa99,2009,2,52,CLE,David Veikune,No,LB,LB,1,23,2010,0,0,0,1,1,14,,,,,,,,,,,,,,,
+2009Phil Loadholt,LoadPh20,2009,2,54,MIN,Phil Loadholt,No,T,T,40,23,2014,0,0,6,40,40,89,,,,,,,,,,,,6,,,
+2009William Moore,MoorWi99,2009,2,55,ATL,William Moore,No,DB,DB,26,24,2015,0,1,5,29,29,76,,,,,,,,,,,,277,,,
+2009Will Beatty,BeatWi20,2009,2,60,NYG,Will Beatty,No,T,T,25,24,2016,0,0,4,30,30,85,,,,,,,,,0,0,0,10,,,
+2009Michael Johnson,JohnMi98,2009,3,70,CIN,Michael Johnson,No,DE,DE,30,22,2016,0,0,6,38,34,119,,,,,,,,,,,,204,,,
+2009Derrick Williams,WillDe05,2009,3,82,DET,Derrick Williams,No,WR,WR,0,23,2010,0,0,0,0,0,18,,,,,,1,4,0,9,82,0,1,,,
+2009Chris Owens,OwenCh99,2009,3,90,ATL,Chris Owens,No,DB,DB,10,22,2015,0,0,0,11,8,87,,,,,,,,,,,,173,,,
+2009Corvey Irvin,IrviCo99,2009,3,93,CAR,Corvey Irvin,No,DT,DT,1,24,2013,0,0,0,1,0,24,,,,,,,,,,,,9,,,
+2009Ryan Mouton,MoutRy99,2009,3,94,TEN,Ryan Mouton,No,DB,DB,3,23,2012,0,0,0,3,3,36,,,,,,,,,,,,42,,,
+2009Chase Coffman,CoffCh00,2009,3,98,CIN,Chase Coffman,No,TE,TE,0,22,2016,0,0,0,0,0,39,,,,,,,,,18,176,2,1,,,
+2009Travis Beckum,BeckTr00,2009,3,100,NYG,Travis Beckum,No,TE,TE,2,22,2012,0,0,0,2,2,48,,,,,,,,,26,264,3,3,,,
+2009Henry Melton,MeltHe99,2009,4,105,CHI,Henry Melton,No,DE,DE,22,22,2015,0,1,2,25,21,80,,,,,,,,,,,,91,,,
+2009Jonathan Luigs,LuigJo20,2009,4,106,CIN,Jonathan Luigs,No,C,C,1,23,2009,0,0,0,1,1,8,,,,,,,,,,,,,,,
+2009Glover Quin,QuinGl99,2009,4,112,HOU,Glover Quin,No,DB,DB,29,23,2016,0,1,8,40,18,122,,,,,,,,,,,,448,,,
+2009Vaughn Martin,MartVa99,2009,4,113,SDG,Vaughn Martin,No,DT,DT,13,23,2013,0,0,2,12,12,51,,,,,,,,,,,,47,,,
+2009Stanley Arnoux,ArnoSt99,2009,4,118,NOR,Stanley Arnoux,No,LB,LB,1,23,2010,0,0,0,1,1,9,,,,,,,,,,,,,,,
+2009Anthony Hill,HillAn00,2009,4,122,HOU,Anthony Hill,No,TE,TE,0,24,2011,0,0,0,0,0,12,,,,,,,,,3,19,0,,,,
+2009Austin Collie,CollAu00,2009,4,127,IND,Austin Collie,No,WR,WR,19,23,2013,0,0,0,18,17,49,,,,,,2,1,0,179,1908,16,3,,,
+2009Tony Fiammetta,FiamTo00,2009,4,128,CAR,Tony Fiammetta,No,RB,RB,1,23,2014,0,0,1,1,0,51,,,,,,11,26,0,12,130,0,3,,,
+2009DeAngelo Smith,SmitDe98,2009,5,143,DAL,DeAngelo Smith,No,DB,DB,1,23,2009,0,0,0,1,,7,,,,,,,,,,,,6,,,
+2009Scott McKillop,McKiSc99,2009,5,146,SFO,Scott McKillop,No,LB,LB,2,23,2009,0,0,0,2,2,16,,,,,,,,,,,,3,,,
+2009Davon Drew,DrewDa00,2009,5,149,BAL,Davon Drew,No,TE,TE,0,23,,0,0,0,,,,,,,,,,,,,,,,,,
+2009Garrett Reynolds,ReynGa20,2009,5,156,ATL,Garrett Reynolds,No,T,T,14,22,2015,0,0,1,19,13,67,,,,,,,,,,,,3,,,
+2009Jamon Meredith,MereJa20,2009,5,162,GNB,Jamon Meredith,No,T,T,12,23,2015,0,0,2,14,,67,,,,,,,,,,,,,,,
+2009Herman Johnson,JohnHe23,2009,5,167,ARI,Herman Johnson,No,T,T,0,24,,0,0,0,,,,,,,,,,,,,,,,,,
+2009Frank Summers,SummFr00,2009,5,169,PIT,Frank Summers,No,RB,RB,1,24,2014,0,0,1,1,0,27,,,,,,18,63,2,12,88,1,,,,
+2009Javon Ringer,RingJa00,2009,5,173,TEN,Javon Ringer,No,RB,RB,4,22,2012,0,0,0,4,4,37,,,,,,120,486,3,38,243,0,1,,,
+2009Quinten Lawrence,LawrQu00,2009,6,175,KAN,Quinten Lawrence,No,WR,WR,0,25,2009,0,0,0,0,0,6,,,,,,2,42,0,1,9,0,,,,
+2009Don Carey,CareDo00,2009,6,177,CLE,Don Carey,No,DB,DB,10,22,2016,0,0,1,10,,82,,,,,,,,,,,,115,,,
+2009Bear Pascoe,PascBe00,2009,6,184,SFO,Bear Pascoe,No,TE,TE,3,23,2015,0,0,1,3,,85,,,,,,1,2,0,40,336,2,1,,,
+2009Robert Henson,HensRo99,2009,6,186,WAS,Robert Henson,No,LB,LB,0,23,2009,0,0,0,0,0,6,,,,,,,,,,,,1,,,
+2009Brice McCain,McCaBr99,2009,6,188,HOU,Brice McCain,No,DB,DB,9,22,2016,0,0,1,15,7,111,,,,,,,,,,,,162,,,
+2009Kevin Ellison,ElliKe98,2009,6,189,SDG,Kevin Ellison,No,LB,LB,4,22,2009,0,0,1,4,4,13,,,,,,,,,,,,41,,,
+2009Brandon Gibson,GibsBr00,2009,6,194,PHI,Brandon Gibson,No,WR,WR,16,22,2014,0,0,3,17,0,76,,,,,,5,44,0,233,2711,13,6,,,
+2009Jake Ingram,IngrJa20,2009,6,198,NWE,Jake Ingram,No,C,C,1,23,2010,0,0,0,1,1,25,,,,,,,,,,,,,,,
+2009Will Davis,DaviWi99,2009,6,204,ARI,Will Davis,No,DE,DE,3,23,2010,0,0,0,3,3,21,,,,,,,,,,,,16,,,
+2009Dominique Edison,EdisDo00,2009,6,206,TEN,Dominique Edison,No,WR,WR,0,23,2009,0,0,0,0,0,5,,,,,,,,,,,,,,,
+2009Bernard Scott,ScotBe00,2009,6,209,CIN,Bernard Scott,No,RB,RB,9,25,2013,0,0,0,9,9,49,0,1,0,0,0,259,1049,4,31,175,0,1,,,
+2009Javarris Williams,WillJa05,2009,7,212,KAN,Javarris Williams,No,RB,RB,0,23,2012,0,0,0,0,0,4,,,,,,6,6,0,0,0,0,,,,
+2009Ellis Lankster,LankEl99,2009,7,220,BUF,Ellis Lankster,No,DB,DB,5,22,2014,0,0,0,5,1,49,,,,,,,,,,,,45,,,
+2009Darryl Richard,RichDa97,2009,7,234,NWE,Darryl Richard,No,DT,DT,0,23,,0,0,0,,,,,,,,,,,,,,,,,,
+2009Stoney Woodson,,2009,7,238,NYG,Stoney Woodson,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2009Marko Mitchell,MitcMa00,2009,7,243,WAS,Marko Mitchell,No,WR,WR,0,24,2009,0,0,0,0,0,10,,,,,,,,,4,32,0,,,,
+2009Courtney Greene,GreeCo99,2009,7,245,SEA,Courtney Greene,No,DB,DB,5,22,2011,0,0,1,5,,30,,,,,,,,,,,,60,,,
+2009Clinton McDonald,McDoCl99,2009,7,249,CIN,Clinton McDonald,No,DT,DT,11,22,2016,0,0,1,18,1,77,,,,,,,,,,,,136,,,
+2008Jake Long,LongJa20,2008,1,1,MIA,Jake Long,No,T,T,50,23,2016,1,4,6,53,46,104,,,,,,,,,,,,4,,,Michigan
+2008Glenn Dorsey,DorsGl99,2008,1,5,KAN,Glenn Dorsey,No,DT,DT,30,23,2016,0,0,5,36,27,99,,,,,,,,,,,,215,,7,LSU
+2008Keith Rivers,RiveKe99,2008,1,9,CIN,Keith Rivers,No,LB,LB,19,22,2014,0,0,3,24,15,74,,,,,,,,,,,,183,2,3,USC
+2008Jerod Mayo,MayoJe99,2008,1,10,NWE,Jerod Mayo,No,LB,LB,46,22,2015,1,2,6,52,52,103,,,,,,,,,,,,535,3,11,Tennessee
+2008Ryan Clady,CladRy20,2008,1,12,DEN,Ryan Clady,No,T,T,57,22,2016,2,4,6,62,62,107,,,,,,,,,,,,4,,,Boise St.
+2008Aqib Talib,TaliAq99,2008,1,20,TAM,Aqib Talib,No,DB,DB,23,22,2016,0,3,6,46,16,114,,,,,,,,,,,,324,33,1,Kansas
+2008Felix Jones,JoneFe00,2008,1,22,DAL,Felix Jones,No,RB,RB,28,21,2013,0,0,1,27,26,80,,,,,,617,2912,11,137,1129,3,4,,,Arkansas
+2008Duane Brown,BrowDu20,2008,1,26,HOU,Duane Brown,No,T,T,50,23,2016,1,3,8,62,62,126,,,,,,,,,,,,6,,,Virginia Tech
+2008Dustin Keller,KellDu00,2008,1,30,NYJ,Dustin Keller,No,TE,TE,24,24,2012,0,0,3,22,22,72,,,,,,1,7,0,241,2876,17,7,,,Purdue
+2008Devin Thomas,ThomDe02,2008,2,34,WAS,Devin Thomas,No,WR,WR,4,21,2011,0,0,1,4,4,55,,,,,,6,51,1,43,482,3,1,,,Michigan St.
+2008Brandon Flowers,FlowBr99,2008,2,35,KAN,Brandon Flowers,No,DB,DB,29,22,2016,0,1,8,38,32,119,,,,,,,,,,,,429,21,3,Virginia Tech
+2008James Hardy,HardJa00,2008,2,41,BUF,James Hardy,No,WR,WR,1,22,2009,0,0,0,1,1,16,,,,,,,,,10,96,2,1,,,Indiana
+2008Jerome Simpson,SimpJe00,2008,2,46,CIN,Jerome Simpson,No,WR,WR,11,22,2015,0,0,3,17,7,62,,,,,,1,2,0,150,2058,9,4,,,Coastal Carolina
+2008Kendall Langford,LangKe98,2008,3,66,MIA,Kendall Langford,No,DE,DE,32,22,2016,0,0,7,42,21,135,,,,,,,,,,,,208,,22.5,Hampton
+2008Chris Ellis,ElliCh99,2008,3,72,BUF,Chris Ellis,No,DE,DE,2,23,2010,0,0,0,2,2,15,,,,,,,,,,,,6,,1,Virginia Tech
+2008Brad Cottam,CottBr00,2008,3,76,KAN,Brad Cottam,No,TE,TE,2,23,2009,0,0,0,2,2,24,,,,,,,,,16,183,0,,,,Tennessee
+2008Bryan Smith,SmitBr96,2008,3,80,PHI,Bryan Smith,No,LB,LB,1,24,2009,0,0,0,1,,6,,,,,,,,,,,,3,,,McNeese St.
+2008Early Doucet,DoucEa00,2008,3,81,ARI,Early Doucet,No,WR,WR,11,22,2012,0,0,0,10,10,54,,,,,,4,14,0,139,1491,7,4,,,LSU
+2008Tom Zbikowski,ZbikTo99,2008,3,86,BAL,Tom Zbikowski,No,DB,DB,12,23,2012,0,0,1,11,7,64,,,,,,,,,,,,70,3,2,Notre Dame
+2008Steve Slaton,SlatSt00,2008,3,89,HOU,Steve Slaton,No,RB,RB,20,22,2011,0,0,2,20,20,45,,,,,,442,1896,13,100,808,5,3,,,West Virginia
+2008Philip Wheeler,WheePh99,2008,3,93,IND,Philip Wheeler,No,LB,LB,19,23,2016,0,0,3,28,10,127,,,,,,,,,,,,343,,6.5,Georgia Tech
+2008William Hayes,HayeWi99,2008,4,103,TEN,William Hayes,No,DE,DE,13,23,2016,0,0,3,25,8,118,,,,,,,,,,,,212,1,31.5,Winston-Salem St.
+2008Will Franklin,FranWi00,2008,4,105,KAN,Will Franklin,No,WR,WR,1,22,2008,0,0,0,1,1,13,,,,,,,,,7,83,0,3,,,Missouri
+2008Kory Lichtensteiger,LichKo20,2008,4,108,DEN,Kory Lichtensteiger,No,C,C,18,23,2016,0,0,4,31,1,93,,,,,,,,,,,,6,,,Bowling Green
+2008Dre Moore,MoorDr99,2008,4,115,TAM,Dre Moore,No,DT,DT,1,23,2009,0,0,0,1,1,7,,,,,,,,,,,,4,,,Maryland
+2008Quintin Demps,DempQu99,2008,4,117,PHI,Quintin Demps,No,DB,DB,5,23,2016,0,0,2,17,2,101,,,,,,,,,,,,174,13,1.5,Texas-El Paso
+2008Tashard Choice,ChoiTa00,2008,4,122,DAL,Tashard Choice,No,RB,RB,13,23,2013,0,0,0,13,10,88,,,,,,372,1579,10,81,574,0,6,,,Georgia Tech
+2008Arman Shields,ShieAr00,2008,4,125,OAK,Arman Shields,No,WR,WR,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Richmond
+2008Jonathan Wilhite,WilhJo99,2008,4,129,NWE,Jonathan Wilhite,No,DB,DB,10,24,2011,0,0,0,9,8,54,,,,,,,,,,,,94,4,2,Auburn
+2008DeMario Pressley,PresDe99,2008,5,144,NOR,DeMario Pressley,No,DT,DT,1,22,2011,0,0,0,1,1,8,,,,,,,,,,,,18,,,North Carolina St.
+2008Breno Giacomini,GiacBr20,2008,5,150,GNB,Breno Giacomini,No,T,T,12,23,2016,0,0,5,29,0,76,,,,,,,,,,,,,,,Louisville
+2008Kroy Biermann,BierKr99,2008,5,154,ATL,Kroy Biermann,No,LB,LB,19,23,2015,0,0,2,26,26,114,,,,,,,,,,,,184,2,23.5,Montana
+2008Josh Johnson,JohnJo05,2008,5,160,TAM,Josh Johnson,No,QB,QB,4,22,2013,0,0,0,4,4,29,96,177,1042,5,10,44,274,0,0,0,0,2,,,San Diego
+2008Jonathan Goff,GoffJo99,2008,5,165,NYG,Jonathan Goff,No,LB,LB,9,22,2010,0,0,1,9,9,37,,,,,,,,,,,,62,1,2,Vanderbilt
+2008Marcus Henry,HenrMa00,2008,6,171,NYJ,Marcus Henry,No,WR,WR,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Kansas
+2008Jalen Parmele,ParmJa00,2008,6,176,MIA,Jalen Parmele,No,RB,RB,1,22,2014,0,0,0,1,,36,,,,,,48,187,0,7,60,0,2,,,Toledo
+2008Corey Lynch,LyncCo99,2008,6,177,CIN,Corey Lynch,No,DB,DB,9,23,2013,0,0,0,8,1,76,,,,,,1,3,0,,,,74,5,,Appalachian St.
+2008Mike Gibson,GibsMi20,2008,6,184,PHI,Mike Gibson,No,T,T,3,22,2013,0,0,0,4,,36,,,,,,,,,1,-2,0,2,,,California
+2008Ahtyba Rubin,RubiAh99,2008,6,190,CLE,Ahtyba Rubin,No,DT,DT,29,22,2016,0,0,7,44,35,125,,,,,,,,,,,,246,2,14,Iowa St.
+2008Donald Thomas,ThomDo26,2008,6,195,MIA,Donald Thomas,No,G,G,14,23,2013,0,0,1,14,6,45,,,,,,,,,,,,1,,,Connecticut
+2008Joe Mays,MaysJo99,2008,6,200,PHI,Joe Mays,No,LB,LB,11,23,2015,0,0,2,17,1,78,,,,,,,,,,,,163,,1.5,North Dakota St.
+2008Haruki Nakamura,NakaHa99,2008,6,206,BAL,Haruki Nakamura,No,DB,DB,10,22,2012,0,0,1,10,4,69,,,,,,1,-4,0,,,,46,2,,Cincinnati
+2008Matt Sherry,SherMa00,2008,6,207,CIN,Matt Sherry,No,TE,TE,0,23,,0,0,0,,,,,,,,,,,,,,,,,,Villanova
+2008Nate Garner,GarnNa20,2008,7,211,NYJ,Nate Garner,No,T,T,10,23,2014,0,0,0,13,,74,,,,,,,,,,,,1,,,Arkansas
+2008Justin Harper,HarpJu01,2008,7,215,BAL,Justin Harper,No,WR,WR,0,23,2009,0,0,0,0,0,2,,,,,,,,,0,0,0,,,,Virginia Tech
+2008Hilee Taylor,TaylHi99,2008,7,221,CAR,Hilee Taylor,No,LB,LB,1,22,2009,0,0,0,1,1,16,,,,,,,,,,,,4,,1,North Carolina
+2008Keith Zinger,ZingKe20,2008,7,232,ATL,Keith Zinger,No,TE,TE,0,23,2009,0,0,0,0,0,15,,,,,,,,,0,0,0,,,,LSU
+2008Mike Merritt,MerrMi01,2008,7,239,KAN,Mike Merritt,No,TE,TE,0,24,,0,0,0,,,,,,,,,,,,,,,,,,Central Florida
+2008Lionel Dotson,DotsLi99,2008,7,245,MIA,Lionel Dotson,No,DT,DT,0,23,2011,0,0,0,0,0,12,,,,,,,,,,,,4,,,Arizona
+2008Mario Urrutia,UrruMa00,2008,7,246,CIN,Mario Urrutia,No,WR,WR,0,22,,0,0,0,,,,,,,,,,,,,,,,,,Louisville
+2008Chris Horton,HortCh99,2008,7,249,WAS,Chris Horton,No,DB,DB,8,23,2010,0,0,1,8,8,29,,,,,,,,,,,,80,3,1,UCLA
+2007Calvin Johnson,JohnCa00,2007,1,2,DET,Calvin Johnson,No,WR,WR,48,22,2015,3,6,9,78,78,135,,,,,,19,167,1,731,11619,83,17,,,Georgia Tech
+2007Patrick Willis,WillPa98,2007,1,11,SFO,Patrick Willis,No,LB,LB,79,22,2014,5,7,7,92,92,112,,,,,,,,,,,,732,8,20.5,Mississippi
+2007Aaron Ross,RossAa99,2007,1,20,NYG,Aaron Ross,No,DB,DB,19,25,2013,0,0,4,21,19,83,,,,,,,,,,,,201,11,2.5,Texas
+2007Brandon Meriweather,MeriBr99,2007,1,24,NWE,Brandon Meriweather,No,DB,DB,25,23,2015,0,2,6,33,22,112,,,,,,,,,,,,335,17,6,Miami (FL)
+2007Joe Staley,StalJo20,2007,1,28,SFO,Joe Staley,No,T,T,33,23,2016,0,5,10,65,65,140,,,,,,,,,2,31,0,7,,,Central Michigan
+2007Paul Posluszny,PoluPa99,2007,2,34,BUF,Paul Posluszny,No,LB,LB,31,22,2016,0,1,8,50,17,123,,,,,,,,,,,,805,15,14.5,Penn St.
+2007Chris Houston,HousCh99,2007,2,41,ATL,Chris Houston,No,DB,DB,28,22,2013,0,0,6,33,14,99,,,,,,,,,,,,324,13,,Arkansas
+2007Brian Leonard,LeonBr00,2007,2,52,STL,Brian Leonard,No,RB,RB,8,23,2014,0,0,0,11,3,88,,,,,,221,828,0,143,1008,1,30,,,Rutgers
+2007Brandon Jackson,JackBr00,2007,2,63,GNB,Brandon Jackson,No,RB,RB,17,21,2012,0,0,1,16,16,54,,,,,,355,1383,7,112,864,2,9,,,Nebraska
+2007Quincy Black,BlacQu99,2007,3,68,TAM,Quincy Black,No,LB,LB,19,23,2012,0,0,3,20,20,81,,,,,,,,,,,,229,3,3.5,New Mexico
+2007Marcus McCauley,McCaMa99,2007,3,72,MIN,Marcus McCauley,No,DB,DB,5,24,2009,0,0,0,5,5,27,,,,,,,,,,,,59,,,Fresno St.
+2007Yamon Figurs,FiguYa00,2007,3,74,BAL,Yamon Figurs,No,WR,WR,2,24,2010,0,0,0,2,2,34,,,,,,3,-7,0,5,103,1,4,,,Kansas St.
+2007Jay Alford,AlfoJa99,2007,3,81,NYG,Jay Alford,No,DT,DT,4,24,2010,0,0,0,4,4,36,,,,,,,,,,,,13,,3.5,Penn St.
+2007Stewart Bradley,BradSt99,2007,3,87,PHI,Stewart Bradley,No,LB,LB,19,23,2012,0,0,2,19,16,76,,,,,,,,,,,,179,3,3,Nebraska
+2007Trent Edwards,EdwaTr01,2007,3,92,BUF,Trent Edwards,No,QB,QB,18,23,2012,0,0,2,17,16,38,563,929,6033,26,30,78,330,3,0,0,0,1,,,Stanford
+2007Dante Hughes,HughDa99,2007,3,95,IND,Dante Hughes,No,DB,DB,4,22,2011,0,0,0,4,2,53,,,,,,,,,,,,87,1,,California
+2007Paul Soliai,SoliPa99,2007,4,108,MIA,Paul Soliai,No,DT,DT,20,23,2016,0,1,6,40,32,135,,,,,,,,,,,,157,,5.5,Utah
+2007Stephen Nicholas,NichSt99,2007,4,109,ATL,Stephen Nicholas,No,LB,LB,19,24,2013,0,0,4,27,27,101,,,,,,,,,,,,284,2,8,South Florida
+2007Chris Davis,DaviCh02,2007,4,128,TEN,Chris Davis,No,WR,WR,0,23,2008,0,0,0,0,0,17,,,,,,2,19,0,7,69,0,3,,,Florida St.
+2007Martrez Milner,MilnMa00,2007,4,133,ATL,Martrez Milner,No,TE,TE,0,23,2007,0,0,0,0,0,8,,,,,,,,,9,50,0,,,,Georgia
+2007Joe Cohen,CoheJo00,2007,4,135,SFO,Joe Cohen,No,DT,DT,1,23,2009,0,0,0,1,,7,,,,,,,,,,,,6,,1,Florida
+2007Le'Ron McClain,McClLe00,2007,4,137,BAL,Le'Ron McClain,No,RB,RB,13,22,2013,1,2,6,12,12,111,,,,,,354,1310,13,94,557,3,7,,,Alabama
+2007Brandon McDonald,McDoBr99,2007,5,140,CLE,Brandon McDonald,No,DB,DB,15,22,2012,0,0,2,15,12,80,,,,,,,,,,,,178,9,1,Memphis
+2007Brandon Harrison,HarrBr99,2007,5,144,HOU,Brandon Harrison,No,DB,DB,3,22,2008,0,0,0,3,3,15,,,,,,,,,,,,24,,,Stanford
+2007David Jones,JoneDa99,2007,5,145,NOR,David Jones,No,DB,DB,6,22,2012,0,0,0,6,,59,,,,,,,,,,,,87,1,,Wingate
+2007Tarell Brown,BrowTa99,2007,5,147,SFO,Tarell Brown,No,DB,DB,15,22,2015,0,0,4,26,21,117,,,,,,,,,,,,272,11,,Texas
+2007Justin Medlock,MedlJu20,2007,5,160,KAN,Justin Medlock,No,K,K,0,23,2012,0,0,0,1,0,11,,,,,,,,,,,,,,,UCLA
+2007Derek Landri,LandDe99,2007,5,166,JAX,Derek Landri,No,DT,DT,12,24,2013,0,0,1,15,2,88,,,,,,,,,,,,96,,9,Notre Dame
+2007Corey Graham,GrahCo99,2007,5,168,CHI,Corey Graham,No,DB,DB,12,22,2016,0,1,4,28,10,151,,,,,,,,,,,,442,15,3,New Hampshire
+2007William Gay,GayxWi99,2007,5,170,PIT,William Gay,No,DB,DB,20,22,2016,0,0,5,38,32,155,,,,,,,,,,,,439,12,7,Louisville
+2007Michael Coe,CoexMi99,2007,5,173,IND,Michael Coe,No,DB,DB,2,23,2012,0,0,0,3,1,38,,,,,,,,,,,,34,,,Alabama St.
+2007Nick Folk,FolkNi20,2007,6,178,DAL,Nick Folk,No,K,K,13,22,2016,0,1,0,20,9,144,,,,,,,,,,,,3,,,Arizona
+2007John Wendling,WendJo99,2007,6,184,BUF,John Wendling,No,DB,DB,5,24,2013,0,0,0,7,2,110,,,,,,,,,,,,114,1,,Wyoming
+2007Trey Lewis,LewiTr99,2007,6,185,ATL,Trey Lewis,No,DT,DT,4,22,2010,0,0,0,4,4,18,,,,,,,,,,,,25,1,,Washburn
+2007Adam Koets,KoetAd20,2007,6,189,NYG,Adam Koets,No,T,T,2,23,2010,0,0,0,2,2,12,,,,,,,,,,,,1,,,Oregon St.
+2007Korey Hall,HallKo99,2007,6,191,GNB,Korey Hall,No,LB,LB,0,24,2011,0,0,1,0,0,61,,,,,,,,,21,137,1,36,,,Boise St.
+2007Rashad Barksdale,BarkRa99,2007,6,201,PHI,Rashad Barksdale,No,DB,DB,0,23,2007,0,0,0,0,,6,,,,,,,,,,,,8,,,Albany
+2007Prescott Burgess,BurgPr99,2007,6,207,BAL,Prescott Burgess,No,LB,LB,3,23,2011,0,0,0,3,3,40,,,,,,,,,,,,33,,,Michigan
+2007Courtney Brown,BrowCo97,2007,7,212,DAL,Courtney Brown,No,DB,DB,2,23,2008,0,0,0,2,2,17,,,,,,,,,,,,10,,,Cal Poly-SLO
+2007Tyler Ecker,,2007,7,216,WAS,Tyler Ecker,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Michigan
+2007Trumaine McBride,McBrTr99,2007,7,221,CHI,Trumaine McBride,No,DB,DB,7,22,2015,0,0,2,14,6,84,,,,,,,,,,,,132,7,1,Mississippi
+2007Michael Otto,OttoMi20,2007,7,223,TEN,Michael Otto,No,T,T,5,24,2013,0,0,0,6,6,62,,,,,,,,,0,0,0,1,,,Purdue
+2007Brandon Fields,FielBr20,2007,7,225,MIA,Brandon Fields,No,P,P,14,23,2015,0,1,0,21,21,130,0,1,0,0,0,3,0,0,,,,12,,,Michigan St.
+2007Steve Vallos,VallSt00,2007,7,232,SEA,Steve Vallos,No,G,G,5,23,2013,0,0,0,7,5,59,,,,,,,,,,,,1,,,Wake Forest
+2007Nate Ilaoa,,2007,7,236,PHI,Nate Ilaoa,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Hawaii
+2007Ahmad Bradshaw,BradAh00,2007,7,250,NYG,Ahmad Bradshaw,No,RB,RB,28,21,2015,0,0,3,42,36,103,,,,,,1083,4928,36,187,1493,12,36,,,Marshall
+2007Chad Nkang,NkanCh99,2007,7,251,JAX,Chad Nkang,No,LB,LB,1,22,2008,0,0,0,1,1,23,,,,,,,,,,,,20,,,Elon
+2006Michael Huff,HuffMi20,2006,1,7,OAK,Michael Huff,No,DB,DB,28,23,2013,0,0,6,33,32,118,,,,,,,,,,,,368,11,5.5,Texas
+2006Jay Cutler,CutlJa00,2006,1,11,DEN,Jay Cutler,No,QB,QB,52,23,2016,0,1,9,83,28,139,2782,4491,32467,208,146,367,1650,9,,,,11,,,Vanderbilt
+2006Haloti Ngata,NgatHa20,2006,1,12,BAL,Haloti Ngata,No,DT,DT,60,22,2016,2,5,10,97,95,157,,,,,,,,,,,,305,5,29.5,Oregon
+2006Kamerion Wimbley,WimbKa20,2006,1,13,CLE,Kamerion Wimbley,No,DE,DE,36,22,2014,0,0,8,46,26,140,,,,,,,,,,,,322,2,53.5,Florida St.
+2006Jason Allen,AlleJa23,2006,1,16,MIA,Jason Allen,No,DB,DB,11,23,2012,0,0,1,13,9,98,,,,,,,,,,,,213,15,,Tennessee
+2006Tamba Hali,HaliTa20,2006,1,20,KAN,Tamba Hali,No,DE,DE,40,22,2016,0,5,10,76,76,166,,,,,,,,,,,,443,2,87.5,Penn St.
+2006Rocky McIntosh,McInRo20,2006,2,35,WAS,Rocky McIntosh,No,LB,LB,34,23,2013,0,0,6,39,34,124,,,,,,,,,,,,370,4,9,Miami (FL)
+2006Cedric Griffin,GrifCe20,2006,2,48,MIN,Cedric Griffin,No,DB,DB,24,23,2012,0,0,4,26,25,89,,,,,,,,,0,0,0,350,8,,Texas
+2006Kellen Clemens,ClemKe00,2006,2,49,NYJ,Kellen Clemens,No,QB,QB,3,23,2016,0,0,2,10,3,50,344,630,4017,16,20,80,232,3,0,0,0,,,,Oregon
+2006Chris Chester,ChesCh21,2006,2,56,BAL,Chris Chester,No,G,G,23,23,2016,0,0,9,50,16,163,,,,,,,,,,,,6,,,Oklahoma
+2006Devin Hester,HestDe99,2006,2,57,CHI,Devin Hester,No,DB,DB,42,23,2016,3,4,4,49,44,153,0,0,0,0,0,36,116,1,255,3311,16,17,,,Miami (FL)
+2006Maurice Jones-Drew,DrewMa00,2006,2,60,JAX,Maurice Jones-Drew,No,RB,RB,63,21,2014,1,3,4,72,72,126,1,2,8,1,1,1847,8167,68,346,2944,11,18,,,UCLA
+2006Charles Spencer,SpenCh20,2006,3,65,HOU,Charles Spencer,No,G,G,1,24,2006,0,0,0,1,1,2,,,,,,,,,,,,,,,Pittsburgh
+2006Paul McQuistan,McQuPa21,2006,3,69,OAK,Paul McQuistan,No,T,T,5,23,2014,0,0,2,24,4,97,,,,,,,,,,,,2,,,Weber St.
+2006Willie Reid,ReidWi00,2006,3,95,PIT,Willie Reid,No,WR,WR,1,24,2007,0,0,0,1,1,7,,,,,,,,,4,54,0,,,,Florida St.
+2006Jason Avant,AvanJa00,2006,4,109,PHI,Jason Avant,No,WR,WR,17,23,2015,0,0,2,30,26,148,,,,,,2,2,0,346,4118,13,33,,,Michigan
+2006Isaac Sowells,SoweIs20,2006,4,112,CLE,Isaac Sowells,No,T,T,0,24,2008,0,0,0,0,0,17,,,,,,,,,,,,,,,Indiana
+2006Victor Adeyanju,AdeyVi20,2006,4,113,STL,Victor Adeyanju,No,DE,DE,14,23,2009,0,0,2,13,13,53,,,,,,,,,,,,97,,3,Indiana
+2006Will Blackmon,BlacWi20,2006,4,115,GNB,Will Blackmon,No,DB,DB,6,21,2016,0,0,2,16,5,92,,,,,,,,,,,,148,3,3.5,Boston Col.
+2006Stephen Tulloch,TullSt20,2006,4,116,TEN,Stephen Tulloch,No,LB,LB,26,21,2016,0,0,7,48,21,153,,,,,,,,,,,,675,5,14.5,North Carolina St.
+2006Leon Washington,WashLe00,2006,4,117,NYJ,Leon Washington,No,RB,RB,29,24,2014,1,2,1,30,23,126,1,1,36,0,0,487,2271,16,168,1286,4,13,,,Florida St.
+2006Stephen Gostkowski,GostSt20,2006,4,118,NWE,Stephen Gostkowski,No,K,K,14,22,2016,2,4,0,30,30,162,,,,,,,,,,,,15,,,Memphis
+2006Barry Cofield,CofiBa20,2006,4,124,NYG,Barry Cofield,No,DT,DT,33,22,2015,0,0,8,45,29,138,,,,,,,,,,,,206,,19.5,Northwestern
+2006Willie Colon,ColoWi20,2006,4,131,PIT,Willie Colon,No,G,G,27,23,2015,0,0,6,40,29,100,,,,,,,,,0,0,0,3,,,Hofstra
+2006Orien Harris,HarrOr20,2006,4,133,PIT,Orien Harris,No,DT,DT,2,23,2009,0,0,0,2,,20,,,,,,,,,,,,9,,,Miami (FL)
+2006Rob Ninkovich,NinkRo20,2006,5,135,NOR,Rob Ninkovich,No,DE,DE,8,22,2016,0,0,6,48,0,125,,,,,,,,,,,,275,5,44,Purdue
+2006Jerome Harrison,HarrJe00,2006,5,145,CLE,Jerome Harrison,No,RB,RB,14,23,2012,0,0,0,13,11,63,,,,,,356,1681,7,70,490,3,9,,,Washington St.
+2006Jason Pociask,PociJa00,2006,5,150,NYJ,Jason Pociask,No,TE,TE,0,23,2007,0,0,0,0,0,4,,,,,,,,,1,7,0,,,,Wisconsin
+2006Mark Anderson,AndeMa21,2006,5,159,CHI,Mark Anderson,No,DE,DE,18,23,2012,0,0,1,20,15,98,,,,,,,,,,,,132,,36.5,Alabama
+2006Kevin Boothe,BootKe20,2006,6,176,OAK,Kevin Boothe,No,T,T,9,23,2014,0,0,3,26,2,114,,,,,,,,,0,0,0,1,,,Cornell
+2006Dee McCann,,2006,6,179,DET,Dee McCann,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,West Virginia
+2006Johnny Jolly,JollJo20,2006,6,183,GNB,Johnny Jolly,No,DT,DT,19,23,2013,0,0,3,22,22,61,,,,,,,,,,,,88,1,3,Texas A&M
+2006Adam Jennings,JennAd00,2006,6,184,ATL,Adam Jennings,No,WR,WR,0,23,2009,0,0,0,0,0,46,,,,,,1,-4,0,6,62,1,12,,,Fresno St.
+2006Marcus Hudson,HudsMa20,2006,6,192,SFO,Marcus Hudson,No,DB,DB,5,23,2010,0,0,0,4,4,62,,,,,,,,,,,,69,,,North Carolina St.
+2006J.D. Runnels,RunnJ.00,2006,6,195,CHI,J.D. Runnels,No,RB,RB,0,22,2006,0,0,0,0,0,2,,,,,,,,,,,,,,,Oklahoma
+2006Kedric Golston,GolsKe20,2006,6,196,WAS,Kedric Golston,No,DT,DT,24,23,2016,0,0,4,25,25,142,,,,,,,,,,,,136,,7,Georgia
+2006Melvin Oliver,OlivMe20,2006,6,197,SFO,Melvin Oliver,No,DE,DE,6,23,2006,0,0,1,6,6,16,,,,,,,,,,,,35,,1,LSU
+2006Marvin Philip,,2006,6,201,PIT,Marvin Philip,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,,California
+2006Zach Strief,StriZa20,2006,7,210,NOR,Zach Strief,No,G,G,10,23,2016,0,0,6,43,43,150,,,,,,,,,0,0,0,2,,,Northwestern
+2006Fred Evans,EvanFr21,2006,7,212,MIA,Fred Evans,No,DT,DT,5,22,2013,0,0,0,9,0,95,,,,,,,,,,,,65,,3,Texas St.
+2006Cortland Finnegan,FinnCo20,2006,7,215,TEN,Cortland Finnegan,No,DB,DB,38,22,2015,1,1,6,52,42,133,,,,,,,,,,,,542,18,7,Samford
+2006Tim McGarigle,McGaTi99,2006,7,221,STL,Tim McGarigle,No,LB,LB,1,22,2007,0,0,0,1,1,12,,,,,,,,,,,,6,,,Northwestern
+2006E.J. Whitley,,2006,7,224,DAL,E.J. Whitley,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas Tech
+2006Rodrique Wright,WrigRo99,2006,7,226,MIA,Rodrique Wright,No,DT,DT,4,22,2008,0,0,0,4,4,14,,,,,,,,,,,,28,,1.5,Texas
+2006Jarrad Page,PageJa20,2006,7,228,KAN,Jarrad Page,No,DB,DB,18,21,2011,0,0,2,18,16,74,,,,,,1,4,0,,,,190,12,1,UCLA
+2006Kili Lefotu,,2006,7,230,WAS,Kili Lefotu,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Arizona
+2006Justin Phinisee,,2006,7,235,TAM,Justin Phinisee,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Oregon
+2006Ryan Plackemeier,PlacRy20,2006,7,239,SEA,Ryan Plackemeier,No,P,P,5,22,2008,0,0,0,5,4,43,,,,,,1,0,0,,,,1,,,Wake Forest
+2006Mark Setterstrom,SettMa20,2006,7,242,STL,Mark Setterstrom,No,G,G,5,22,2009,0,0,0,5,5,19,,,,,,,,,,,,,,,Minnesota
+2006Tony Palmer,PalmTo21,2006,7,243,STL,Tony Palmer,No,G,G,0,23,2007,0,0,0,0,,8,,,,,,,,,,,,,,,Missouri
+2006Spencer Toone,ToonSp20,2006,7,245,TEN,Spencer Toone,No,LB,LB,0,26,2006,0,0,0,0,0,3,,,,,,,,,,,,,,,Utah
+2006Kevin Simon,,2006,7,250,WAS,Kevin Simon,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee
+2006Marques Colston,ColsMa00,2006,7,252,NOR,Marques Colston,No,WR,WR,48,23,2015,0,0,7,72,72,146,,,,,,2,7,0,711,9759,72,10,,,Hofstra
+2005Carlos Rogers,RogeCa20,2005,1,9,WAS,Carlos Rogers,No,DB,DB,25,24,2014,0,1,7,49,23,133,,,,,,,,,,,,412,17,1,Auburn
+2005DeMarcus Ware,WareDe99,2005,1,11,DAL,DeMarcus Ware,No,LB,LB,64,23,2016,4,9,11,99,87,173,,,,,,,,,,,,499,3,136.5,Troy
+2005David Pollack,PollDa20,2005,1,17,CIN,David Pollack,No,LB,LB,3,23,2006,0,0,0,3,3,16,,,,,,,,,,,,22,,4.5,Georgia
+2005Erasmus James,JameEr20,2005,1,18,MIN,Erasmus James,No,DE,DE,6,22,2008,0,0,1,6,6,28,,,,,,,,,,,,30,,5,Wisconsin
+2005Fabian Washington,WashFa20,2005,1,23,OAK,Fabian Washington,No,DB,DB,20,22,2010,0,0,5,21,10,81,,,,,,,,,,,,204,6,,Nebraska
+2005Heath Miller,MillHe00,2005,1,30,PIT,Heath Miller,No,TE,TE,26,22,2015,0,2,11,46,46,168,,,,,,2,8,0,592,6569,45,34,,,Virginia
+2005Barrett Ruud,RuudBa20,2005,2,36,TAM,Barrett Ruud,No,LB,LB,32,22,2012,0,0,5,41,36,116,,,,,,,,,,,,481,7,6,Nebraska
+2005J.J. Arrington,ArriJ.00,2005,2,44,ARI,J.J. Arrington,No,RB,RB,0,22,2008,0,0,0,11,11,58,0,1,0,0,0,183,654,3,91,693,2,6,,,California
+2005Lofa Tatupu,TatuLo99,2005,2,45,SEA,Lofa Tatupu,No,LB,LB,46,22,2010,1,3,5,49,49,84,,,,,,,,,,,,407,10,8.5,USC
+2005Matt Roth,RothMa20,2005,2,46,MIA,Matt Roth,No,DE,DE,18,22,2011,0,0,4,27,13,96,,,,,,,,,,,,216,,23.5,Iowa
+2005Marcus Johnson,JohnMa20,2005,2,49,MIN,Marcus Johnson,No,G,G,10,23,2009,0,0,1,10,10,53,,,,,,,,,,,,,,,Mississippi
+2005Roscoe Parrish,ParrRo00,2005,2,55,BUF,Roscoe Parrish,No,WR,WR,12,23,2012,0,0,0,14,14,90,1,1,3,0,0,14,71,1,134,1502,7,7,,,Miami (FL)
+2005Adam Terry,TerrAd20,2005,2,64,BAL,Adam Terry,No,T,T,10,23,2010,0,0,0,10,10,50,,,,,,,,,,,,1,,,Syracuse
+2005Stanley Wilson,WilsSt20,2005,3,72,DET,Stanley Wilson,No,DB,DB,5,22,2007,0,0,0,5,5,32,,,,,,,,,,,,63,,,Stanford
+2005Vernand Morency,MoreVe00,2005,3,73,HOU,Vernand Morency,No,RB,RB,8,25,2007,0,0,0,8,2,39,,,,,,171,726,4,57,404,0,8,,,Oklahoma St.
+2005Justin Tuck,TuckJu20,2005,3,74,NYG,Justin Tuck,No,DE,DE,31,22,2015,1,2,7,64,58,147,,,,,,,,,,,,353,3,66.5,Notre Dame
+2005Dustin Fox,FoxxDu20,2005,3,80,MIN,Dustin Fox,No,DB,DB,0,22,2008,0,0,0,0,,12,,,,,,,,,,,,8,,,Ohio St.
+2005David Greene,,2005,3,85,SEA,David Greene,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia
+2005Domonique Foxworth,FoxwDo20,2005,3,97,DEN,Domonique Foxworth,No,DB,DB,18,22,2011,0,0,2,17,6,78,,,,,,,,,,,,227,8,,Maryland
+2005Maurice Clarett,,2005,3,101,DEN,Maurice Clarett,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Ohio St.
+2005Travis Daniels,DaniTr20,2005,4,104,MIA,Travis Daniels,No,DB,DB,13,23,2012,0,0,1,14,11,107,,,,,,,,,,,,145,6,,LSU
+2005Kyle Orton,OrtoKy00,2005,4,106,CHI,Kyle Orton,No,QB,QB,23,22,2014,0,0,5,41,10,87,1613,2712,18037,101,69,126,296,4,,,,7,,,Purdue
+2005Craphonso Thorpe,ThorCr00,2005,4,116,KAN,Craphonso Thorpe,No,WR,WR,1,22,2007,0,0,0,1,,5,,,,,,,,,12,70,1,,,,Florida St.
+2005Chase Lyman,,2005,4,118,NOR,Chase Lyman,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,California
+2005Manuel White,,2005,4,120,WAS,Manuel White,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,UCLA
+2005Dylan Gandy,GandDy20,2005,4,129,IND,Dylan Gandy,No,G,G,16,23,2013,0,0,1,19,12,120,,,,,,,,,,,,1,,,Texas Tech
+2005Darren Sproles,SproDa00,2005,4,130,SDG,Darren Sproles,No,RB,RB,23,22,2016,0,2,0,58,25,163,,,,,,640,3186,20,507,4460,29,6,,,Kansas St.
+2005Boomer Grigsby,GrigBo20,2005,5,138,KAN,Boomer Grigsby,No,LB,LB,2,23,2008,0,0,0,2,2,45,,,,,,,,,2,14,0,28,,,Illinois St.
+2005Trent Cole,ColeTr20,2005,5,146,PHI,Trent Cole,No,DE,DE,48,22,2016,0,2,9,69,67,171,,,,,,,,,,,,457,1,88.5,Cincinnati
+2005Eric King,KingEr20,2005,5,156,BUF,Eric King,No,DB,DB,4,23,2010,0,0,0,4,1,63,,,,,,,,,,,,69,,,Wake Forest
+2005Frank Omiyale,OmiyFr20,2005,5,163,ATL,Frank Omiyale,No,T,T,14,22,2012,0,0,2,17,0,75,,,,,,,,,,,,1,,,Tennessee Tech
+2005Michael Hawkins,HawkMi21,2005,5,167,GNB,Michael Hawkins,No,DB,DB,1,22,2006,0,0,0,1,1,18,,,,,,,,,,,,12,,,Oklahoma
+2005Rasheed Marshall,MarsRa00,2005,5,174,SFO,Rasheed Marshall,No,WR,WR,0,24,2005,0,0,0,0,0,12,,,,,,1,-7,0,1,-1,0,,,,West Virginia
+2005Chris Harris,HarrCh20,2005,6,181,CHI,Chris Harris,No,DB,DB,31,23,2012,0,0,5,41,22,101,,,,,,,,,,,,365,16,1,La-Monroe
+2005Craig Bragg,,2005,6,195,GNB,Craig Bragg,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,UCLA
+2005Justin Geisinger,GeisJu20,2005,6,197,BUF,Justin Geisinger,No,G,G,0,23,2008,0,0,0,0,,6,,,,,,,,,,,,,,,Vanderbilt
+2005Dave Rayner,raynedav01,2005,6,202,IND,Dave Rayner,No,K,K,1,22,2011,0,0,0,3,0,59,,,,,,,,,,,,10,,,Michigan St.
+2005Chris Kemoeatu,KemoCh20,2005,6,204,PIT,Chris Kemoeatu,No,G,G,25,22,2011,0,0,4,27,27,75,,,,,,,,,,,,2,,,Utah
+2005Jonathan Goddard,GoddJo20,2005,6,206,DET,Jonathan Goddard,No,DE,DE,0,24,2005,0,0,0,0,,1,,,,,,,,,,,,1,,,Marshall
+2005Justin Beriault,,2005,6,208,DAL,Justin Beriault,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Ball St.
+2005Rob Petitti,PetiRo20,2005,6,209,DAL,Rob Petitti,No,T,T,8,23,2010,0,0,1,8,7,27,,,,,,,,,,,,,,,Pittsburgh
+2005Daven Holly,HollDa22,2005,7,215,SFO,Daven Holly,No,DB,DB,10,23,2007,0,0,1,10,,32,,,,,,,,,,,,99,5,,Cincinnati
+2005Rod Wilson,WilsRo20,2005,7,220,CHI,Rod Wilson,No,DB,DB,3,23,2010,0,0,0,3,3,51,,,,,,,,,,,,39,,,South Carolina
+2005Marcus Maxwell,MaxwMa00,2005,7,223,SFO,Marcus Maxwell,No,WR,WR,0,22,2007,0,0,0,0,0,9,,,,,,,,,1,5,0,3,,,Oregon
+2005Kenneth Pettway,PettKe20,2005,7,227,HOU,Kenneth Pettway,No,DE,DE,3,22,2008,0,0,0,3,,25,,,,,,,,,,,,15,,3,Grambling St.
+2005Paul Ernster,ErnsPa20,2005,7,239,DEN,Paul Ernster,No,K,K,2,23,2008,0,0,0,2,2,22,,,,,,,,,,,,3,,,Northern Arizona
+2005Darrell Shropshire,ShroDa20,2005,7,241,ATL,Darrell Shropshire,No,DT,DT,2,22,2006,0,0,0,2,2,23,,,,,,,,,,,,14,,3,South Carolina
+2005Scott Mruczkowski,MrucSc20,2005,7,242,SDG,Scott Mruczkowski,No,C,C,13,23,2011,0,0,1,16,16,83,,,,,,,,,,,,2,,,Bowling Green
+2005Kurt Campbell,,2005,7,245,GNB,Kurt Campbell,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Albany (NY)
+2005David Bergeron,,2005,7,252,PHI,David Bergeron,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Stanford
+2005Andy Stokes,,2005,7,255,NWE,Andy Stokes,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,William Penn
+2004Eli Manning,MannEl00,2004,1,1,SDG,Eli Manning,No,QB,QB,46,23,2016,0,4,12,104,,195,3941,6613,46895,311,209,279,519,5,,,,2,,,Mississippi
+2004Philip Rivers,RivePh00,2004,1,4,NYG,Philip Rivers,No,QB,QB,48,22,2016,0,5,11,121,,174,3691,5708,44333,301,146,312,556,3,0,-9,0,10,,,North Carolina St.
+2004Dunta Robinson,RobiDu20,2004,1,10,HOU,Dunta Robinson,No,DB,DB,21,22,2013,0,0,8,39,21,139,,,,,,,,,,,,500,17,5.5,South Carolina
+2004Tommie Harris,HarrTo99,2004,1,14,CHI,Tommie Harris,No,DT,DT,50,21,2011,0,3,6,54,53,117,,,,,,,,,,,,182,1,31.5,Oklahoma
+2004Marcus Tubbs,TubbMa20,2004,1,23,SEA,Marcus Tubbs,No,DT,DT,9,23,2006,0,0,1,9,9,29,,,,,,,,,,,,37,,7,Texas
+2004Steven Jackson,JackSt00,2004,1,24,STL,Steven Jackson,No,RB,RB,49,21,2015,0,3,10,74,67,160,1,1,2,1,0,2764,11438,69,461,3683,9,10,,,Oregon St.
+2004Ben Watson,WatsBe00,2004,1,32,NWE,Ben Watson,No,TE,TE,18,23,2015,0,0,9,37,18,163,,,,,,2,10,0,434,4963,38,9,,,Georgia
+2004Teddy Lehman,LehmTe20,2004,2,37,DET,Teddy Lehman,No,LB,LB,9,22,2008,0,0,1,9,9,45,,,,,,,,,,,,105,2,1,Oklahoma
+2004Ricardo Colclough,ColcRi20,2004,2,38,PIT,Ricardo Colclough,No,DB,DB,2,22,2009,0,0,0,2,2,43,,,,,,,,,,,,55,1,2.5,Tusculum
+2004Daryl Smith,SmitDa24,2004,2,39,JAX,Daryl Smith,No,LB,LB,40,22,2016,0,0,11,69,46,184,,,,,,,,,,,,765,12,30.5,Georgia Tech
+2004Ben Troupe,TrouBe00,2004,2,40,TEN,Ben Troupe,No,TE,TE,8,22,2008,0,0,2,8,8,57,,,,,,1,-1,0,106,1056,7,6,,,Florida
+2004Dontarrious Thomas,ThomDo21,2004,2,48,MIN,Dontarrious Thomas,No,LB,LB,9,24,2008,0,0,0,8,8,63,,,,,,,,,,,,102,,1.5,Auburn
+2004Shawntae Spencer,SpenSh20,2004,2,58,SFO,Shawntae Spencer,No,DB,DB,14,22,2012,0,0,4,28,27,100,,,,,,,,,,,,311,11,2.5,Pittsburgh
+2004Darnell Dockett,DockDa20,2004,3,64,ARI,Darnell Dockett,No,DT,DT,40,23,2013,0,3,10,72,72,158,,,,,,,,,,,,349,4,40.5,Florida St.
+2004Ben Hartsock,HartBe00,2004,3,68,IND,Ben Hartsock,No,TE,TE,2,24,2013,0,0,2,2,0,131,,,,,,,,,31,312,1,6,,,Ohio St.
+2004Max Starks,StarMa21,2004,3,75,PIT,Max Starks,No,T,T,27,22,2013,0,0,6,45,45,125,,,,,,,,,0,0,0,4,,,Florida
+2004Marquis Cooper,CoopMa21,2004,3,79,TAM,Marquis Cooper,No,LB,LB,3,22,2008,0,0,0,3,2,42,,,,,,,,,,,,34,,,Washington
+2004Travelle Wharton,WharTr20,2004,3,94,CAR,Travelle Wharton,No,T,T,29,23,2013,0,0,8,46,46,115,,,,,,,,,,,,5,,,South Carolina
+2004Reggie Torbor,TorbRe20,2004,4,97,NYG,Reggie Torbor,No,LB,LB,14,23,2010,0,0,1,17,11,104,,,,,,,,,,,,168,2,6.5,Auburn
+2004Luke McCown,McCoLu00,2004,4,106,CLE,Luke McCown,No,QB,QB,6,23,2015,0,0,0,8,2,62,216,356,2370,9,15,34,177,0,,,,1,,,Louisiana Tech
+2004Matthias Askew,AskeMa20,2004,4,114,CIN,Matthias Askew,No,DT,DT,0,22,2005,0,0,0,0,0,6,,,,,,,,,,,,1,,,Michigan St.
+2004Robert Geathers,GeatRo21,2004,4,117,CIN,Robert Geathers,No,DE,DE,24,21,2014,0,0,7,46,46,152,,,,,,,,,,,,183,3,34,Georgia
+2004Ernest Wilford,WilfEr00,2004,4,120,JAX,Ernest Wilford,No,WR,WR,22,25,2010,0,0,3,22,22,87,,,,,,,,,156,2145,15,5,,,Virginia Tech
+2004J.R. Reed,ReedJ.20,2004,4,129,PHI,J.R. Reed,No,DB,DB,0,22,2008,0,0,0,3,3,43,,,,,,,,,,,,56,,,South Florida
+2004Chad Lavalais,LavaCh20,2004,5,142,ATL,Chad Lavalais,No,DT,DT,9,25,2005,0,0,1,9,9,30,,,,,,,,,,,,41,,2.5,LSU
+2004Jeb Terry,TerrJe20,2004,5,146,TAM,Jeb Terry,No,G,G,2,23,2006,0,0,0,2,2,30,,,,,,,,,,,,,,,North Carolina
+2004Craig Krenzel,KrenCr00,2004,5,148,CHI,Craig Krenzel,No,QB,QB,1,23,2004,0,0,0,1,1,6,59,127,718,3,6,18,41,0,,,,1,,,Ohio St.
+2004Mark Wilson,WilsMa21,2004,5,151,WAS,Mark Wilson,No,TE,TE,0,23,2004,0,0,0,0,0,2,,,,,,,,,,,,,,,California
+2004Tony Bua,BuaxTo20,2004,5,160,MIA,Tony Bua,No,LB,LB,1,24,2004,0,0,0,1,1,7,,,,,,,,,,,,,,,Arkansas
+2004Thomas Tapeh,TapeTh00,2004,5,162,PHI,Thomas Tapeh,No,FB,FB,2,24,2008,0,0,2,2,2,41,,,,,,22,69,0,27,157,1,7,,,Minnesota
+2004P.K. Sam,SamxP.20,2004,5,164,NWE,P.K. Sam,No,WR,WR,0,20,2004,0,0,0,0,0,2,,,,,,,,,,,,,,,Florida St.
+2004Vontez Duff,,2004,6,170,HOU,Vontez Duff,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Notre Dame
+2004Rex Hadnot,HadnRe20,2004,6,174,MIA,Rex Hadnot,No,G,G,30,22,2012,0,0,5,36,23,129,,,,,,,,,0,-2,0,,,,Houston
+2004Cody Spencer,SpenCo20,2004,6,182,OAK,Cody Spencer,No,LB,LB,4,23,2008,0,0,0,4,,50,,,,,,,,,,,,53,,,North Texas
+2004Greg Brooks,BrooGr20,2004,6,183,CIN,Greg Brooks,No,DB,DB,0,23,2006,0,0,0,0,0,16,,,,,,,,,,,,7,,,Southern Miss
+2004Deandre Eiland,,2004,6,184,MIN,Deandre Eiland,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,South Carolina
+2004Eric Taylor,TaylEr20,2004,7,212,PIT,Eric Taylor,No,DT,DT,0,22,2005,0,0,0,0,,1,,,,,,,,,,,,,,,Memphis
+2004Darrell McClover,McClDa21,2004,7,213,NYJ,Darrell McClover,No,LB,LB,3,23,2009,0,0,0,4,1,51,,,,,,,,,,,,35,,,Miami (FL)
+2004Jonathan Smith,SmitJo00,2004,7,214,BUF,Jonathan Smith,No,WR,WR,2,22,2006,0,0,0,2,2,18,,,,,,3,12,0,8,77,1,2,,,Georgia Tech
+2004Christian Morton,MortCh20,2004,7,233,NWE,Christian Morton,No,DB,DB,2,23,2006,0,0,0,2,,14,,,,,,,,,,,,18,1,,Illinois
+2004Derrick Ward,WardDe01,2004,7,235,NYJ,Derrick Ward,No,RB,RB,20,24,2011,0,0,0,25,,93,,,,,,551,2628,12,96,787,3,20,,,Fresno St.
+2004Rashad Washington,WashRa20,2004,7,236,NYJ,Rashad Washington,No,DB,DB,3,24,2007,0,0,0,3,3,47,,,,,,,,,,,,52,,1.5,Kansas St.
+2004Eugene Amano,AmanEu20,2004,7,239,TEN,Eugene Amano,No,C,C,13,22,2012,0,0,4,31,31,124,,,,,,,,,1,7,0,1,,,SE Missouri St.
+2004Isaac Hilton,,2004,7,253,NYG,Isaac Hilton,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Hampton
+2004Andre Sommersell,,2004,7,255,OAK,Andre Sommersell,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado St.
+2003Johnathan Sullivan,SullJo23,2003,1,6,NOR,Johnathan Sullivan,No,DT,DT,10,22,2005,0,0,1,10,10,36,,,,,,,,,,,,56,,,
+2003Terrell Suggs,SuggTe99,2003,1,10,BAL,Terrell Suggs,No,LB,LB,46,20,2016,1,6,11,96,96,191,,,,,,,,,,,,530,,,
+2003Michael Haynes,HaynMi20,2003,1,14,CHI,Michael Haynes,No,DE,DE,8,23,2005,0,0,0,8,8,43,,,,,,,,,,,,48,,,
+2003Calvin Pace,PaceCa20,2003,1,18,ARI,Calvin Pace,No,DE,DE,24,22,2015,0,0,10,72,19,187,,,,,,,,,,,,462,,,
+2003George Foster,FostGe20,2003,1,20,DEN,George Foster,No,T,T,32,23,2008,0,0,4,31,25,68,,,,,,,,,,,,,,,
+2003Rex Grossman,GrosRe00,2003,1,22,CHI,Rex Grossman,No,QB,QB,16,23,2012,0,0,2,23,16,54,863,1562,10232,56,60,81,106,4,1,-4,0,3,,,
+2003Dallas Clark,ClarDa00,2003,1,24,IND,Dallas Clark,No,TE,TE,28,24,2013,1,1,8,51,47,143,,,,,,4,40,0,505,5665,53,22,,,
+2003William Joseph,JoseWi20,2003,1,25,NYG,William Joseph,No,DT,DT,11,24,2009,0,0,1,11,10,69,,,,,,,,,,,,60,,,
+2003Larry Johnson,JohnLa00,2003,1,27,KAN,Larry Johnson,No,RB,RB,46,23,2011,1,2,4,51,50,85,1,3,4,1,0,1427,6223,55,154,1373,6,8,,,
+2003Charles Tillman,TillCh20,2003,2,35,CHI,Charles Tillman,No,DB,DB,30,22,2015,1,2,11,68,65,168,,,,,,,,,,,,773,,,
+2003Rashean Mathis,MathRa99,2003,2,39,JAX,Rashean Mathis,No,DB,DB,49,23,2015,1,1,10,66,58,175,,,,,,,,,,,,576,,,
+2003Pisa Tinoisamoa,TinoPi20,2003,2,43,STL,Pisa Tinoisamoa,No,LB,LB,28,22,2010,0,0,7,35,30,98,,,,,,,,,,,,395,,,
+2003Bethel Johnson,JohnBe00,2003,2,45,NWE,Bethel Johnson,No,WR,WR,8,24,2006,0,0,0,8,7,50,,,,,,7,4,0,39,606,4,9,,,
+2003Drayton Florence,FlorDr20,2003,2,46,SDG,Drayton Florence,No,DB,DB,21,22,2013,0,0,6,38,18,157,,,,,,,,,,,,414,,,
+2003Kawika Mitchell,MitcKa20,2003,2,47,KAN,Kawika Mitchell,No,LB,LB,31,23,2010,0,0,5,36,19,97,,,,,,,,,,,,371,,,
+2003Chaun Thompson,ThomCh23,2003,2,52,CLE,Chaun Thompson,No,LB,LB,18,23,2009,0,0,2,18,17,98,,,,,,,,,,,,165,,,
+2003Mike Doss,DossMi20,2003,2,58,IND,Mike Doss,No,DB,DB,18,22,2008,0,0,3,17,16,57,,,,,,,,,,,,199,,,
+2003Alonzo Jackson,JackAl23,2003,2,59,PIT,Alonzo Jackson,No,LB,LB,2,23,2005,0,0,0,2,1,18,,,,,,,,,,,,15,,,
+2003L.J. Smith,SmitL.00,2003,2,61,PHI,L.J. Smith,No,TE,TE,0,23,2009,0,0,4,21,21,98,,,,,,,,,233,2556,18,19,,,
+2003Teyo Johnson,JohnTe00,2003,2,63,OAK,Teyo Johnson,No,TE,TE,2,21,2005,0,0,0,2,2,30,,,,,,,,,26,288,3,3,,,
+2003Kelley Washington,WashKe00,2003,3,65,CIN,Kelley Washington,No,WR,WR,8,24,2010,0,0,0,13,7,91,,,,,,3,5,0,120,1500,12,22,,,
+2003Cory Redding,ReddCo20,2003,3,66,DET,Cory Redding,No,DE,DE,28,22,2015,0,0,10,54,25,188,,,,,,,,,,,,313,,,
+2003Lance Briggs,BrigLa99,2003,3,68,CHI,Lance Briggs,No,LB,LB,61,22,2014,1,7,12,98,98,173,,,,,,,,,,,,936,,,
+2003Nate Burleson,BurlNa00,2003,3,71,MIN,Nate Burleson,No,WR,WR,30,22,2013,0,0,8,46,17,135,,,,,,40,257,0,457,5630,39,22,,,
+2003Kenny Peterson,PeteKe21,2003,3,79,GNB,Kenny Peterson,No,DT,DT,5,24,2009,0,0,1,12,3,76,,,,,,,,,,,,81,,,
+2003B.J. Askew,AskeB.00,2003,3,85,NYJ,B.J. Askew,No,FB,FB,0,23,2009,0,0,1,4,1,83,,,,,,35,116,2,45,317,0,33,,,
+2003Cie Grant,GranCi20,2003,3,86,NOR,Cie Grant,No,LB,LB,0,23,2003,0,0,0,0,0,7,,,,,,,,,,,,3,,,
+2003Taylor Whitley,WhitTa21,2003,3,87,MIA,Taylor Whitley,No,G,G,4,23,2005,0,0,1,4,4,18,,,,,,,,,,,,,,,
+2003Visanthe Shiancoe,ShiaVi00,2003,3,91,NYG,Visanthe Shiancoe,No,TE,TE,5,23,2013,0,0,5,23,1,149,,,,,,,,,245,2679,27,9,,,
+2003Chris Simms,SimmCh00,2003,3,97,TAM,Chris Simms,No,QB,QB,8,23,2009,0,0,1,8,8,23,297,511,3117,12,18,33,48,1,1,-3,0,2,,,
+2003Montrae Holland,HollMo20,2003,4,102,NOR,Montrae Holland,No,G,G,24,23,2011,0,0,3,29,14,99,,,,,,,,,,,,,,,
+2003Bradie James,JameBr20,2003,4,103,DAL,Bradie James,No,LB,LB,28,22,2012,0,0,8,54,48,157,,,,,,,,,,,,561,,,
+2003Jarret Johnson,JohnJa23,2003,4,109,BAL,Jarret Johnson,No,DE,DE,20,22,2014,0,0,9,54,42,184,,,,,,,,,,,,349,,,
+2003Brett Williams,WillBr21,2003,4,113,KAN,Brett Williams,No,T,T,0,23,2004,0,0,0,0,0,5,,,,,,,,,,,,,,,
+2003Colin Branch,BranCo20,2003,4,119,CAR,Colin Branch,No,DB,DB,10,23,2006,0,0,1,10,10,48,,,,,,,,,,,,67,,,
+2003Justin Griffith,GrifJu00,2003,4,121,ATL,Justin Griffith,No,FB,FB,11,23,2009,0,0,6,11,8,96,,,,,,94,413,1,141,989,12,5,,,
+2003Brandon Lloyd,LloyBr00,2003,4,124,SFO,Brandon Lloyd,No,WR,WR,15,22,2014,0,1,6,41,11,142,0,1,0,0,0,1,-18,0,399,5989,36,12,,,
+2003Ovie Mughelli,MughOv00,2003,4,134,BAL,Ovie Mughelli,No,FB,FB,2,23,2011,0,1,2,6,2,107,,,,,,42,120,1,62,490,6,47,,,
+2003Bobby Wade,WadeBo00,2003,5,139,CHI,Bobby Wade,No,WR,WR,16,22,2009,0,0,3,22,5,102,,,,,,22,93,0,244,2858,9,8,,,
+2003Mike Scifres,ScifMi20,2003,5,149,SDG,Mike Scifres,No,P,P,11,22,2015,0,0,0,23,23,195,1,3,28,0,1,1,-7,0,,,,9,,,
+2003Matt Walters,WaltMa20,2003,5,150,NYJ,Matt Walters,No,DE,DE,1,24,2003,0,0,0,1,1,11,,,,,,,,,,,,5,,,
+2003Ben Sobieski,SobiBe20,2003,5,151,BUF,Ben Sobieski,No,T,T,0,24,2003,0,0,0,0,0,1,,,,,,,,,,,,,,,
+2003Michael Lehan,LehaMi20,2003,5,152,CLE,Michael Lehan,No,DB,DB,10,23,2008,0,0,1,10,3,70,,,,,,,,,,,,115,,,
+2003Kevin Garrett,GarrKe20,2003,5,172,STL,Kevin Garrett,No,DB,DB,2,23,2006,0,0,0,2,2,24,,,,,,,,,,,,16,,,
+2003Marques Ogden,,2003,6,193,JAX,Marques Ogden,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Torrie Cox,CoxxTo21,2003,6,205,TAM,Torrie Cox,No,DB,DB,4,22,2009,0,0,0,5,5,56,,,,,,,,,,,,71,,,
+2003David Tyree,TyreDa00,2003,6,211,NYG,David Tyree,No,WR,WR,5,23,2009,0,1,0,5,5,83,,,,,,1,-9,0,54,650,4,67,,,
+2003Ben Johnson,,2003,7,216,DET,Ben Johnson,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Curry Burns,BurnCu20,2003,7,217,HOU,Curry Burns,No,DB,DB,1,22,2006,0,0,0,1,0,11,,,,,,,,,,,,20,,,
+2003Malaefou MacKenzie,MacKMa20,2003,7,218,JAX,Malaefou MacKenzie,No,FB,FB,0,24,2003,0,0,0,0,0,1,,,,,,,,,,,,,,,
+2003Blue Adams,AdamBl20,2003,7,220,DET,Blue Adams,No,DB,DB,3,23,2007,0,0,0,3,,50,,,,,,,,,,,,44,,,
+2003Andrew Pinnock,PinnAn00,2003,7,229,SDG,Andrew Pinnock,No,FB,FB,1,23,2007,0,0,0,1,1,42,,,,,,18,56,0,4,31,0,10,,,
+2003Talman Gardner,GardTa00,2003,7,231,NOR,Talman Gardner,No,WR,WR,0,23,2004,0,0,0,0,0,21,,,,,,,,,4,52,0,9,,,
+2003Chance Pearce,,2003,7,233,HOU,Chance Pearce,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Brandon Drumm,,2003,7,236,DET,Brandon Drumm,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Norman LeJeune,LeJeNo20,2003,7,244,PHI,Norman LeJeune,No,DB,DB,0,23,2006,0,0,0,0,,7,,,,,,,,,,,,2,,,
+2003Chris Johnson,JohnCh26,2003,7,245,GNB,Chris Johnson,No,DB,DB,11,24,2012,0,0,1,14,,77,,,,,,,,,,,,160,,,
+2003Casey Moore,,2003,7,247,CAR,Casey Moore,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Wayne Lucier,LuciWa20,2003,7,249,NYG,Wayne Lucier,No,G,G,9,23,2004,0,0,0,9,9,27,,,,,,,,,,,,,,,
+2003Scott Shanle,ShanSc20,2003,7,251,STL,Scott Shanle,No,LB,LB,20,23,2012,0,0,7,42,0,133,,,,,,,,,,,,400,,,
+2003DeAndrew Rubin,,2003,7,253,GNB,DeAndrew Rubin,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2003Richard Angulo,AnguRi00,2003,7,254,STL,Richard Angulo,No,TE,TE,1,23,2008,0,0,0,2,0,27,,,,,,,,,17,155,1,,,,
+2003Carl Ford,FordCa00,2003,7,256,GNB,Carl Ford,No,WR,WR,0,22,2005,0,0,0,0,,10,,,,,,,,,,,,3,,,
+2003Ryan Hoag,,2003,7,262,OAK,Ryan Hoag,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+2002John Henderson,HendJo99,2002,1,9,JAX,John Henderson,No,DT,DT,53,23,2011,0,2,7,64,62,146,,,,,,,,,0,0,0,378,,29,Tennessee
+2002T.J. Duckett,DuckT.00,2002,1,18,ATL,T.J. Duckett,No,RB,RB,0,21,2008,0,0,1,21,17,93,0,1,0,0,0,717,2814,44,35,303,0,3,,,Michigan St.
+2002Jabar Gaffney,GaffJa00,2002,2,33,HOU,Jabar Gaffney,No,WR,WR,20,21,2012,0,0,6,42,14,158,1,5,39,1,0,9,56,0,447,5690,24,13,,,Florida
+2002Raonall Smith,SmitRa20,2002,2,38,MIN,Raonall Smith,No,LB,LB,7,23,2007,0,0,0,7,6,50,,,,,,,,,,,,70,1,2.5,Washington St.
+2002Michael Lewis,LewiMi99,2002,2,58,PHI,Michael Lewis,No,DB,DB,29,22,2010,0,1,6,43,25,128,,,,,,,,,,,,550,12,11.5,Colorado
+2002Anton Palepoi,PaleAn20,2002,2,60,SEA,Anton Palepoi,No,DE,DE,4,24,2005,0,0,0,4,2,35,,,,,,,,,,,,32,,4,UNLV
+2002Antwaan Randle El,RandAn00,2002,2,62,PIT,Antwaan Randle El,No,WR,WR,32,23,2010,0,0,4,41,26,143,22,27,323,6,0,79,438,0,370,4467,15,13,,,Indiana
+2002Deion Branch,BranDe00,2002,2,65,NWE,Deion Branch,No,WR,WR,33,23,2012,0,0,8,52,40,140,0,0,0,0,0,8,33,0,518,6644,39,23,,,Louisville
+2002Saleem Rasheed,RashSa20,2002,3,69,SFO,Saleem Rasheed,No,LB,LB,4,21,2005,0,0,0,4,4,45,,,,,,,,,,,,38,,1,Alabama
+2002Derek Ross,RossDe20,2002,3,75,DAL,Derek Ross,No,DB,DB,7,22,2004,0,0,1,7,7,33,,,,,,,,,,,,73,6,,Ohio St.
+2002Melvin Fowler,FowlMe20,2002,3,76,CLE,Melvin Fowler,No,C,C,19,23,2008,0,0,3,25,7,88,,,,,,,,,,,,1,,,Maryland
+2002Josh McCown,McCoJo01,2002,3,81,ARI,Josh McCown,No,QB,QB,15,23,2016,0,0,4,31,13,81,1229,2078,13920,78,69,204,952,8,3,10,0,6,,,Sam Houston St.
+2002James Allen,AlleJa21,2002,3,82,NOR,James Allen,No,LB,LB,9,22,2005,0,0,1,9,9,48,,,,,,,,,,,,69,1,,Oregon St.
+2002Marquis Walker,,2002,3,86,TAM,Marquis Walker,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Michigan
+2002Seth McKinney,McKiSe20,2002,3,90,MIA,Seth McKinney,No,C,C,16,23,2009,0,0,3,21,15,93,,,,,,,,,,,,,,,Texas A&M
+2002Chris Hope,HopeCh21,2002,3,94,PIT,Chris Hope,No,DB,DB,23,22,2012,0,1,7,44,15,163,,,,,,,,,1,81,1,552,20,4,Florida St.
+2002Coy Wire,WireCo20,2002,3,97,BUF,Coy Wire,No,DB,DB,12,23,2010,0,0,1,16,11,127,,,,,,,,,,,,182,,5,Stanford
+2002Jeff Chandler,chandjef01,2002,4,102,SFO,Jeff Chandler,No,K,K,1,23,2004,0,0,0,1,1,13,,,,,,,,,,,,1,,,Florida
+2002David Thornton,ThorDa20,2002,4,106,IND,David Thornton,No,LB,LB,27,23,2009,0,0,7,42,19,121,,,,,,,,,,,,560,5,5,North Carolina
+2002Omar Easy,EasyOm00,2002,4,107,KAN,Omar Easy,No,FB,FB,0,24,2005,0,0,0,0,0,53,,,,,,4,1,0,6,42,1,24,,,Penn St.
+2002Ron Johnson,JohnRo03,2002,4,123,BAL,Ron Johnson,No,WR,WR,1,22,2003,0,0,0,1,1,22,,,,,,,,,11,126,1,6,,,Minnesota
+2002Scott Peters,PeteSc20,2002,4,124,PHI,Scott Peters,No,C,C,1,23,2003,0,0,0,1,,7,,,,,,,,,,,,,,,Arizona St.
+2002Rocky Boiman,BoimRo20,2002,4,133,TEN,Rocky Boiman,No,LB,LB,8,22,2009,0,0,0,15,6,103,,,,,,,,,,,,169,5,1.5,Notre Dame
+2002Kevin McCadam,McCaKe20,2002,5,148,ATL,Kevin McCadam,No,DB,DB,6,23,2006,0,0,0,6,5,71,,,,,,,,,,,,61,,1,Colorado St.
+2002Jason McAddley,McAdJa00,2002,5,149,ARI,Jason McAddley,No,WR,WR,4,23,2005,0,0,1,4,3,34,,,,,,,,,38,578,1,8,,,Alabama
+2002Terry Jones,JoneTe00,2002,5,155,BAL,Terry Jones,No,TE,TE,5,22,2005,0,0,2,5,4,53,,,,,,,,,59,493,5,2,,,Alabama
+2002Brandon Doman,,2002,5,163,SFO,Brandon Doman,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,,BYU
+2002Courtland Bullard,BullCo20,2002,5,167,STL,Courtland Bullard,No,LB,LB,2,24,2003,0,0,0,2,2,20,,,,,,,,,,,,10,,,Ohio St.
+2002Pete Hunter,HuntPe20,2002,5,168,DAL,Pete Hunter,No,DB,DB,5,22,2006,0,0,0,5,5,36,,,,,,,,,,,,60,3,1,Virginia Union
+2002Keith Heinrich,HeinKe00,2002,6,174,CAR,Keith Heinrich,No,TE,TE,1,23,2007,0,0,0,1,0,22,,,,,,,,,9,65,2,1,,,Sam Houston St.
+2002Kevin Thomas,ThomKe22,2002,6,176,BUF,Kevin Thomas,No,DB,DB,5,24,2004,0,0,0,5,5,38,,,,,,,,,1,24,0,62,1,1.5,UNLV
+2002Justin Hartwig,HartJu20,2002,6,187,TEN,Justin Hartwig,No,C,C,24,23,2009,0,0,6,42,21,99,,,,,,,,,,,,3,,,Kansas
+2002Howard Green,GreeHo20,2002,6,190,HOU,Howard Green,No,DT,DT,5,23,2011,0,0,1,12,,76,,,,,,,,,,,,63,,2,LSU
+2002Bob Slowikowski,,2002,6,211,DAL,Bob Slowikowski,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia Tech
+2002Pete Campion,,2002,7,213,CAR,Pete Campion,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,North Dakota St.
+2002Derrius Monroe,,2002,7,224,NOR,Derrius Monroe,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia Tech
+2002Jeff Grau,GrauJe20,2002,7,230,WAS,Jeff Grau,No,C,C,2,22,2003,0,0,0,2,,27,,,,,,,,,,,,,,,UCLA
+2002Quincy Monk,MonkQu20,2002,7,245,NYG,Quincy Monk,No,LB,LB,1,23,2004,0,0,0,1,1,15,,,,,,,,,,,,7,,,North Carolina
+2002Teddy Gaines,,2002,7,256,SFO,Teddy Gaines,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee
+2002Brad Franklin,FranBr20,2002,7,258,CAR,Brad Franklin,No,DB,DB,0,22,2003,0,0,0,0,,4,,,,,,,,,,,,3,,,La-Lafayette
+2002Ahmad Miller,,2002,7,261,HOU,Ahmad Miller,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,,UNLV
+2001LaDainian Tomlinson,TomlLa00,2001,1,5,SDG,LaDainian Tomlinson,No,RB,RB,80,22,2011,3,5,10,128,121,170,8,12,143,7,0,3174,13684,145,624,4772,17,8,,,TCU
+2001Marcus Stroud,StroMa01,2001,1,13,JAX,Marcus Stroud,No,DT,DT,45,23,2010,0,3,9,64,48,146,,,,,,,,,,,,309,,29.5,Georgia
+2001Jeff Backus,BackJe20,2001,1,18,DET,Jeff Backus,No,T,T,31,24,2012,0,0,12,63,63,191,,,,,,,,,,,,6,,,Michigan
+2001Deuce McAllister,McAlDe00,2001,1,23,NOR,Deuce McAllister,No,RB,RB,46,22,2008,0,2,4,55,55,97,1,4,12,1,0,1429,6096,49,234,1720,5,13,,,Mississippi
+2001Michael Bennett,BennMi00,2001,1,27,MIN,Michael Bennett,No,RB,RB,32,23,2010,0,1,2,34,29,109,,,,,,842,3703,13,159,1294,6,15,,,Wisconsin
+2001Derrick Gibson,GibsDe21,2001,1,28,OAK,Derrick Gibson,No,DB,DB,12,22,2006,0,0,2,12,12,69,,,,,,,,,,,,159,3,2,Florida St.
+2001Kyle Vanden Bosch,VandKy99,2001,2,34,ARI,Kyle Vanden Bosch,No,DE,DE,20,22,2012,0,3,9,59,8,152,,,,,,,,,,,,332,,58,Nebraska
+2001Anthony Thomas,ThomAn01,2001,2,38,CHI,Anthony Thomas,No,RB,RB,24,23,2007,0,0,3,27,22,87,,,,,,1044,3891,23,113,756,1,12,,,Michigan
+2001Maurice Williams,WillMa25,2001,2,43,JAX,Maurice Williams,No,T,T,33,22,2009,0,0,6,47,47,105,,,,,,,,,,,,,,,Michigan
+2001Quinton Caver,CaveQu20,2001,2,55,PHI,Quinton Caver,No,LB,LB,5,23,2005,0,0,0,5,1,53,,,,,,,,,,,,52,,,Arkansas
+2001Marques Tuiasosopo,TuiaMa00,2001,2,59,OAK,Marques Tuiasosopo,No,QB,QB,1,22,2008,0,0,0,1,1,13,49,90,554,2,7,17,79,0,,,,1,,,Washington
+2001James Jackson,JackJa00,2001,3,65,CLE,James Jackson,No,RB,RB,9,25,2005,0,0,1,9,9,52,,,,,,325,1082,5,32,232,0,4,,,Miami (FL)
+2001Sedrick Hodge,HodgSe20,2001,3,70,NOR,Sedrick Hodge,No,LB,LB,19,23,2005,0,0,3,18,18,63,,,,,,,,,,,,161,,1,North Carolina
+2001Kevan Barlow,BarlKe00,2001,3,80,SFO,Kevan Barlow,No,RB,RB,36,22,2006,0,0,2,36,33,84,,,,,,1022,3984,30,144,1164,3,3,,,Pittsburgh
+2001Heath Evans,EvanHe00,2001,3,82,SEA,Heath Evans,No,FB,FB,4,22,2010,0,0,0,8,1,143,,,,,,164,579,4,57,439,4,24,,,Auburn
+2001Brian Allen,AlleBr21,2001,3,83,STL,Brian Allen,No,LB,LB,8,23,2004,0,0,0,8,0,47,,,,,,,,,,,,73,1,1,Florida St.
+2001Travis Minor,MinoTr00,2001,3,85,MIA,Travis Minor,No,RB,RB,10,22,2008,0,0,0,10,10,118,,,,,,307,1230,8,67,474,1,54,,,Florida St.
+2001Brock Williams,WillBr26,2001,3,86,NWE,Brock Williams,No,DB,DB,1,22,2004,0,0,0,1,,12,,,,,,,,,,,,9,,,Notre Dame
+2001Shad Meier,MeieSh00,2001,3,90,TEN,Shad Meier,No,TE,TE,3,23,2005,0,0,0,3,3,53,,,,,,,,,42,334,3,2,,,Kansas St.
+2001Willie Blade,BladWi20,2001,3,93,DAL,Willie Blade,No,DT,DT,8,22,2004,0,0,1,8,7,20,,,,,,,,,,,,12,,1,Mississippi St.
+2001Jonas Jennings,JennJo20,2001,3,95,BUF,Jonas Jennings,No,T,T,24,23,2008,0,0,5,29,21,75,,,,,,,,,,,,,,,Georgia
+2001Anthony Henry,HenrAn20,2001,4,97,CLE,Anthony Henry,No,DB,DB,27,24,2009,0,0,6,39,18,132,,,,,,,,,,,,425,31,2,South Florida
+2001Karon Riley,RileKa20,2001,4,103,CHI,Karon Riley,No,LB,LB,1,23,2004,0,0,0,1,0,25,,,,,,,,,,,,12,,,Minnesota
+2001George Layne,LaynGe00,2001,4,108,KAN,George Layne,No,RB,RB,0,22,2004,0,0,0,0,,11,,,,,,3,32,0,4,20,0,8,,,TCU
+2001Sage Rosenfels,RoseSa00,2001,4,109,WAS,Sage Rosenfels,No,QB,QB,3,23,2010,0,0,0,13,,44,351,562,4156,30,29,48,95,1,,,,1,,,Iowa St.
+2001Brandon Spoon,SpooBr20,2001,4,110,BUF,Brandon Spoon,No,LB,LB,5,23,2001,0,0,1,5,5,14,,,,,,,,,,,,45,2,,North Carolina
+2001Mathias Nkwenti,NkweMa20,2001,4,111,PIT,Mathias Nkwenti,No,T,T,0,23,2003,0,0,0,0,0,2,,,,,,,,,,,,,,,Temple
+2001Ben Hamilton,HamiBe20,2001,4,113,DEN,Ben Hamilton,No,G,G,45,24,2010,0,0,7,51,50,118,,,,,,,,,,,,2,,,Minnesota
+2001Milton Wynn,WynnMi00,2001,4,116,STL,Milton Wynn,No,WR,WR,1,23,2002,0,0,0,1,,4,,,,,,,,,4,69,0,1,,,Washington St.
+2001John Howell,HoweJo21,2001,4,117,TAM,John Howell,No,DB,DB,8,23,2006,0,0,0,7,7,65,,,,,,,,,0,0,0,83,,,Colorado St.
+2001Ryan Diem,DiemRy20,2001,4,118,IND,Ryan Diem,No,T,T,42,22,2011,0,0,10,70,70,157,,,,,,,,,,,,1,,,Northern Illinois
+2001Correll Buckhalter,BuckCo00,2001,4,121,PHI,Correll Buckhalter,No,RB,RB,11,22,2010,0,0,0,28,20,103,,,,,,655,2944,21,144,1410,6,15,,,Nebraska
+2001Markus Steele,SteeMa20,2001,4,122,DAL,Markus Steele,No,LB,LB,8,22,2003,0,0,1,8,8,42,,,,,,,,,,,,71,,,USC
+2001Jesse Palmer,PalmJe00,2001,4,125,NYG,Jesse Palmer,No,QB,QB,1,22,2003,0,0,0,1,1,8,63,120,562,3,4,5,20,0,,,,,,,Florida
+2001Ed Hartwell,HartEd20,2001,4,126,BAL,Ed Hartwell,No,LB,LB,27,23,2006,0,0,3,28,24,77,,,,,,,,,,,,275,1,7,West. Illinois
+2001Bernard Robertson,RobeBe20,2001,5,138,CHI,Bernard Robertson,No,T,T,3,22,2002,0,0,0,3,3,16,,,,,,,,,,,,,,,Tulane
+2001Alex Bannister,BannAl00,2001,5,140,SEA,Alex Bannister,No,WR,WR,1,22,2006,0,1,0,1,1,59,,,,,,,,,9,121,1,44,,,East. Kentucky
+2001Marques Sullivan,SullMa20,2001,5,144,BUF,Marques Sullivan,No,G,G,11,23,2003,0,0,1,11,11,32,,,,,,,,,,,,,,,Illinois
+2001Jerametrius Butler,ButlJe20,2001,5,145,STL,Jerametrius Butler,No,DB,DB,16,22,2007,0,0,2,17,16,70,,,,,,,,,,,,172,9,,Kansas St.
+2001Chukky Okobi,OkobCh20,2001,5,146,PIT,Chukky Okobi,No,C,C,6,22,2007,0,0,0,7,7,78,,,,,,,,,,,,,,,Purdue
+2001Scotty Anderson,AndeSc00,2001,5,148,DET,Scotty Anderson,No,WR,WR,8,21,2003,0,0,0,8,8,34,,,,,,,,,54,858,4,3,,,Grambling St.
+2001Mike McMahon,McMaMi00,2001,5,149,DET,Mike McMahon,No,QB,QB,6,22,2005,0,0,0,6,5,29,229,515,2867,15,21,82,409,7,1,7,0,3,,,Rutgers
+2001Ray Perryman,PerrRa21,2001,5,158,OAK,Ray Perryman,No,DB,DB,0,22,2004,0,0,0,0,,10,,,,,,,,,,,,,,,Northern Arizona
+2001John Markham,,2001,5,160,NYG,John Markham,No,K,K,0,,,0,0,0,,,,,,,,,,,,,,,,,,Vanderbilt
+2001Hakim Akbar,AkbaHa20,2001,5,163,NWE,Hakim Akbar,No,LB,LB,0,21,2002,0,0,0,0,0,10,,,,,,,,,,,,2,,,Washington
+2001Randy Garner,,2001,6,167,ATL,Randy Garner,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas
+2001Arther Love,,2001,6,180,NWE,Arther Love,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,South Carolina St.
+2001Rodney Bailey,BailRo21,2001,6,181,PIT,Rodney Bailey,No,DE,DE,6,21,2007,0,0,0,7,6,84,,,,,,,,,,,,51,,9.5,Ohio St.
+2001Chris Cooper,CoopCh20,2001,6,184,OAK,Chris Cooper,No,DT,DT,11,23,2007,0,0,0,12,10,78,,,,,,,,,,,,99,1,8.5,Nebraska-Omaha
+2001Mario Monds,MondMa20,2001,6,186,WAS,Mario Monds,No,DT,DT,1,24,2004,0,0,0,1,,7,,,,,,,,,,,,4,,,Cincinnati
+2001Menson Holloway,,2001,6,191,SFO,Menson Holloway,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas-El Paso
+2001Francis St. Paul,,2001,6,197,STL,Francis St. Paul,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Northern Arizona
+2001Dauntae' Finger,,2001,7,205,TAM,Dauntae' Finger,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,North Carolina
+2001Alex Lincoln,,2001,7,209,SFO,Alex Lincoln,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Auburn
+2001Shaunard Harts,HartSh20,2001,7,212,KAN,Shaunard Harts,No,DB,DB,8,23,2004,0,0,1,8,8,51,,,,,,,,,,,,141,2,2,Boise St.
+2001Mike Roberg,RobeMi00,2001,7,227,CAR,Mike Roberg,No,TE,TE,0,24,2002,0,0,0,0,,13,,,,,,,,,2,17,1,1,,,Idaho
+2001Keith Adams,AdamKe20,2001,7,232,TEN,Keith Adams,No,LB,LB,15,21,2007,0,0,1,15,,85,,,,,,,,,,,,143,,,Clemson
+2001Quentin McCord,McCoQu00,2001,7,236,ATL,Quentin McCord,No,WR,WR,5,23,2003,0,0,0,5,5,25,,,,,,4,13,0,23,427,1,7,,,Kentucky
+2001John Nix,NixxJo20,2001,7,240,DAL,John Nix,No,DT,DT,2,24,2004,0,0,0,2,2,31,,,,,,,,,,,,14,,,Southern Miss
+2000Courtney Brown,BrowCo22,2000,1,1,CLE,Courtney Brown,No,DE,DE,24,22,2005,0,0,4,28,21,61,,,,,,,,,,,,155,,19,Penn St.
+2000Chris Hovan,HovaCh20,2000,1,25,MIN,Chris Hovan,No,DT,DT,30,22,2009,0,0,10,56,23,156,,,,,,,,,,,,308,,22,Boston Col.
+2000Keith Bulluck,BullKe00,2000,1,30,TEN,Keith Bulluck,No,LB,LB,45,23,2010,1,1,9,73,70,170,,,,,,,,,,,,791,21,18,Syracuse
+2000Ian Gold,GoldIa00,2000,2,40,DEN,Ian Gold,No,LB,LB,25,22,2007,0,1,5,41,35,115,,,,,,,,,,,,422,4,17,Michigan
+2000Raynoch Thompson,ThomRa23,2000,2,41,ARI,Raynoch Thompson,No,LB,LB,21,22,2004,0,0,3,19,19,64,,,,,,,,,,,,242,,7.5,Tennessee
+2000Rogers Beckett,BeckRo20,2000,2,43,SDG,Rogers Beckett,No,DB,DB,18,23,2004,0,0,3,17,11,71,,,,,,,,,,,,216,4,4,Marshall
+2000Dwayne Goodrich,GoodDw20,2000,2,49,DAL,Dwayne Goodrich,No,DB,DB,1,22,2002,0,0,0,1,1,16,,,,,,,,,,,,8,,,Tennessee
+2000Fred Robbins,RobbFr20,2000,2,55,MIN,Fred Robbins,No,DT,DT,21,23,2011,0,0,10,52,9,180,,,,,,,,,,,,264,3,35.5,Wake Forest
+2000Brad Meester,MeesBr20,2000,2,60,JAX,Brad Meester,No,C,C,37,23,2013,0,0,14,72,72,209,,,,,,,,,1,9,0,4,,,Northern Iowa
+2000Ron Dugans,DugaRo00,2000,3,66,CIN,Ron Dugans,No,WR,WR,6,23,2002,0,0,0,6,6,46,,,,,,,,,89,797,3,29,,,Florida St.
+2000Darwin Walker,WalkDa21,2000,3,71,ARI,Darwin Walker,No,DT,DT,27,23,2008,0,0,5,39,0,109,,,,,,,,,,,,154,1,28.5,Tennessee
+2000Leander Jordan,JordLe20,2000,3,82,CAR,Leander Jordan,No,T,T,10,23,2005,0,0,1,10,2,37,,,,,,,,,,,,,,,Indiana (PA)
+2000Damion McIntosh,McInDa20,2000,3,83,SDG,Damion McIntosh,No,T,T,25,23,2009,0,0,8,42,18,125,,,,,,,,,,,,,,,Kansas St.
+2000Ben Kelly,KellBe20,2000,3,84,MIA,Ben Kelly,No,DB,DB,0,22,2002,0,0,0,0,0,13,,,,,,,,,,,,4,,,Colorado
+2000Greg Wesley,WeslGr20,2000,3,85,KAN,Greg Wesley,No,DB,DB,31,22,2007,0,0,7,39,39,118,,,,,,,,,,,,502,29,6,Ark-Pine Bluff
+2000Doug Chapman,ChapDo00,2000,3,88,MIN,Doug Chapman,No,RB,RB,3,23,2003,0,0,0,3,3,26,,,,,,90,317,0,17,143,1,2,,,Marshall
+2000T.J. Slaughter,SlauT.20,2000,3,92,JAX,T.J. Slaughter,No,LB,LB,0,23,2006,0,0,1,20,17,78,,,,,,,,,,,,178,1,2,Southern Miss
+2000Curtis Keaton,KeatCu00,2000,4,97,CIN,Curtis Keaton,No,RB,RB,0,23,2002,0,0,0,0,0,25,,,,,,23,91,0,1,9,0,,,,James Madison
+2000Brandon Short,ShorBr20,2000,4,105,NYG,Brandon Short,No,LB,LB,23,23,2006,0,0,5,32,22,100,,,,,,,,,,,,279,2,9.5,Penn St.
+2000Antonio Wilson,WilsAn20,2000,4,106,MIN,Antonio Wilson,No,LB,LB,2,22,2002,0,0,0,2,2,16,,,,,,,,,,,,14,,,Texas A&M-Commerce
+2000Leonardo Carson,CarsLe20,2000,4,113,SDG,Leonardo Carson,No,DT,DT,18,23,2004,0,0,2,17,10,64,,,,,,,,,,,,92,,8.5,Auburn
+2000Alvin McKinley,McKiAl20,2000,4,120,CAR,Alvin McKinley,No,DE,DE,4,22,2007,0,0,3,21,1,97,,,,,,,,,,,,146,,11.5,Mississippi St.
+2000Joey Chustz,,2000,4,123,JAX,Joey Chustz,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,Louisiana Tech
+2000Peter Sirmon,SirmPe20,2000,4,128,TEN,Peter Sirmon,No,LB,LB,17,23,2006,0,0,4,25,25,81,,,,,,,,,,,,250,4,5,Oregon
+2000Tutan Reyes,ReyeTu20,2000,5,131,NOR,Tutan Reyes,No,G,G,15,22,2008,0,0,2,20,0,53,,,,,,,,,,,,,,,Mississippi
+2000Clark Haggans,HaggCl20,2000,5,137,PIT,Clark Haggans,No,LB,LB,13,23,2012,0,0,7,48,30,172,,,,,,,,,,,,355,1,46.5,Colorado St.
+2000Lamar Chapman,ChapLa20,2000,5,146,CLE,Lamar Chapman,No,DB,DB,1,23,2001,0,0,0,1,1,8,,,,,,,,,,,,13,1,,Kansas St.
+2000Kabeer Gbaja-Biamila,GbajKa20,2000,5,149,GNB,Kabeer Gbaja-Biamila,No,DE,DE,31,23,2008,0,1,5,44,44,124,,,,,,,,,,,,215,1,74.5,San Diego St.
+2000Joey Jamison,,2000,5,151,GNB,Joey Jamison,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas Southern
+2000Arturo Freeman,FreeAr20,2000,5,152,MIA,Arturo Freeman,No,DB,DB,15,23,2005,0,0,2,14,14,74,,,,,,,,,,,,139,5,3.5,South Carolina
+2000Quincy Sanders,,2000,5,155,WAS,Quincy Sanders,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,UNLV
+2000Frank Chamberlin,ChamFr20,2000,5,160,TEN,Frank Chamberlin,No,LB,LB,5,22,2005,0,0,0,5,5,57,,,,,,,,,,,,30,,1,Boston Col.
+2000Jay Tant,TantJa00,2000,5,164,ARI,Jay Tant,No,TE,TE,0,22,2000,0,0,0,0,0,5,,,,,,,,,1,4,0,,,,Northwestern
+2000Chad Morton,MortCh00,2000,5,166,NOR,Chad Morton,No,RB,RB,9,23,2006,0,0,0,9,3,93,,,,,,89,382,0,48,419,1,7,,,USC
+2000Paul Edinger,edingpau01,2000,6,174,CHI,Paul Edinger,No,K,K,16,22,2005,0,0,0,17,15,96,0,1,0,0,1,,,,,,,9,,,Michigan St.
+2000Mario Edwards,EdwaMa20,2000,6,180,DAL,Mario Edwards,No,DB,DB,24,24,2004,0,0,3,22,21,73,,,,,,,,,,,,157,4,,Florida St.
+2000Spergon Wynn,WynnSp00,2000,6,183,CLE,Spergon Wynn,No,QB,QB,2,22,2001,0,0,0,2,0,10,70,152,585,1,7,11,76,0,,,,1,,,Texas St.
+2000John Hilliard,HillJo21,2000,6,190,SEA,John Hilliard,No,DE,DE,6,24,2002,0,0,0,6,6,27,,,,,,,,,,,,24,,,Mississippi St.
+2000Emanuel Smith,SmitEm20,2000,6,196,JAX,Emanuel Smith,No,WR,WR,0,24,2000,0,0,0,0,0,1,,,,,,,,,,,,,,,Arkansas
+2000Sherrod Gideon,,2000,6,200,NOR,Sherrod Gideon,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Southern Miss
+2000Manuia Savea,,2000,7,207,CLE,Manuia Savea,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Arizona
+2000Darrick Vaughn,VaugDa20,2000,7,211,ATL,Darrick Vaughn,No,DB,DB,10,21,2003,0,0,0,10,9,48,,,,,,,,,,,,48,1,,Texas St.
+2000Tim Rattay,RattTi00,2000,7,212,SFO,Tim Rattay,No,QB,QB,9,23,2007,0,0,1,12,10,40,432,714,4853,31,23,45,77,0,,,,1,,,Louisiana Tech
+2000Mike Green,GreeMi00,2000,7,213,TEN,Mike Green,No,RB,RB,2,24,2002,0,0,0,2,2,32,0,2,0,0,2,36,142,1,19,121,2,6,,,Houston
+2000Sekou Sanyika,SanySe20,2000,7,215,ARI,Sekou Sanyika,No,LB,LB,3,22,2001,0,0,0,3,3,32,,,,,,,,,,,,24,,1,California
+2000Delbert Cowsette,CowsDe20,2000,7,216,WAS,Delbert Cowsette,No,DT,DT,3,23,2002,0,0,0,3,3,32,,,,,,,,,,,,19,,2,Maryland
+2000Jeremiah Parker,ParkJe21,2000,7,217,NYG,Jeremiah Parker,No,DE,DE,0,22,2000,0,0,0,0,0,4,,,,,,,,,,,,,,,California
+2000Richard Seals,,2000,7,218,NYJ,Richard Seals,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,,Utah
+2000Casey Tisdale,,2000,7,226,NWE,Casey Tisdale,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,New Mexico
+2000Wes Shivers,ShivWe20,2000,7,237,TEN,Wes Shivers,No,T,T,0,23,2000,0,0,0,0,,3,,,,,,,,,,,,,,,Mississippi St.
+2000Patrick Pass,PassPa00,2000,7,239,NWE,Patrick Pass,No,FB,FB,6,22,2007,0,0,0,10,10,79,,,,,,128,526,3,66,570,1,43,,,Georgia
+2000Giles Cole,,2000,7,244,MIN,Giles Cole,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas A&M-Kingsville
+2000Leroy Fields,,2000,7,246,DEN,Leroy Fields,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Jackson St.
+1999Cade McNown,McNoCa00,1999,1,12,CHI,Cade McNown,No,QB,QB,7,22,2000,0,0,0,7,7,25,281,515,3111,16,19,82,486,3,,,,,,,UCLA
+1999John Tait,TaitJo20,1999,1,14,KAN,John Tait,No,T,T,31,24,2008,0,0,8,49,28,148,,,,,,1,28,0,0,0,0,1,,,BYU
+1999Anthony McFarland,McFaAn20,1999,1,15,TAM,Anthony McFarland,No,DT,DT,28,21,2006,0,0,4,40,36,109,,,,,,,,,,,,170,1,22.5,LSU
+1999Jevon Kearse,KearJe00,1999,1,16,TEN,Jevon Kearse,No,DE,DE,51,23,2009,1,3,8,72,55,133,,,,,,,,,,,,241,1,74,Florida
+1999Damien Woody,WoodDa20,1999,1,17,NWE,Damien Woody,No,C,C,39,21,2010,0,1,10,58,34,173,,,,,,,,,,,,1,,,Boston Col.
+1999Reggie McGrew,McGrRe20,1999,1,24,SFO,Reggie McGrew,No,DT,DT,1,22,2002,0,0,0,1,1,24,,,,,,,,,,,,9,,1,Florida
+1999Mike Rucker,RuckMi20,1999,2,38,CAR,Mike Rucker,No,DE,DE,32,24,2007,0,1,7,54,54,139,,,,,,,,,,,,331,1,55.5,Nebraska
+1999Tony Bryant,BryaTo20,1999,2,40,OAK,Tony Bryant,No,DE,DE,19,23,2005,0,0,3,21,18,82,,,,,,,,,,,,115,,23.5,Florida St.
+1999Dre' Bly,BlyxDr00,1999,2,41,STL,Dre' Bly,No,DB,DB,26,22,2009,0,2,7,52,12,167,,,,,,,,,,,,420,43,5,North Carolina
+1999Rob Konrad,KonrRo00,1999,2,43,MIA,Rob Konrad,No,FB,FB,9,22,2004,0,0,4,9,9,82,,,,,,38,114,1,111,854,6,1,,,Syracuse
+1999Johnny Rutledge,RutlJo20,1999,2,51,ARI,Johnny Rutledge,No,LB,LB,2,22,2003,0,0,0,2,2,46,,,,,,,,,,,,28,,,Florida
+1999Lennie Friedman,FrieLe20,1999,2,61,DEN,Lennie Friedman,No,G,G,17,22,2007,0,0,2,19,12,97,,,,,,,,,,,,,,,Duke
+1999Brandon Burlsworth,,1999,3,63,IND,Brandon Burlsworth,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas
+1999Doug Brzezinski,BrzeDo20,1999,3,64,PHI,Doug Brzezinski,No,G,G,12,23,2004,0,0,1,15,11,73,,,,,,,,,,,,,,,Boston Col.
+1999Rich Coady,CoadRi21,1999,3,68,STL,Rich Coady,No,DB,DB,7,23,2004,0,0,0,9,7,83,,,,,,,,,,,,131,2,1,Texas A&M
+1999D'Wayne Bates,BateDW00,1999,3,71,CHI,D'Wayne Bates,No,WR,WR,10,23,2003,0,0,2,10,2,47,,,,,,1,-2,0,80,1061,6,,,,Northwestern
+1999Gary Stills,StilGa00,1999,3,75,KAN,Gary Stills,No,DE,DE,9,25,2008,0,1,0,15,12,134,,,,,,,,,,,,173,,8.5,West Virginia
+1999Marty Booker,BookMa00,1999,3,78,CHI,Marty Booker,No,WR,WR,31,23,2009,0,1,7,47,30,157,3,10,126,2,0,18,41,0,539,6703,37,11,,,La-Monroe
+1999Zach Piller,PillZa20,1999,3,81,TEN,Zach Piller,No,G,G,23,23,2006,0,0,4,29,29,87,,,,,,,,,,,,,,,Florida
+1999David Loverne,LoveDa20,1999,3,90,NYJ,David Loverne,No,G,G,12,23,2004,0,0,2,12,2,63,,,,,,,,,,,,,,,San Jose St.
+1999Paul Miranda,MiraPa20,1999,4,96,IND,Paul Miranda,No,DB,DB,1,23,2001,0,0,0,1,0,16,,,,,,,,,,,,15,,,Central Florida
+1999Anthony Parker,ParkAn21,1999,4,99,SFO,Anthony Parker,No,DB,DB,1,23,2001,0,0,0,1,1,21,,,,,,,,,,,,20,,,Weber St.
+1999Dameane Douglas,DougDa00,1999,4,102,OAK,Dameane Douglas,No,WR,WR,2,23,2002,0,0,0,2,,52,,,,,,,,,14,165,3,22,,,California
+1999Larry Parker,ParkLa00,1999,4,108,KAN,Larry Parker,No,WR,WR,2,23,2001,0,0,0,2,2,38,,,,,,4,-1,0,18,240,2,3,,,USC
+1999Jay Humphrey,,1999,4,125,MIN,Jay Humphrey,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas
+1999Na Brown,BrowNa00,1999,4,130,PHI,Na Brown,No,WR,WR,4,22,2001,0,0,0,4,4,42,,,,,,,,,34,363,2,2,,,North Carolina
+1999Josh Bidwell,BidwJo20,1999,4,133,GNB,Josh Bidwell,No,P,P,10,23,2010,0,1,0,18,6,148,,,,,,1,0,0,,,,4,,,Oregon
+1999Brad Scioli,ScioBr20,1999,5,138,IND,Brad Scioli,No,DE,DE,12,23,2004,0,0,2,12,12,80,,,,,,,,,,,,86,,15,Penn St.
+1999Floyd Wedderburn,WeddFl20,1999,5,140,SEA,Floyd Wedderburn,No,G,G,15,23,2002,0,0,1,15,15,46,,,,,,,,,,,,,,,Penn St.
+1999Khari Samuel,SamuKh20,1999,5,144,CHI,Khari Samuel,No,LB,LB,1,22,2001,0,0,0,1,1,39,,,,,,,,,,,,10,,,Massachusetts
+1999Cameron Spikes,SpikCa20,1999,5,145,STL,Cameron Spikes,No,G,G,10,22,2004,0,0,2,13,2,63,,,,,,,,,,,,,,,Texas A&M
+1999Darrin Chiaverini,ChiaDa00,1999,5,148,CLE,Darrin Chiaverini,No,WR,WR,5,21,2002,0,0,1,5,4,49,,,,,,1,3,0,62,662,7,1,,,Colorado
+1999De'Mond Parker,ParkDe00,1999,5,159,GNB,De'Mond Parker,No,RB,RB,2,22,2000,0,0,0,2,2,19,,,,,,54,269,2,13,65,0,,,,Oklahoma
+1999Eugene Baker,BakeEu00,1999,5,164,ATL,Eugene Baker,No,WR,WR,1,23,2004,0,0,0,1,1,8,,,,,,,,,7,118,0,,,,Kent St.
+1999Chris Jones,,1999,5,169,MIN,Chris Jones,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Clemson
+1999Kelly Gregg,GregKe20,1999,6,173,CIN,Kelly Gregg,No,NT,DT,19,22,2011,0,0,9,66,,153,,,,,,,,,,,,381,,20.5,Oklahoma
+1999Robert Daniel,,1999,6,175,CAR,Robert Daniel,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+1999Tyrone Bell,BellTy20,1999,6,178,SDG,Tyrone Bell,No,DB,DB,0,24,1999,0,0,0,0,,1,,,,,,,,,,,,,,,North Alabama
+1999Marcus Washington,,1999,6,180,NWE,Marcus Washington,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+1999Marc Megna,MegnMa20,1999,6,183,NYJ,Marc Megna,No,LB,LB,0,23,2000,0,0,0,0,,6,,,,,,,,,,,,,,,Richmond
+1999Rashard Cook,CookRa20,1999,6,184,CHI,Rashard Cook,No,DB,DB,4,22,2002,0,0,0,4,,47,,,,,,,,,,,,30,2,3,USC
+1999Antico Dalton,DaltAn20,1999,6,199,MIN,Antico Dalton,No,LB,LB,0,23,2000,0,0,0,0,0,5,,,,,,,,,,,,,,,Hampton
+1999Eric Thigpen,,1999,6,200,ATL,Eric Thigpen,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Iowa
+1999Troy Smith,SmitTr00,1999,6,201,PHI,Troy Smith,No,WR,WR,0,22,1999,0,0,0,0,0,1,,,,,,,,,1,14,0,,,,East Carolina
+1999Chad Plummer,PlumCh20,1999,6,204,DEN,Chad Plummer,No,WR,WR,0,23,2000,0,0,0,0,,4,,,,,,,,,,,,,,,Cincinnati
+1999Jed Weaver,WeavJe00,1999,7,208,PHI,Jed Weaver,No,TE,TE,11,23,2004,0,0,2,11,1,90,,,,,,,,,88,1090,6,10,,,Oregon
+1999Tim Alexander,,1999,7,217,WAS,Tim Alexander,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Oregon St.
+1999Sulecio Sanford,,1999,7,221,CHI,Sulecio Sanford,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Middle Tenn. St.
+1999JoJuan Armour,ArmoJo20,1999,7,224,OAK,JoJuan Armour,No,DB,DB,8,23,2002,0,0,2,8,,38,,,,,,,,,,,,75,,,Miami (OH)
+1999O.J. Childress,ChilO.20,1999,7,231,NYG,O.J. Childress,No,LB,LB,0,22,1999,0,0,0,0,0,4,,,,,,,,,,,,,,,Clemson
+1999Autry Denson,DensAu00,1999,7,233,TAM,Autry Denson,No,RB,RB,3,22,2002,0,0,0,3,,34,,,,,,62,212,0,18,133,0,9,,,Notre Dame
+1999Noel Scarlett,ScarNo20,1999,7,236,MIN,Noel Scarlett,No,DT,DT,0,25,2000,0,0,0,0,,1,,,,,,,,,,,,,,,Langston
+1999Sean Morey,MoreSe00,1999,7,241,NWE,Sean Morey,No,WR,WR,0,23,2009,0,1,0,1,0,112,,,,,,1,13,0,11,168,0,77,,,Brown
+1999Corey Terry,TerrCo20,1999,7,250,IND,Corey Terry,No,LB,LB,0,23,2000,0,0,0,0,,15,,,,,,,,,,,,,,,Tennessee
+1998Curtis Enis,EnisCu00,1998,1,5,CHI,Curtis Enis,No,RB,RB,10,22,2000,0,0,1,10,10,36,,,,,,456,1497,4,59,428,2,,,,Penn St.
+1998Greg Ellis,ElliGr20,1998,1,8,DAL,Greg Ellis,No,DE,DE,44,23,2009,0,1,12,70,67,176,,,,,,,,,,,,397,4,84,North Carolina
+1998Jason Peter,PeteJa20,1998,1,14,CAR,Jason Peter,No,DE,DE,10,24,2001,0,0,2,10,10,38,,,,,,,,,,,,65,,7.5,Nebraska
+1998Terry Fair,FairTe20,1998,1,20,DET,Terry Fair,No,DB,DB,24,22,2005,0,0,4,22,22,60,,,,,,,,,,,,170,7,1,Tennessee
+1998Shaun Williams,WillSh20,1998,1,24,NYG,Shaun Williams,No,DB,DB,25,21,2006,0,0,5,32,28,104,,,,,,,,,,,,376,15,4.5,UCLA
+1998Donovin Darius,DariDo20,1998,1,25,JAX,Donovin Darius,No,DB,DB,32,23,2007,0,0,8,46,45,118,,,,,,,,,,,,483,14,2,Syracuse
+1998Victor Riley,RileVi20,1998,1,27,KAN,Victor Riley,No,T,T,30,23,2005,0,0,5,45,23,111,,,,,,,,,,,,,,,Auburn
+1998Corey Chavous,ChavCo00,1998,2,33,ARI,Corey Chavous,No,DB,DB,15,22,2008,0,1,8,41,6,171,,,,,,,,,,,,595,20,5.5,Vanderbilt
+1998Anthony Clement,ClemAn20,1998,2,36,ARI,Anthony Clement,No,T,T,19,22,2007,0,0,6,40,23,128,,,,,,,,,,,,,,,La-Lafayette
+1998Cam Cleeland,CleeCa00,1998,2,40,NOR,Cam Cleeland,No,TE,TE,9,23,2005,0,0,3,9,8,89,,,,,,3,-7,0,131,1478,13,,,,Washington
+1998Todd Weiner,WeinTo20,1998,2,47,SEA,Todd Weiner,No,T,T,21,23,2008,0,0,7,50,8,152,,,,,,,,,1,0,0,,,,Kansas St.
+1998Chuck Wiley,WileCh21,1998,3,62,CAR,Chuck Wiley,No,DE,DE,12,23,2004,0,0,1,12,7,79,,,,,,,,,,,,83,1,6.5,LSU
+1998Scott Frost,FrosSc20,1998,3,67,NYJ,Scott Frost,No,DB,DB,4,23,2003,0,0,0,4,3,59,,,,,,1,1,0,0,0,0,33,1,1,Nebraska
+1998Mitch Marrow,,1998,3,73,CAR,Mitch Marrow,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Pennsylvania
+1998Steve Foley,FoleSt21,1998,3,75,CIN,Steve Foley,No,LB,LB,18,23,2005,0,0,5,30,16,96,,,,,,,,,,,,203,3,25,La-Monroe
+1998Ramos McDonald,McDoRa20,1998,3,80,MIN,Ramos McDonald,No,DB,DB,5,22,2000,0,0,0,5,3,32,,,,,,,,,,,,51,1,,New Mexico
+1998Larry Shannon,ShanLa20,1998,3,82,MIA,Larry Shannon,No,WR,WR,0,23,1999,0,0,0,0,0,2,,,,,,,,,,,,,,,East Carolina
+1998Michael Pittman,PittMi00,1998,4,95,ARI,Michael Pittman,No,RB,RB,26,23,2008,0,0,5,49,16,151,1,1,26,0,0,1392,5627,25,425,3512,8,16,,,Fresno St.
+1998Az-Zahir Hakim,HakiAz00,1998,4,96,STL,Az-Zahir Hakim,No,WR,WR,31,21,2006,0,0,2,38,24,110,2,2,72,1,0,31,198,1,316,4191,28,7,,,San Diego St.
+1998Lorenzo Bromell,BromLo20,1998,4,102,MIA,Lorenzo Bromell,No,DE,DE,8,23,2004,0,0,0,9,6,77,,,,,,,,,,,,90,,27.5,Clemson
+1998Todd Washington,WashTo20,1998,4,104,TAM,Todd Washington,No,G,G,5,22,2005,0,0,1,12,5,97,,,,,,,,,,,,,,,Virginia Tech
+1998Carlos King,KingCa00,1998,4,123,PIT,Carlos King,No,RB,RB,0,24,1998,0,0,0,0,0,1,,,,,,,,,,,,,,,North Carolina St.
+1998Benji Olson,OlsoBe20,1998,5,139,TEN,Benji Olson,No,G,G,32,23,2007,0,0,9,56,56,152,,,,,,,,,,,,,,,Washington
+1998Ron Merkerson,,1998,5,145,NWE,Ron Merkerson,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+1998Travian Smith,SmitTr20,1998,5,152,OAK,Travian Smith,No,LB,LB,7,23,2004,0,0,0,12,12,84,,,,,,,,,,,,163,1,8.5,Oklahoma
+1998Fred Coleman,ColeFr00,1998,6,160,BUF,Fred Coleman,No,WR,WR,1,23,2002,0,0,0,1,,9,,,,,,,,,2,50,0,2,,,Washington
+1998Carl Hansen,HansCa20,1998,6,162,SEA,Carl Hansen,No,DE,DE,0,22,1998,0,0,0,0,,5,,,,,,,,,,,,1,,,Stanford
+1998Chris Brazzell,BrazCh00,1998,6,174,NYJ,Chris Brazzell,No,WR,WR,1,22,2000,0,0,0,1,,14,,,,,,,,,7,126,0,,,,Angelo State (TX)
+1998James Cannida,CannJa20,1998,6,175,TAM,James Cannida,No,DT,DT,8,23,2002,0,0,0,8,4,50,,,,,,,,,,,,32,,3,Nevada
+1998Matt Hasselbeck,HassMa00,1998,6,187,GNB,Matt Hasselbeck,No,QB,QB,33,23,2015,0,3,11,88,0,209,3222,5330,36638,212,153,365,1231,8,,,,16,,,Boston Col.
+1998Victor Allotey,,1998,7,198,BUF,Victor Allotey,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Indiana
+1998Ephraim Salaam,SalaEp20,1998,7,199,ATL,Ephraim Salaam,No,T,T,40,22,2010,0,0,8,59,24,163,,,,,,,,,,,,,,,San Diego St.
+1998Marcus Parker,,1998,7,202,CIN,Marcus Parker,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia Tech
+1998Antwaune Ponds,PondAn20,1998,7,206,WAS,Antwaune Ponds,No,LB,LB,0,23,1998,0,0,0,0,0,3,,,,,,,,,,,,,,,Syracuse
+1998Brandon Tolbert,,1998,7,214,JAX,Brandon Tolbert,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia
+1998Eric Warfield,WarfEr20,1998,7,216,KAN,Eric Warfield,No,DB,DB,16,22,2005,0,0,5,29,29,115,,,,,,,,,,,,330,20,1,Nebraska
+1998Pat Tillman,TillPa20,1998,7,226,ARI,Pat Tillman,No,DB,DB,13,21,2001,0,0,3,12,12,60,,,,,,1,4,0,,,,247,3,2.5,Arizona St.
+1998Jim Turner,,1998,7,228,CAR,Jim Turner,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Syracuse
+1998Vincent Amey,AmeyVi20,1998,7,230,OAK,Vincent Amey,No,DE,DE,1,23,1998,0,0,0,1,1,4,,,,,,,,,,,,,,,Arizona St.
+1998Ron Janes,,1998,7,233,ARI,Ron Janes,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Missouri
+1998David Sanders,,1998,7,235,OAK,David Sanders,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Arkansas
+1998Kamil Loud,LoudKa00,1998,7,238,BUF,Kamil Loud,No,WR,WR,1,22,1999,0,0,0,1,1,12,,,,,,,,,6,66,0,,,,Cal Poly-San Luis Obispo
+1998Cam Quayle,,1998,7,241,BAL,Cam Quayle,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Weber St.
+1997Peter Boulware,BoulPe00,1997,1,4,BAL,Peter Boulware,No,LB,LB,48,22,2005,0,4,7,60,60,126,,,,,,,,,,,,292,1,70,Florida St.
+1997Chris Naeole,NaeoCh20,1997,1,10,NOR,Chris Naeole,No,G,G,29,22,2007,0,0,10,62,21,154,,,,,,,,,,,,,,,Colorado
+1997Kenny Holmes,HolmKe20,1997,1,18,TEN,Kenny Holmes,No,DE,DE,32,23,2003,0,0,5,40,21,98,,,,,,,,,,,,182,2,38.5,Miami (FL)
+1997Chris Canty,CantCh20,1997,1,29,NWE,Chris Canty,No,DB,DB,6,21,2000,0,0,1,6,5,61,,,,,,,,,,,,105,4,3,Kansas St.
+1997Ross Verba,VerbRo20,1997,1,30,GNB,Ross Verba,No,T,T,36,23,2006,0,0,7,45,27,113,,,,,,,,,,,,,,,Iowa
+1997Jamie Sharper,SharJa20,1997,2,34,BAL,Jamie Sharper,No,LB,LB,43,22,2005,0,0,9,61,37,136,,,,,,,,,,,,626,2,25.5,Virginia
+1997Jake Plummer,PlumJa00,1997,2,42,ARI,Jake Plummer,No,QB,QB,40,22,2006,0,1,10,77,37,143,2484,4350,29253,161,161,428,1853,17,2,4,0,10,,,Arizona St.
+1997Adam Meadows,MeadAd20,1997,2,48,IND,Adam Meadows,No,T,T,46,23,2006,0,0,6,51,51,106,,,,,,,,,,,,,,,Georgia
+1997Marc Edwards,EdwaMa00,1997,2,55,SFO,Marc Edwards,No,FB,FB,10,22,2005,0,0,5,14,3,132,,,,,,124,405,3,167,1301,10,3,,,Notre Dame
+1997James Darling,DarlJa20,1997,2,57,PHI,James Darling,No,LB,LB,15,22,2006,0,0,4,30,12,139,,,,,,,,,,,,308,6,7.5,Washington St.
+1997Kim Herring,HerrKi20,1997,2,58,BAL,Kim Herring,No,DB,DB,29,22,2004,0,0,5,36,21,98,,,,,,,,,,,,329,8,2,Penn St.
+1997Dexter Coakley,CoakDe00,1997,3,65,DAL,Dexter Coakley,No,LB,LB,49,24,2006,0,3,9,68,65,155,,,,,,2,59,0,,,,599,13,9.5,Appalachian St.
+1997Mike Vrabel,VrabMi20,1997,3,91,PIT,Mike Vrabel,No,LB,LB,11,22,2010,1,1,10,66,2,206,,,,,,,,,10,14,10,511,11,57,Ohio St.
+1997Ronnie Ward,WardRo20,1997,3,93,MIA,Ronnie Ward,No,LB,LB,0,23,1997,0,0,0,0,0,4,,,,,,,,,,,,,,,Kansas
+1997Kenny Wheaton,WheaKe20,1997,3,94,DAL,Kenny Wheaton,No,DB,DB,2,22,1999,0,0,0,2,2,22,,,,,,,,,,,,28,1,,Oregon
+1997Derrick Mason,MasoDe00,1997,4,98,TEN,Derrick Mason,No,WR,WR,27,23,2011,1,2,10,86,50,230,,,,,,9,3,0,943,12061,66,21,,,Michigan St.
+1997Antonio Anderson,AndeAn22,1997,4,101,DAL,Antonio Anderson,No,DT,DT,4,24,1998,0,0,0,4,4,21,,,,,,,,,,,,21,,2,Syracuse
+1997Pete Monty,MontPe20,1997,4,103,NYG,Pete Monty,No,LB,LB,3,23,2001,0,0,0,3,3,52,,,,,,,,,,,,33,,2,Wisconsin
+1997Albert Connell,ConnAl00,1997,4,115,WAS,Albert Connell,No,WR,WR,26,23,2001,0,0,1,25,23,61,,,,,,3,17,0,150,2674,16,1,,,Texas A&M
+1997Keith Poole,PoolKe00,1997,4,116,NOR,Keith Poole,No,WR,WR,14,23,2001,0,0,1,13,13,54,,,,,,1,14,0,96,1734,11,1,,,Arizona St.
+1997Damien Robinson,RobiDa20,1997,4,119,PHI,Damien Robinson,No,DB,DB,30,23,2003,0,0,3,30,,83,,,,,,,,,2,53,0,229,13,0.5,Iowa
+1997Jamie Nails,NailJa20,1997,4,120,BUF,Jamie Nails,No,G,G,9,22,2003,0,0,3,23,8,78,,,,,,,,,,,,,,,Florida A&M
+1997Jerome Daniels,DaniJe20,1997,4,121,MIA,Jerome Daniels,No,G,G,3,23,1998,0,0,0,3,,8,,,,,,,,,,,,,,,Northeastern
+1997Tarek Saleh,SaleTa20,1997,4,122,CAR,Tarek Saleh,No,LB,LB,2,22,2001,0,0,0,2,1,59,,,,,,,,,1,22,0,7,,1,Wisconsin
+1997Ed Ellis,ElliEd20,1997,4,125,NWE,Ed Ellis,No,T,T,4,21,2003,0,0,0,6,1,54,,,,,,,,,,,,,,,Buffalo
+1997Alshermond Singleton,SingAl20,1997,4,128,TAM,Alshermond Singleton,No,LB,LB,5,22,2006,0,0,3,29,11,140,,,,,,,,,,,,203,5,4.5,Temple
+1997Nicky Sualua,SualNi00,1997,4,129,DAL,Nicky Sualua,No,RB,RB,0,22,1998,0,0,0,0,0,26,,,,,,,,,0,0,0,,,,Ohio St.
+1997Jamel Williams,WillJa22,1997,5,132,WAS,Jamel Williams,No,DB,DB,2,23,1999,0,0,0,2,2,35,,,,,,,,,,,,16,,,Nebraska
+1997Marcus Wimberly,WimbMa20,1997,5,133,ATL,Marcus Wimberly,No,DB,DB,0,23,1997,0,0,0,0,0,6,,,,,,,,,,,,,,,Miami (FL)
+1997Jeff Mitchell,MitcJe20,1997,5,134,BAL,Jeff Mitchell,No,C,C,28,23,2005,0,0,8,45,15,119,,,,,,,,,,,,,,,Florida
+1997Sam Garnes,GarnSa20,1997,5,136,NYG,Sam Garnes,No,DB,DB,33,23,2003,0,0,7,40,28,106,,,,,,,,,,,,383,10,3,Cincinnati
+1997Taje Allen,AlleTa20,1997,5,158,STL,Taje Allen,No,DB,DB,4,23,2002,0,0,0,4,3,79,,,,,,,,,,,,64,2,0.5,Texas
+1997Duane Ashman,,1997,5,161,DET,Duane Ashman,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,,Virginia
+1997Nick Savoie,SavoNi20,1997,6,165,NOR,Nick Savoie,No,TE,TE,0,24,1997,0,0,0,0,0,1,,,,,,,,,1,14,0,,,,LSU
+1997John Fiala,FialJo20,1997,6,166,MIA,John Fiala,No,LB,LB,5,23,2002,0,0,0,5,,75,,,,,,,,,,,,24,,,Washington
+1997Calvin Branch,BranCa20,1997,6,172,OAK,Calvin Branch,No,DB,DB,2,23,2005,0,0,0,2,2,60,,,,,,,,,,,,23,,,Colorado St.
+1997Marcus Spriggs,SpriMa20,1997,6,185,BUF,Marcus Spriggs,No,T,T,7,23,2003,0,0,0,10,6,49,,,,,,,,,,,,,,,Houston
+1997Tony McCombs,McCoTo20,1997,6,188,ARI,Tony McCombs,No,LB,LB,6,23,1998,0,0,1,6,6,26,,,,,,,,,,,,33,1,,East. Kentucky
+1997Grady Jackson,JackGr20,1997,6,193,OAK,Grady Jackson,No,DT,DT,20,24,2009,0,0,8,49,17,185,,,,,,,,,,,,381,,35.5,Knoxville
+1997Richard Hogans,,1997,6,200,CHI,Richard Hogans,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Memphis
+1997Steve Rosga,,1997,7,202,NYJ,Steve Rosga,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+1997Tony Graziani,GrazTo00,1997,7,204,ATL,Tony Graziani,No,QB,QB,3,23,1999,0,0,0,3,3,18,85,174,999,2,8,16,51,0,0,0,0,,,,Oregon
+1997Toran James,JameTo20,1997,7,218,SDG,Toran James,No,LB,LB,1,23,1997,0,0,0,1,1,14,,,,,,,,,,,,4,,,North Carolina A&T
+1997Kris Mangum,MangKr00,1997,7,228,CAR,Kris Mangum,No,TE,TE,3,24,2006,0,0,5,11,11,126,,,,,,,,,151,1424,9,13,,,Mississippi
+1997Jason Ferguson,FergJa21,1997,7,229,NYJ,Jason Ferguson,No,DT,DT,23,22,2009,0,0,9,51,38,159,,,,,,,,,,,,344,,21.5,Georgia
+1997Wally Richardson,RichWa00,1997,7,234,BAL,Wally Richardson,No,QB,QB,0,23,1998,0,0,0,0,0,1,1,2,1,0,0,1,0,0,,,,,,,Penn St.
+1997Richard Jordan,JordRi20,1997,7,239,DET,Richard Jordan,No,LB,LB,3,22,2002,0,0,0,3,3,36,,,,,,,,,,,,1,1,,Missouri Southern
+1996Jonathan Ogden,OgdeJo00,1996,1,4,BAL,Jonathan Ogden,No,T,T,58,22,2007,4,11,11,94,94,177,,,,,,,,,2,2,2,,,,UCLA
+1996Terry Glenn,GlenTe00,1996,1,7,NWE,Terry Glenn,No,WR,WR,42,22,2007,0,1,9,67,36,137,0,2,0,0,0,20,139,1,593,8823,44,14,,,Ohio St.
+1996Walt Harris,HarrWa21,1996,1,13,CHI,Walt Harris,No,DB,DB,32,22,2008,0,1,11,60,28,193,,,,,,,,,,,,638,35,3,Mississippi St.
+1996Reggie Brown,BrowRe22,1996,1,17,DET,Reggie Brown,No,LB,LB,11,22,1997,0,0,2,11,11,26,,,,,,,,,,,,,2,2.5,Texas A&M
+1996Jermane Mayberry,MaybJe00,1996,1,25,PHI,Jermane Mayberry,No,G,G,20,23,2005,0,1,7,44,42,123,,,,,,,,,,,,,,,Texas A&M-Kingsville
+1996John Michels,MichJo21,1996,1,27,GNB,John Michels,No,T,T,9,23,1997,0,0,1,9,9,24,,,,,,,,,,,,,,,USC
+1996Tony Brackens,BracTo00,1996,2,33,JAX,Tony Brackens,No,DE,DE,42,21,2003,0,1,4,52,52,107,,,,,,,,,,,,302,5,55,Texas
+1996Je'Rod Cherry,CherJe20,1996,2,40,NOR,Je'Rod Cherry,No,DB,DB,4,23,2004,0,0,0,7,3,127,,,,,,,,,,,,92,,3,California
+1996Bryan Still,StilBr00,1996,2,41,SDG,Bryan Still,No,WR,WR,8,22,1999,0,0,1,8,8,52,,,,,,,,,83,1181,2,,,,Virginia Tech
+1996Bobby Engram,EngrBo00,1996,2,52,CHI,Bobby Engram,No,WR,WR,21,23,2009,0,0,6,52,15,176,,,,,,5,19,0,650,7751,35,16,,,Penn St.
+1996Gabe Northern,NortGa20,1996,2,53,BUF,Gabe Northern,No,LB,LB,22,22,2000,0,0,2,21,20,73,,,,,,,,,,,,88,1,10.5,LSU
+1996Clay Shiver,ShivCl20,1996,3,67,DAL,Clay Shiver,No,C,C,13,23,1998,0,0,2,13,13,44,,,,,,,,,,,,,,,Florida St.
+1996Brady Smith,SmitBr21,1996,3,70,NOR,Brady Smith,No,DE,DE,22,23,2005,0,0,6,41,13,143,,,,,,,,,,,,209,1,45,Colorado St.
+1996Ryan Stewart,StewRy20,1996,3,76,DET,Ryan Stewart,No,DB,DB,3,23,2000,0,0,0,3,3,41,,,,,,,,,,,,22,1,1,Georgia Tech
+1996Robert Barr,,1996,3,77,SEA,Robert Barr,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,Rutgers
+1996Mark Campbell,CampMa20,1996,3,78,DEN,Mark Campbell,No,DT,DT,0,24,1997,0,0,0,0,,5,,,,,,,,,,,,4,,,Florida
+1996Dorian Brew,BrewDo20,1996,3,79,MIA,Dorian Brew,No,DB,DB,0,22,1997,0,0,0,0,,16,,,,,,,,,,,,7,,,Kansas
+1996Scott Slutzker,SlutSc00,1996,3,82,IND,Scott Slutzker,No,TE,TE,1,23,1999,0,0,0,1,0,41,,,,,,,,,15,196,1,,,,Iowa
+1996Tedy Bruschi,BrusTe99,1996,3,86,NWE,Tedy Bruschi,No,LB,LB,24,23,2008,0,1,8,71,71,189,,,,,,,,,,,,675,12,30.5,Arizona
+1996Matt Stevens,StevMa22,1996,3,87,BUF,Matt Stevens,No,DB,DB,12,23,2003,0,0,2,22,7,108,,,,,,,,,,,,214,13,1,Appalachian St.
+1996Terrell Owens,OwenTe00,1996,3,89,SFO,Terrell Owens,No,WR,WR,50,22,2010,5,6,13,119,74,219,,,,,,39,251,3,1078,15934,153,23,,,Tenn-Chattanooga
+1996Tyrone Williams,WillTy20,1996,3,93,GNB,Tyrone Williams,No,DB,DB,31,23,2004,0,0,6,43,42,120,,,,,,,,,,,,394,19,2,Nebraska
+1996Mike Ulufale,UlufMi20,1996,3,95,DAL,Mike Ulufale,No,DT,DT,0,24,1996,0,0,0,0,0,3,,,,,,,,,,,,2,,,BYU
+1996Hunter Goodwin,GoodHu00,1996,4,97,MIN,Hunter Goodwin,No,TE,TE,1,23,2003,0,0,2,1,1,119,,,,,,,,,37,265,2,,,,Texas A&M
+1996Donnie Edwards,EdwaDo20,1996,4,98,KAN,Donnie Edwards,No,LB,LB,41,23,2008,0,1,11,84,45,197,,,,,,,,,,,,1123,28,23.5,UCLA
+1996Jeff Lewis,LewiJe01,1996,4,100,DEN,Jeff Lewis,No,QB,QB,2,23,2000,0,0,0,2,1,12,28,54,210,0,2,21,78,0,,,,,,,Northern Arizona
+1996Reggie Barlow,BarlRe00,1996,4,110,JAX,Reggie Barlow,No,WR,WR,8,23,2003,0,0,0,8,8,82,,,,,,,,,39,522,1,1,,,Alabama St.
+1996Charlie Jones,JoneCh00,1996,4,114,SDG,Charlie Jones,No,WR,WR,14,23,1999,0,0,2,13,13,54,,,,,,9,73,0,129,1736,9,,,,Fresno St.
+1996Kantroy Barber,BarbKa20,1996,4,124,NWE,Kantroy Barber,No,RB,RB,0,22,1999,0,0,0,0,,2,,,,,,,,,,,,,,,West Virginia
+1996LaCurtis Jones,JoneLa20,1996,4,125,MIA,LaCurtis Jones,No,LB,LB,1,24,1996,0,0,0,1,,10,,,,,,,,,,,,,,,Baylor
+1996Earl Holmes,HolmEa20,1996,4,126,PIT,Earl Holmes,No,LB,LB,37,23,2005,0,0,9,60,42,140,,,,,,,,,,,,680,1,11.5,Florida A&M
+1996Marcus Coleman,ColeMa20,1996,5,133,NYJ,Marcus Coleman,No,DB,DB,21,22,2006,0,0,7,42,24,152,,,,,,,,,2,51,1,407,25,,Texas Tech
+1996Jerris McPhail,McPhJe00,1996,5,134,MIA,Jerris McPhail,No,RB,RB,7,24,1998,0,0,0,7,7,26,,,,,,23,174,1,54,544,1,,,,East Carolina
+1996Joe Horn,HornJo00,1996,5,135,KAN,Joe Horn,No,WR,WR,21,24,2007,0,4,8,69,5,163,1,3,14,0,0,14,54,0,603,8744,58,13,,,Itawamba JC
+1996John Elmore,,1996,5,139,NWE,John Elmore,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas
+1996Shane Burton,BurtSh20,1996,5,150,MIA,Shane Burton,No,DE,DE,18,22,2003,0,0,2,28,8,125,,,,,,,,,,,,146,3,18,Tennessee
+1996Chris Villarrial,VillCh20,1996,5,152,CHI,Chris Villarrial,No,G,G,27,23,2006,0,0,10,50,34,155,,,,,,,,,0,0,0,,,,Indiana (PA)
+1996Harry Stamps,,1996,5,161,ARI,Harry Stamps,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,Oklahoma
+1996Dell McGee,McGeDe20,1996,5,162,ARI,Dell McGee,No,DB,DB,0,23,1998,0,0,0,0,0,3,,,,,,,,,,,,1,,,Auburn
+1996John Fisher,,1996,6,170,JAX,John Fisher,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Missouri West.
+1996James Roe,RoexJa00,1996,6,186,BAL,James Roe,No,WR,WR,2,23,1998,0,0,0,2,2,23,,,,,,,,,15,239,1,,,,Norfolk St.
+1996Phillip Riley,RilePh20,1996,6,199,PHI,Phillip Riley,No,WR,WR,0,24,1996,0,0,0,0,,1,,,,,,,,,,,,,,,Florida St.
+1996T.J. Cunningham,CunnT.20,1996,6,209,SEA,T.J. Cunningham,No,DB,DB,0,23,1996,0,0,0,1,1,9,,,,,,,,,,,,,,,Colorado
+1996Rod Jones,JoneRo23,1996,7,219,CIN,Rod Jones,No,T,T,17,22,2001,0,0,2,17,16,61,,,,,,,,,,,,,,,Kansas
+1996Reggie Rusk,RuskRe20,1996,7,221,TAM,Reggie Rusk,No,DB,DB,1,23,2000,0,0,0,1,0,23,,,,,,,,,,,,16,,1,Kentucky
+1996Jon Merrill,,1996,7,223,MIN,Jon Merrill,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,,Duke
+1996Marcus Keyes,KeyeMa20,1996,7,233,CHI,Marcus Keyes,No,DT,DT,0,22,1996,0,0,0,0,0,2,,,,,,,,,,,,3,,,North Alabama
+1996Dan Brandenburg,BranDa20,1996,7,237,BUF,Dan Brandenburg,No,LB,LB,2,23,1999,0,0,0,2,2,42,,,,,,,,,,,,13,,,Indiana St.
+1996J.R. Conrad,ConrJ.20,1996,7,247,NWE,J.R. Conrad,No,G,G,0,22,1997,0,0,0,1,,12,,,,,,,,,,,,,,,Oklahoma
+1996DeAndre Maxwell,,1996,7,250,WAS,DeAndre Maxwell,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,San Diego St.
+1996Keith McKenzie,McKeKe20,1996,7,252,GNB,Keith McKenzie,No,DE,DE,12,22,2003,0,0,1,16,6,95,,,,,,,,,,,,118,1,29.5,Ball St.
+1995Kevin Carter,CartKe00,1995,1,6,STL,Kevin Carter,No,DE,DE,54,22,2008,1,2,14,90,46,224,,,,,,,,,,,,446,,104.5,Florida
+1995Mike Mamula,MamuMi20,1995,1,7,PHI,Mike Mamula,No,DE,DE,32,22,2000,0,0,4,33,33,77,,,,,,,,,,,,156,1,31.5,Boston Col.
+1995Tyrone Poole,PoolTy20,1995,1,22,CAR,Tyrone Poole,No,DB,DB,36,23,2008,0,0,6,45,21,144,,,,,,,,,,,,406,18,6,Fort Valley St.
+1995Devin Bush,BushDe20,1995,1,26,ATL,Devin Bush,No,DB,DB,20,22,2002,0,0,4,29,12,116,,,,,,,,,,,,320,7,1,Florida St.
+1995Craig Powell,PoweCr20,1995,1,30,CLE,Craig Powell,No,LB,LB,1,23,1998,0,0,0,1,1,14,,,,,,,,,,,,1,,,Ohio St.
+1995Trezelle Jenkins,JenkTr20,1995,1,31,KAN,Trezelle Jenkins,No,T,T,1,22,1997,0,0,0,1,1,9,,,,,,,,,,,,,,,Michigan
+1995Zach Wiegert,WiegZa20,1995,2,38,STL,Zach Wiegert,No,G,G,25,23,2006,0,0,8,46,16,145,,,,,,,,,2,-2,0,,,,Nebraska
+1995Brian DeMarco,DeMaBr20,1995,2,40,JAX,Brian DeMarco,No,G,G,24,23,1999,0,0,3,22,20,63,,,,,,,,,,,,,,,Michigan St.
+1995Melvin Johnson,JohnMe20,1995,2,43,TAM,Melvin Johnson,No,DB,DB,14,23,1998,0,0,1,13,13,50,,,,,,,,,,,,128,4,1,Kentucky
+1995Scott Gragg,GragSc20,1995,2,54,NYG,Scott Gragg,No,T,T,28,23,2005,0,0,9,60,21,172,,,,,,,,,,,,,,,Montana
+1995Todd Sauerbrun,SaueTo20,1995,2,56,CHI,Todd Sauerbrun,No,P,P,9,22,2007,2,3,3,25,6,178,2,3,63,0,0,5,9,0,,,,10,,,West Virginia
+1995David Sloan,SloaDa00,1995,3,70,DET,David Sloan,No,TE,TE,12,23,2003,0,1,5,17,16,110,,,,,,,,,192,2151,15,4,,,New Mexico
+1995Brian Williams,WillBr24,1995,3,73,GNB,Brian Williams,No,LB,LB,33,22,2002,0,0,3,35,32,81,,,,,,,,,,,,290,4,6,USC
+1995Mike Verstegen,VersMi20,1995,3,75,NOR,Mike Verstegen,No,G,G,5,23,1997,0,0,1,5,5,22,,,,,,,,,,,,,,,Wisconsin
+1995Steve McLaughlin,mclauste01,1995,3,82,STL,Steve McLaughlin,No,K,K,-1,23,1995,0,0,1,-1,-1,8,,,,,,,,,,,,,,,Arizona
+1995Eric Zeier,ZeieEr00,1995,3,84,CLE,Eric Zeier,No,QB,QB,6,23,2000,0,0,0,6,-2,28,301,537,3520,16,15,43,127,0,,,,,,,Georgia
+1995Don Sasa,SasaDo20,1995,3,93,SDG,Don Sasa,No,DT,DT,0,23,1998,0,0,0,0,0,14,,,,,,,,,,,,1,,,Washington St.
+1995Mike Morton,MortMi20,1995,4,118,OAK,Mike Morton,No,LB,LB,11,23,2001,0,0,1,12,10,103,,,,,,,,,,,,101,2,1,North Carolina
+1995Oliver Gibson,GibsOl20,1995,4,120,PIT,Oliver Gibson,No,DT,DT,11,23,2003,0,0,4,27,4,133,,,,,,,,,,,,182,1,17.5,Notre Dame
+1995Mike Thompson,ThomMi21,1995,4,123,JAX,Mike Thompson,No,DT,DT,0,23,2000,0,0,0,1,0,34,,,,,,,,,,,,30,,1.5,Wisconsin
+1995Donta Jones,JoneDo22,1995,4,125,PIT,Donta Jones,No,LB,LB,8,23,2000,0,0,0,8,8,91,,,,,,,,,,,,52,,4,Nebraska
+1995Frank Garcia,GarcFr21,1995,4,132,CAR,Frank Garcia,No,C,C,34,23,2003,0,0,5,41,38,125,,,,,,,,,,,,,,,Washington
+1995Ben Talley,TallBe20,1995,4,133,NYG,Ben Talley,No,LB,LB,1,23,1998,0,0,0,1,0,12,,,,,,,,,,,,,,,Tennessee
+1995Stephen Boyd,BoydSt00,1995,5,141,DET,Stephen Boyd,No,LB,LB,30,23,2001,0,2,4,41,41,86,,,,,,,,,,,,361,3,6.5,Boston Col.
+1995Carl Greenwood,GreeCa20,1995,5,142,NYJ,Carl Greenwood,No,DB,DB,2,23,1996,0,0,0,2,2,24,,,,,,,,,,,,14,,,UCLA
+1995Roell Preston,PresRo00,1995,5,145,ATL,Roell Preston,No,WR,WR,6,23,1999,0,1,0,6,3,53,,,,,,,,,30,360,2,,,,Mississippi
+1995Cedric Davis,,1995,5,150,ARI,Cedric Davis,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee St.
+1995Lee Flowers,FlowLe20,1995,5,151,PIT,Lee Flowers,No,DB,DB,21,22,2002,0,0,4,38,38,112,,,,,,,,,,,,306,4,12,Georgia Tech
+1995Ronald Cherry,,1995,5,163,DET,Ronald Cherry,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,McNeese St.
+1995Andrew Peterson,PeteAn21,1995,5,171,CAR,Andrew Peterson,No,T,T,1,23,1995,0,0,0,1,1,4,,,,,,,,,,,,,,,Washington
+1995Wardell Rouse,RousWa20,1995,6,179,TAM,Wardell Rouse,No,LB,LB,1,23,1995,0,0,0,1,1,16,,,,,,,,,,,,6,,0.5,Clemson
+1995Henry McMillian,McMiHe20,1995,6,180,SEA,Henry McMillian,No,DT,DT,0,23,1996,0,0,0,0,0,3,,,,,,,,,,,,,,,Florida
+1995Brian Gelzheiser,,1995,6,187,IND,Brian Gelzheiser,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Penn St.
+1995Steve Strahan,,1995,6,188,CAR,Steve Strahan,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,,Baylor
+1995Kenny Gales,,1995,6,193,CHI,Kenny Gales,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Wisconsin
+1995Craig Whelihan,WhelCr00,1995,6,197,SDG,Craig Whelihan,No,QB,QB,1,24,1998,0,0,1,1,1,19,267,557,3160,14,29,31,67,0,,,,,,,Pacific
+1995Anthony Bridges,,1995,6,205,ARI,Anthony Bridges,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,North Texas
+1995Tom Barndt,BarnTo20,1995,6,207,KAN,Tom Barndt,No,DT,DT,22,23,2001,0,0,2,22,18,81,,,,,,,,,,,,70,,8,Pittsburgh
+1995Chad Cota,CotaCh20,1995,7,209,CAR,Chad Cota,No,DB,DB,28,24,2002,0,0,5,36,12,125,,,,,,,,,,,,407,15,4,Oregon
+1995Herman O'Berry,OBerHe20,1995,7,220,STL,Herman O'Berry,No,DB,DB,0,24,1996,0,0,0,0,0,9,,,,,,,,,,,,,,,Oregon
+1995Bryne Diehl,,1995,7,225,NYG,Bryne Diehl,No,P,P,0,,,0,0,0,,,,,,,,,,,,,,,,,,Alabama
+1995Oscar Sturgis,SturOs20,1995,7,236,DAL,Oscar Sturgis,No,DE,DE,0,24,1995,0,0,0,0,0,1,,,,,,,,,,,,,,,North Carolina
+1995Mark Montreuil,MontMa21,1995,7,237,SDG,Mark Montreuil,No,DB,DB,3,23,1997,0,0,0,3,3,35,,,,,,,,,,,,17,,,Concordia (QB)
+1995Travis Davis,DaviTr20,1995,7,242,NOR,Travis Davis,No,DB,DB,28,22,1999,0,0,2,26,,73,,,,,,,,,,,,219,6,3,Notre Dame
+1995Howard Smothers,,1995,7,248,PHI,Howard Smothers,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,Bethune-Cookman
+1995Michael Reed,ReedMi20,1995,7,249,CAR,Michael Reed,No,DB,DB,0,23,1996,0,0,0,0,0,3,,,,,,,,,,,,2,,,Boston Col.
+1994Willie McGinest,McGiWi00,1994,1,4,NWE,Willie McGinest,No,DE,DE,35,22,2008,0,2,12,77,67,212,,,,,,,,,,,,583,5,86,USC
+1994Antonio Langham,LangAn20,1994,1,9,CLE,Antonio Langham,No,DB,DB,28,22,2000,0,0,4,29,12,102,,,,,,,,,,,,314,14,1,Alabama
+1994John Thierry,ThieJo20,1994,1,11,CHI,John Thierry,No,DE,DE,17,23,2002,0,0,5,34,13,131,,,,,,,,,,,,159,2,33.5,Alcorn St.
+1994Aaron Glenn,GlenAa00,1994,1,12,NYJ,Aaron Glenn,No,DB,DB,40,22,2008,0,3,11,72,49,205,,,,,,,,,,,,549,41,1,Texas A&M
+1994Bernard Williams,WillBe21,1994,1,14,PHI,Bernard Williams,No,T,T,8,22,1994,0,0,1,8,8,16,,,,,,,,,,,,,,,Georgia
+1994Todd Steussie,SteuTo00,1994,1,19,MIN,Todd Steussie,No,T,T,45,23,2007,0,2,11,75,55,213,,,,,,,,,,,,,,,California
+1994Rob Fredrickson,FredRo20,1994,1,22,RAI,Rob Fredrickson,No,LB,LB,31,23,2002,0,0,8,46,20,128,,,,,,,,,,,,540,5,15.5,Michigan St.
+1994Errict Rhett,RhetEr00,1994,2,34,TAM,Errict Rhett,No,RB,RB,21,23,2000,0,0,4,26,18,86,,,,,,1174,4143,29,89,552,3,,,,Florida
+1994Marcus Spears,SpeaMa20,1994,2,39,CHI,Marcus Spears,No,T,T,3,23,2004,0,0,1,14,1,103,,,,,,,,,1,1,1,,,,NW State (LA)
+1994Thomas Randolph,RandTh20,1994,2,47,NYG,Thomas Randolph,No,DB,DB,18,23,1999,0,0,2,17,16,95,,,,,,,,,,,,175,6,,Kansas St.
+1994Brentson Buckner,BuckBr20,1994,2,50,PIT,Brentson Buckner,No,DT,DT,24,23,2005,0,0,8,53,17,174,,,,,,,,,,,,303,2,31,Clemson
+1994Jeremy Nunley,NunlJe20,1994,2,60,HOU,Jeremy Nunley,No,DE,DE,1,23,1994,0,0,0,1,1,12,,,,,,,,,,,,,,,Alabama
+1994Jeff Cothran,CothJe00,1994,3,66,CIN,Jeff Cothran,No,FB,FB,3,23,1996,0,0,2,3,3,39,,,,,,57,191,1,19,117,1,,,,Ohio St.
+1994Tydus Winans,WinaTy00,1994,3,68,WAS,Tydus Winans,No,WR,WR,4,22,1996,0,0,0,4,4,25,,,,,,1,5,0,23,421,2,,,,Fresno St.
+1994Winfred Tubbs,TubbWi20,1994,3,79,NOR,Winfred Tubbs,No,LB,LB,37,24,2000,0,1,6,42,25,98,,,,,,,,,,,,473,8,10.5,Texas
+1994James Bostic,BostJa00,1994,3,83,RAM,James Bostic,No,RB,RB,0,22,1999,0,0,0,0,,11,,,,,,5,19,0,5,8,0,,,,Auburn
+1994Steve Shine,,1994,3,86,CIN,Steve Shine,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Northwestern
+1994Joe Burch,,1994,3,90,NWE,Joe Burch,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,,Texas Southern
+1994Corey Louchiey,LoucCo20,1994,3,98,BUF,Corey Louchiey,No,T,T,8,22,1997,0,0,0,8,8,45,,,,,,,,,1,0,0,,,,South Carolina
+1994Malcolm Floyd,FloyMa01,1994,3,101,HOU,Malcolm Floyd,No,WR,WR,2,21,1997,0,0,0,2,2,49,,,,,,,,,26,351,2,,,,Fresno St.
+1994Eric Zomalt,ZomaEr20,1994,3,103,PHI,Eric Zomalt,No,DB,DB,4,22,1996,0,0,0,4,3,40,,,,,,,,,,,,24,,,California
+1994Bradford Banta,BantBr00,1994,4,106,IND,Bradford Banta,No,TE,TE,0,23,2004,0,0,0,0,0,156,,,,,,,,,2,13,0,8,,,USC
+1994Perry Carter,CartPe20,1994,4,107,ARI,Perry Carter,No,DB,DB,3,23,1998,0,0,0,3,,28,,,,,,,,,,,,45,,,Southern Miss
+1994Perry Klein,KleiPe20,1994,4,111,ATL,Perry Klein,No,QB,QB,0,23,1994,0,0,0,0,0,2,0,1,0,0,0,,,,,,,,,,C.W. Post
+1994Ronnie Woolfork,,1994,4,112,MIA,Ronnie Woolfork,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+1994Orlando Parker,ParkOr20,1994,4,117,NYJ,Orlando Parker,No,WR,WR,0,22,1994,0,0,0,0,0,2,,,,,,,,,1,7,0,,,,Troy
+1994Chris Maumalanga,MaumCh20,1994,4,128,NYG,Chris Maumalanga,No,DT,DT,1,22,1996,0,0,0,1,1,14,,,,,,,,,,,,6,,,Kansas
+1994Sean Crocker,,1994,4,130,BUF,Sean Crocker,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,North Carolina
+1994Harrison Houston,,1994,5,138,ATL,Harrison Houston,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,,Florida
+1994Craig Novitsky,NoviCr20,1994,5,143,NOR,Craig Novitsky,No,G,G,7,23,1996,0,0,0,7,7,41,,,,,,,,,,,,,,,UCLA
+1994Rodney Harrison,HarrRo01,1994,5,145,SDG,Rodney Harrison,No,DB,DB,31,21,2008,2,2,9,72,42,186,,,,,,,,,,,,911,34,30.5,West. Illinois
+1994Horace Morris,,1994,5,152,NYJ,Horace Morris,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Tennessee
+1994Kimo von Oelhoffen,vonOKi20,1994,6,162,CIN,Kimo von Oelhoffen,No,DE,DE,11,23,2007,0,0,9,56,8,198,,,,,,,,,,,,253,,26.5,Boise St.
+1994Dexter Nottage,NottDe20,1994,6,163,WAS,Dexter Nottage,No,DE,DE,7,23,1997,0,0,0,7,7,48,,,,,,,,,,,,58,,6,Florida A&M
+1994Lamont Warren,WarrLa00,1994,6,164,IND,Lamont Warren,No,RB,RB,10,21,2002,0,0,0,16,8,96,0,4,0,0,1,287,922,8,146,1270,5,4,,,Colorado
+1994Steve Hawkins,HawkSt20,1994,6,166,NWE,Steve Hawkins,No,WR,WR,0,23,1994,0,0,0,0,0,7,,,,,,,,,2,22,0,,,,West. Michigan
+1994Terry Samuels,SamuTe20,1994,6,172,ARI,Terry Samuels,No,TE,TE,0,24,1995,0,0,0,0,0,20,,,,,,1,1,0,10,76,0,,,,Kentucky
+1994Jim Miller,MillJi00,1994,6,178,PIT,Jim Miller,No,QB,QB,4,23,2002,0,0,2,16,1,37,610,1046,6387,36,31,55,4,0,,,,1,,,Michigan St.
+1994Andrew Jordan,JordAn00,1994,6,179,MIN,Andrew Jordan,No,TE,TE,6,22,2001,0,0,2,7,7,92,,,,,,,,,100,772,4,1,,,West. Carolina
+1994Jocelyn Borgella,BorgJo20,1994,6,183,DET,Jocelyn Borgella,No,DB,DB,1,23,1996,0,0,0,1,1,15,,,,,,,,,,,,,,,Cincinnati
+1994Dennis Collier,,1994,7,205,CHI,Dennis Collier,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,,Colorado
+1993Willie Roaf,RoafWi00,1993,1,8,NOR,Willie Roaf,No,T,T,45,23,2005,3,11,12,107,63,189,,,,,,,,,,,,,,,
+1993Dan Williams,WillDa20,1993,1,11,DEN,Dan Williams,No,DE,DE,18,23,2000,0,0,2,32,16,87,,,,,,,,,,,,,,,
+1993Wayne Simmons,SimmWa20,1993,1,15,GNB,Wayne Simmons,No,LB,LB,24,23,1998,0,0,4,32,24,90,,,,,,,,,,,,,,,
+1993Leonard Renfro,RenfLe20,1993,1,24,PHI,Leonard Renfro,No,DT,DT,3,23,1994,0,0,0,3,3,23,,,,,,,,,,,,,,,
+1993George Teague,TeagGe20,1993,1,29,GNB,George Teague,No,DB,DB,24,22,2001,0,0,6,40,18,133,,,,,,,,,,,,,,,
+1993Demetrious DuBose,DuBoDe20,1993,2,34,TAM,Demetrious DuBose,No,LB,LB,5,22,1996,0,0,0,5,5,60,,,,,,,,,,,,,,,
+1993Tony McGee,McGeTo00,1993,2,37,CIN,Tony McGee,No,TE,TE,19,22,2003,0,0,10,28,27,156,,,,,,,,,322,4089,21,,,,
+1993Troy Drayton,DrayTr00,1993,2,39,RAM,Troy Drayton,No,TE,TE,11,23,2000,0,0,6,21,6,122,,,,,,2,11,0,243,2645,24,,,,
+1993Michael Strahan,StraMi02,1993,2,40,NYG,Michael Strahan,No,DE,DE,26,21,2007,4,7,14,121,121,216,,,,,,,,,,,,,,,
+1993Dan Footman,FootDa20,1993,2,42,CLE,Dan Footman,No,DE,DE,13,24,1998,0,0,2,18,9,69,,,,,,,,,,,,,,,
+1993Adrian Hardy,HardAd20,1993,2,48,SFO,Adrian Hardy,No,DB,DB,3,23,1995,0,0,0,3,1,36,,,,,,,,,,,,,,,
+1993Roosevelt Potts,PottRo00,1993,2,49,IND,Roosevelt Potts,No,RB,RB,15,22,1998,0,0,4,16,14,71,,,,,,359,1475,1,106,863,4,,,,
+1993Victor Bailey,BailVi00,1993,2,50,PHI,Victor Bailey,No,WR,WR,8,23,1996,0,0,1,8,8,34,,,,,,,,,62,868,2,,,,
+1993John Parrella,ParrJo20,1993,2,55,BUF,John Parrella,No,DT,DT,9,23,2004,0,0,6,49,0,172,,,,,,,,,,,,,,,
+1993John Gerak,GeraJo20,1993,3,57,MIN,John Gerak,No,G,G,10,23,1997,0,0,3,16,9,63,,,,,,,,,1,3,0,,,,
+1993Steve Tovar,TovaSt20,1993,3,59,CIN,Steve Tovar,No,LB,LB,25,23,2000,0,0,3,29,25,121,,,,,,,,,,,,,,,
+1993Chris Gedney,GednCh00,1993,3,61,CHI,Chris Gedney,No,TE,TE,4,23,2000,0,0,0,8,3,73,,,,,,1,15,0,83,914,8,,,,
+1993Joe Cocozzo,CocoJo20,1993,3,64,SDG,Joe Cocozzo,No,G,G,20,23,1997,0,0,3,22,22,77,,,,,,,,,,,,,,,
+1993Rondell Jones,JoneRo26,1993,3,69,DEN,Rondell Jones,No,DB,DB,5,22,1997,0,0,1,9,4,76,,,,,,,,,,,,,,,
+1993Kevin Johnson,JohnKe28,1993,4,86,NWE,Kevin Johnson,No,DT,DT,6,22,1997,0,0,1,7,,38,,,,,,,,,,,,,,,
+1993Ronald Moore,MoorRo01,1993,4,87,PHO,Ronald Moore,No,RB,RB,12,23,1998,0,0,2,13,12,77,0,1,0,0,0,624,2210,14,24,153,1,,,,
+1993Lewis Bush,BushLe20,1993,4,99,SDG,Lewis Bush,No,LB,LB,16,23,2002,0,0,6,37,30,141,,,,,,,,,,,,,,,
+1993Russell Copeland,CopeRu00,1993,4,111,BUF,Russell Copeland,No,WR,WR,13,21,1998,0,0,1,13,12,72,,,,,,2,-8,0,103,1460,2,,,,
+1993Artie Smith,SmitAr21,1993,5,116,SFO,Artie Smith,No,DE,DE,15,23,1998,0,0,2,16,3,73,,,,,,,,,,,,,,,
+1993Ron George,GeorRo20,1993,5,121,ATL,Ron George,No,LB,LB,12,23,2000,0,0,2,14,11,124,,,,,,,,,,,,,,,
+1993Tommy Thigpen, Thigpen,1993,5,123,NYG,Tommy Thigpen,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+1993Marc Woodard,WoodMa21,1993,5,140,PIT,Marc Woodard,No,LB,LB,4,23,1996,0,0,0,4,,48,,,,,,,,,,,,,,,
+1993Brett Wallerstedt,WallBr20,1993,6,143,PHO,Brett Wallerstedt,No,LB,LB,4,22,1997,0,0,0,4,1,30,,,,,,,,,,,,,,,
+1993Paul Hutchins,HutcPa20,1993,6,152,GNB,Paul Hutchins,No,T,T,2,23,1994,0,0,0,2,2,17,,,,,,,,,,,,,,,
+1993Chuck Bradley,BradCh20,1993,6,158,HOU,Chuck Bradley,No,T,T,0,23,1993,0,0,0,0,,1,,,,,,,,,,,,,,,
+1993Frank Wycheck,WychFr00,1993,6,160,WAS,Frank Wycheck,No,TE,TE,10,21,2003,0,3,9,43,1,155,5,6,148,2,0,4,5,1,505,5126,28,,,,
+1993Ty Hallock,HallTy00,1993,7,174,DET,Ty Hallock,No,RB,RB,2,22,2000,0,0,3,6,2,86,,,,,,17,62,1,65,487,3,,,,
+1993Tony Kimbrough,KimbTo00,1993,7,182,DEN,Tony Kimbrough,No,WR,WR,1,23,1994,0,0,0,1,1,27,,,,,,,,,10,99,0,,,,
+1993Bob Kuberski,KubeBo20,1993,7,183,GNB,Bob Kuberski,No,DT,DT,1,22,1999,0,0,0,5,5,42,,,,,,,,,,,,,,,
+1993Lance Lewis,ce Lewis,1993,7,184,IND,Lance Lewis,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+1993Danan Hughes,HughDa00,1993,7,186,KAN,Danan Hughes,No,WR,WR,4,22,1998,0,0,0,5,5,85,2,2,55,0,0,1,5,0,46,425,4,,,,
+1993Joey Mickey,MickJo20,1993,7,190,PHI,Joey Mickey,No,TE,TE,0,22,1993,0,0,0,0,,5,,,,,,,,,,,,,,,
+1993David Merritt,MerrDa20,1993,7,191,MIA,David Merritt,No,LB,LB,3,22,1995,0,0,0,3,0,38,,,,,,,,,,,,,,,
+1993Jeff Blackshear,BlacJe20,1993,8,197,SEA,Jeff Blackshear,No,G,G,20,24,2002,0,0,6,42,9,128,,,,,,,,,,,,,,,
+1993Chad Brown,BrowCh20,1993,8,199,PHO,Chad Brown,No,DE,DE,7,22,1995,0,0,0,7,7,18,,,,,,,,,,,,,,,
+1993Craig Hentrich,ntrcra01,1993,8,200,NYJ,Craig Hentrich,No,P,P,0,22,2009,1,2,5,25,,241,7,16,91,0,1,9,-1,0,,,,,,,
+1993Kevin Miniefield,MiniKe20,1993,8,201,DET,Kevin Miniefield,No,DB,DB,8,23,1997,0,0,0,8,,51,,,,,,,,,,,,,,,
+1993Jessie Armstead,ArmsJe00,1993,8,207,NYG,Jessie Armstead,No,LB,LB,17,22,2003,1,5,8,81,71,176,,,,,,,,,,,,,,,
+1993Maa Tanuvasa,TanuMa20,1993,8,209,RAM,Maa Tanuvasa,No,DE,DE,2,22,2001,0,0,2,30,,82,,,,,,,,,,,,,,,
+1993Alex Van Pelt,VanPAl00,1993,8,216,PIT,Alex Van Pelt,No,QB,QB,0,23,2003,0,0,1,7,,31,262,477,2985,16,24,32,53,1,,,,,,,
+1993Trent Green,GreeTr00,1993,8,222,SDG,Trent Green,No,QB,QB,0,23,2008,0,2,7,94,,120,2266,3740,28475,162,114,243,914,6,3,-7,0,,,,
+1993Chris Luneberg,Luneberg,1993,8,223,BUF,Chris Luneberg,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+1992Terrell Buckley,BuckTe20,1992,1,5,GNB,Terrell Buckley,No,DB,DB,34,21,2005,0,0,7,59,20,209,,,,,,,,,0,0,0,50,2,Florida St.,
+1992Bob Whitfield,WhitBo23,1992,1,8,ATL,Bob Whitfield,No,T,T,33,20,2006,0,1,11,71,68,220,,,,,,,,,,,,,,Stanford,
+1992Ray Roberts,RobeRa20,1992,1,10,SEA,Ray Roberts,No,T,T,26,23,2000,0,0,7,45,14,127,,,,,,,,,1,9,0,,,Virginia,
+1992Marco Coleman,ColeMa00,1992,1,12,MIA,Marco Coleman,No,DE,DE,34,22,2005,0,1,12,72,20,207,,,,,,,,,,,,1,65.5,Georgia Tech,
+1992Tony Smith,SmitTo00,1992,1,19,ATL,Tony Smith,No,RB,RB,4,22,1994,0,0,0,4,4,33,,,,,,87,329,2,2,14,0,,,Southern Miss,
+1992Alonzo Spellman,SpelAl20,1992,1,22,CHI,Alonzo Spellman,No,DE,DE,26,21,2001,0,0,5,39,25,123,,,,,,,,,,,,1,43,Ohio St.,
+1992Chris Mims,MimsCh20,1992,1,23,SDG,Chris Mims,No,DE,DE,30,22,1999,0,0,4,31,28,104,,,,,,,,,,,,,42,Tennessee,
+1992Tommy Maddox,MaddTo00,1992,1,25,DEN,Tommy Maddox,No,QB,QB,2,21,2005,0,0,2,24,2,92,686,1200,8087,48,54,68,128,1,0,0,0,,,UCLA,
+1992Phillippi Sparks,SparPh20,1992,2,41,NYG,Phillippi Sparks,No,DB,DB,23,23,2000,0,0,6,40,35,115,,,,,,,,,,,,27,1,Arizona St.,
+1992Tony Sacca,SaccTo00,1992,2,46,PHO,Tony Sacca,No,QB,QB,0,22,1992,0,0,0,0,0,2,4,11,29,0,2,,,,,,,,,Penn St.,
+1992Chuck Smith,SmitCh23,1992,2,51,ATL,Chuck Smith,No,DE,DE,19,22,2000,0,0,6,44,44,125,,,,,,,,,,,,3,58.5,Tennessee,
+1992Shane Dronett,DronSh20,1992,2,54,DEN,Shane Dronett,No,DT,DT,19,21,2001,0,0,5,39,16,139,,,,,,,,,,,,3,44,Texas,
+1992Jason Hanson,hansojas01,1992,2,56,DET,Jason Hanson,No,K,K,18,22,2012,0,2,7,48,48,327,,,,,,,,,,,,,,Washington St.,
+1992Todd Kinchen,KincTo00,1992,3,60,RAM,Todd Kinchen,No,WR,WR,9,23,1998,0,0,0,13,8,83,0,1,0,0,0,7,70,1,95,1358,10,,,LSU,
+1992Siupeli Malamala,MalaSi20,1992,3,68,NYJ,Siupeli Malamala,No,T,T,16,23,1999,0,0,2,18,18,62,,,,,,,,,,,,,,Washington,
+1992Paul Siever,,1992,3,74,WAS,Paul Siever,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Penn St.,
+1992Gerald Dixon,DixoGe20,1992,3,78,CLE,Gerald Dixon,No,LB,LB,13,23,2001,0,0,3,27,6,136,,,,,,,,,,,,5,23,South Carolina,
+1992Rodney Culver,CulvRo00,1992,4,85,IND,Rodney Culver,No,RB,RB,5,22,1995,0,0,0,5,4,43,,,,,,241,689,13,42,343,3,,,Notre Dame,
+1992Charles Davenport,DaveCh00,1992,4,94,PIT,Charles Davenport,No,WR,WR,1,23,1994,0,0,0,1,1,38,,,,,,,,,13,187,0,,,North Carolina St.,
+1992Tony McCoy,McCoTo22,1992,4,105,IND,Tony McCoy,No,DT,DT,26,23,2000,0,0,5,33,32,114,,,,,,,,,,,,,23,Florida,
+1992Tom Myslinski,MyslTo20,1992,4,109,DAL,Tom Myslinski,No,G,G,7,23,2000,0,0,1,12,0,60,,,,,,,,,,,,,,Tennessee,
+1992Chris Hakel,,1992,4,112,WAS,Chris Hakel,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,William & Mary,
+1992Maury Toy,,1992,5,113,IND,Maury Toy,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,UCLA,
+1992Chris Crooms,CrooCh20,1992,5,114,RAM,Chris Crooms,No,DB,DB,1,23,1992,0,0,0,1,1,16,,,,,,,,,,,,,,Texas A&M,
+1992Rogerick Green,GreeRo21,1992,5,118,TAM,Rogerick Green,No,DB,DB,2,22,1995,0,0,0,2,1,26,,,,,,,,,,,,,,Kansas St.,
+1992Rod Milstead,MilsRo20,1992,5,121,DAL,Rod Milstead,No,G,G,14,22,1999,0,0,2,14,,56,,,,,,,,,,,,,,Delaware St.,
+1992Alan Haller,HallAl22,1992,5,123,PIT,Alan Haller,No,DB,DB,0,22,1995,0,0,0,0,0,12,,,,,,,,,,,,,,Michigan St.,
+1992Christopher Perez,,1992,5,124,MIA,Christopher Perez,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Kansas,
+1992Corey Barlow,BarlCo20,1992,5,129,PHI,Corey Barlow,No,DB,DB,1,21,1993,0,0,0,1,1,10,,,,,,,,,,,,,,Auburn,
+1992Todd Harrison,HarrTo21,1992,5,134,CHI,Todd Harrison,No,TE,TE,0,23,1992,0,0,0,0,,1,,,,,,,,,,,,,,North Carolina St.,
+1992Matt Darby,DarbMa20,1992,5,139,BUF,Matt Darby,No,DB,DB,16,23,1997,0,0,3,18,11,81,,,,,,,,,,,,8,,UCLA,
+1992Shoun Habersham,,1992,6,141,IND,Shoun Habersham,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Tenn-Chattanooga,
+1992Chris Burns,,1992,6,142,CIN,Chris Burns,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Middle Tenn. St.,
+1992Brian Brauninger,,1992,6,146,PHO,Brian Brauninger,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma,
+1992Fallon Wacasey,,1992,6,149,DAL,Fallon Wacasey,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Tulsa,
+1992Glenn Cadrez,CadrGl20,1992,6,154,NYJ,Glenn Cadrez,No,LB,LB,7,22,2002,0,0,2,28,2,167,,,,,,,,,,,,3,14.5,Houston,
+1992Mario Bailey,,1992,6,162,HOU,Mario Bailey,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1992Darryl Ashmore,AshmDa20,1992,7,171,RAM,Darryl Ashmore,No,T,T,13,22,2001,0,0,1,17,10,119,,,,,,,,,,,,,,Northwestern,
+1992David Wilson,WilsDa22,1992,7,183,MIN,David Wilson,No,DB,DB,0,22,1992,0,0,0,0,0,4,,,,,,,,,,,,,,California,
+1992Scottie Graham,GrahSc00,1992,7,188,PIT,Scottie Graham,No,RB,RB,8,23,1997,0,0,0,8,,57,,,,,,364,1267,7,20,126,0,,,Ohio St.,
+1992Calvin Holmes,,1992,7,196,WAS,Calvin Holmes,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,USC,
+1992Eric Blount,BlouEr00,1992,8,202,PHO,Eric Blount,No,WR,WR,1,22,1993,0,0,0,1,1,10,,,,,,6,27,1,8,54,0,,,North Carolina,
+1992Andre Powell,PoweAn20,1992,8,209,MIA,Andre Powell,No,LB,LB,2,23,1994,0,0,0,2,,16,,,,,,,,,,,,,,Penn St.,
+1992Kent Graham,GrahKe00,1992,8,211,NYG,Kent Graham,No,QB,QB,8,23,2001,0,0,1,20,11,81,694,1339,7801,39,33,121,424,5,2,15,0,,,Ohio St.,
+1992Reggie Dwight,,1992,8,217,ATL,Reggie Dwight,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Troy,
+1992Willie Clay,ClayWi20,1992,8,221,DET,Willie Clay,No,DB,DB,25,22,1999,0,0,6,37,16,118,,,,,,,,,,,,27,1,Georgia Tech,
+1992Darryl Moore,MoorDa22,1992,8,224,WAS,Darryl Moore,No,G,G,0,23,1993,0,0,0,0,0,12,,,,,,,,,,,,,,Texas-El Paso,
+1992Eddie Miller,MillEd21,1992,9,225,IND,Eddie Miller,No,WR,WR,0,23,1993,0,0,0,0,0,15,,,,,,,,,,,,,,South Carolina,
+1992Elnardo Webster,WebsEl20,1992,9,235,PIT,Elnardo Webster,No,LB,LB,0,22,1992,0,0,0,0,0,3,,,,,,,,,,,,,,Rutgers,
+1992Shazzon Bradley,,1992,9,240,GNB,Shazzon Bradley,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Tennessee,
+1992Darian Hagan,,1992,9,242,SFO,Darian Hagan,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,Colorado,
+1992Keith Alex,AlexKe20,1992,9,243,ATL,Keith Alex,No,G,G,1,23,1993,0,0,0,1,1,14,,,,,,,,,,,,,,Texas A&M,
+1992Jay Leeuwenburg,LeeuJa20,1992,9,244,KAN,Jay Leeuwenburg,No,G,G,29,23,2000,0,0,6,48,,137,,,,,,,,,,,,,,Colorado,
+1992Bernard Dafney,DafnBe20,1992,9,247,HOU,Bernard Dafney,No,G,G,12,23,1997,0,0,1,11,,60,,,,,,,,,,,,,,Tennessee,
+1992Chris Walsh,WalsCh00,1992,9,251,BUF,Chris Walsh,No,WR,WR,1,23,2002,0,0,0,7,0,139,0,1,0,0,0,,,,67,719,4,,,Stanford,
+1992George Rooks,,1992,10,265,NYG,George Rooks,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Syracuse,
+1992Alberto White,WhitAl20,1992,10,268,RAI,Alberto White,No,DE,DE,1,21,1996,0,0,0,1,1,13,,,,,,,,,,,,,3,Texas Southern,
+1992Mark McMillian,McMiMa20,1992,10,272,PHI,Mark McMillian,No,DB,DB,29,22,1999,0,0,5,36,20,127,,,,,,,,,,,,23,1.5,Alabama,
+1992Nikki Fisher,,1992,10,273,CHI,Nikki Fisher,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Virginia,
+1992John Terry,,1992,10,275,DAL,John Terry,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Livingstone,
+1992Tony Barker,BarkTo20,1992,10,280,WAS,Tony Barker,No,LB,LB,1,24,1992,0,0,0,1,1,8,,,,,,,,,,,,,,Rice,
+1992Rob Baxley,BaxlRo20,1992,11,286,PHO,Rob Baxley,No,T,T,0,23,1992,0,0,0,0,0,6,,,,,,,,,,,,,,Iowa,
+1992Mike Petko,,1992,11,288,NWE,Mike Petko,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,
+1992Kris Rongen,,1992,11,290,SEA,Kris Rongen,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1992Nate Singleton,SingNa00,1992,11,292,NYG,Nate Singleton,No,WR,WR,7,24,1997,0,0,0,7,,44,,,,,,,,,38,539,4,,,Grambling St.,
+1992Doug Rigby,,1992,11,298,KAN,Doug Rigby,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Wyoming,
+1992Cornelius Benton,,1992,12,318,PIT,Cornelius Benton,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,Connecticut,
+1992Chico Fraley,,1992,12,319,SEA,Chico Fraley,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1992Corey Williams,,1992,12,325,KAN,Corey Williams,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma St.,
+1992Joe Wood,,1992,12,332,HOU,Joe Wood,No,K,K,0,,,0,0,0,,,,,,,,,,,,,,,,,Air Force,
+1991Eric Swann,SwanEr00,1991,1,6,PHO,Eric Swann,No,DT,DT,29,21,2000,0,2,6,43,42,126,,,,,,1,0,0,,,,2,46.5,Wake Technical CC,
+1991Dan McGwire,McGwDa00,1991,1,16,SEA,Dan McGwire,No,QB,QB,2,23,1995,0,0,0,2,2,13,74,148,745,2,6,14,6,0,,,,,,San Diego St.,
+1991Kelvin Pritchett,PritKe20,1991,1,20,DAL,Kelvin Pritchett,No,DT,DT,22,21,2004,0,0,4,33,,208,,,,,,,,,,,,1,31.5,Mississippi,
+1991Randal Hill,HillRa00,1991,1,23,MIA,Randal Hill,No,WR,WR,22,22,1997,0,0,3,27,5,103,0,0,0,0,0,2,15,0,262,3849,14,,,Miami (FL),
+1991Todd Marinovich,MariTo00,1991,1,24,RAI,Todd Marinovich,No,QB,QB,3,22,1992,0,0,0,3,3,8,104,205,1345,8,9,12,44,0,,,,,,USC,
+1991Reggie Johnson,JohnRe00,1991,2,30,DEN,Reggie Johnson,No,TE,TE,7,23,1997,0,0,1,8,5,77,,,,,,2,7,0,66,791,6,,,Florida St.,
+1991Mike Jones,JoneMi23,1991,2,32,PHO,Mike Jones,No,DE,DE,23,22,1999,0,0,4,40,8,135,,,,,,,,,,,,,27.5,North Carolina St.,
+1991Shane Curry,CurrSh20,1991,2,40,IND,Shane Curry,No,DE,DE,1,23,1991,0,0,0,1,1,9,,,,,,,,,,,,,1,Miami (FL),
+1991Reggie Barrett,BarrRe00,1991,3,58,DET,Reggie Barrett,No,WR,WR,1,22,1992,0,0,0,1,1,10,,,,,,,,,4,67,1,,,Texas-El Paso,
+1991James Richards,,1991,3,64,DAL,James Richards,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,California,
+1991Jake Reed,ReedJa00,1991,3,68,MIN,Jake Reed,No,WR,WR,21,24,2002,0,0,6,53,49,155,,,,,,,,,450,6999,36,,,Grambling St.,
+1991Dave McCloughan,McClDa20,1991,3,69,IND,Dave McCloughan,No,DB,DB,4,24,1994,0,0,0,4,1,48,,,,,,,,,,,,,,Colorado,
+1991Ernie Mills,MillEr00,1991,3,73,PIT,Ernie Mills,No,WR,WR,18,22,1999,0,0,0,24,17,118,,,,,,18,121,0,196,2934,20,,,Florida,
+1991Kevin Donnalley,DonnKe21,1991,3,79,HOU,Kevin Donnalley,No,G,G,18,23,2003,0,0,9,52,27,193,,,,,,,,,,,,,,North Carolina,
+1991Scott Zolak,ZolaSc00,1991,4,84,NWE,Scott Zolak,No,QB,QB,3,23,1999,0,0,0,4,4,55,124,248,1314,8,7,38,81,0,,,,,,Maryland,
+1991Mitch Donahue,DonaMi20,1991,4,95,SFO,Mitch Donahue,No,LB,LB,2,23,1994,0,0,0,2,1,31,,,,,,,,,,,,,,Wyoming,
+1991Marcus Robertson,RobeMa21,1991,4,102,HOU,Marcus Robertson,No,DB,DB,28,21,2002,1,0,10,60,54,162,,,,,,,,,,,,24,1.5,Iowa St.,
+1991Adrian Cooper,CoopAd00,1991,4,103,PIT,Adrian Cooper,No,TE,TE,9,23,1996,0,0,3,8,3,77,,,,,,,,,87,1037,5,,,Oklahoma,
+1991Kevin Harris,,1991,4,110,DAL,Kevin Harris,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas Southern,
+1991Clarence Jones,JoneCl20,1991,4,111,NYG,Clarence Jones,No,T,T,8,23,2000,0,0,5,36,0,111,,,,,,,,,,,,,,Maryland,
+1991Jon Vaughn,VaugJo00,1991,5,112,NWE,Jon Vaughn,No,RB,RB,10,21,1994,0,0,0,9,6,61,1,2,13,1,0,207,846,4,23,178,1,,,Michigan,
+1991Reggie Jones,JoneRe20,1991,5,126,NOR,Reggie Jones,No,DB,DB,11,22,1994,0,0,1,11,11,41,,,,,,,,,,,,6,1,Memphis,
+1991Rhett Hall,HallRh20,1991,6,147,TAM,Rhett Hall,No,DT,DT,4,22,1998,0,0,2,19,1,68,,,,,,,,,,,,1,18.5,California,
+1991Mel Agee,AgeeMe20,1991,6,152,IND,Mel Agee,No,DE,DE,8,22,1995,0,0,0,8,1,54,,,,,,,,,,,,,2.5,Illinois,
+1991Fred McAfee,McAfFr00,1991,6,154,NOR,Fred McAfee,No,RB,RB,8,23,2006,0,1,0,9,6,194,,,,,,304,1273,8,35,211,0,,,Mississippi Col.,
+1991Darrell Malone,MaloDa20,1991,6,162,KAN,Darrell Malone,No,DB,DB,2,23,1994,0,0,0,2,0,29,,,,,,,,,,,,1,,Jacksonville St.,
+1991Todd Scott,ScotTo01,1991,6,163,MIN,Todd Scott,No,DB,DB,27,23,1997,0,1,4,27,21,83,,,,,,,,,,,,7,1,La-Lafayette,
+1991Brian Mitchell,MitcBr21,1991,7,172,ATL,Brian Mitchell,No,DB,DB,2,22,1993,0,0,0,2,2,36,,,,,,,,,,,,1,2,BYU,
+1991Bernard Ellison,,1991,7,189,KAN,Bernard Ellison,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Nevada,
+1991Harry Colon,ColoHa20,1991,8,196,NWE,Harry Colon,No,DB,DB,19,22,1997,0,0,3,19,6,87,,,,,,,,,,,,6,1,Missouri,
+1991Randy Austin,,1991,8,199,ATL,Randy Austin,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,UCLA,
+1991Scott Evans,EvanSc20,1991,8,209,PHO,Scott Evans,No,DE,DE,0,23,1991,0,0,0,0,0,1,,,,,,,,,,,,,,Oklahoma,
+1991Frank Wainright,WainFr00,1991,8,210,NOR,Frank Wainright,No,TE,TE,2,23,2000,0,0,0,2,2,121,,,,,,,,,11,148,1,,,Northern Colorado,
+1991Mike Dingle,DingMi00,1991,8,211,CIN,Mike Dingle,No,RB,RB,1,22,1991,0,0,0,1,1,8,,,,,,21,91,0,5,23,1,,,South Carolina,
+1991Gary Brown,BrowGa00,1991,8,214,HOU,Gary Brown,No,RB,RB,17,22,1999,0,0,3,27,15,99,,,,,,1032,4300,21,84,631,3,,,Penn St.,
+1991Larry Horton,,1991,8,217,CHI,Larry Horton,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M,
+1991Ernie Logan,LogaEr20,1991,9,226,ATL,Ernie Logan,No,NT,DT,6,23,2000,0,0,2,27,1,119,,,,,,,,,,,,,11,East Carolina,
+1991Damon Mays,MaysDa20,1991,9,235,DAL,Damon Mays,No,WR,WR,0,23,1993,0,0,0,0,,2,,,,,,,,,,,,,,Missouri,
+1991Howard Griffith,GrifHo00,1991,9,236,IND,Howard Griffith,No,RB,RB,5,23,2000,0,0,5,8,,121,,,,,,121,351,3,122,844,9,,,Illinois,
+1991Anthony Wallace,,1991,9,237,NOR,Anthony Wallace,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,California,
+1991Shawn Jefferson,JeffSh00,1991,9,240,HOU,Shawn Jefferson,No,WR,WR,22,22,2003,0,0,7,53,,195,,,,,,15,146,0,470,7023,29,,,Central Florida,
+1991Chuck Weatherspoon,WeatCh20,1991,9,242,PHI,Chuck Weatherspoon,No,RB,RB,0,23,1991,0,0,0,0,,4,,,,,,,,,,,,,,Houston,
+1991Curtis Mayfield,,1991,10,253,DEN,Curtis Mayfield,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma St.,
+1991Ronald Poles,,1991,10,254,SDG,Ronald Poles,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Tennessee,
+1991Brady Pierce,,1991,10,259,MIN,Brady Pierce,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Wisconsin,
+1991Al Baker,,1991,10,261,NYJ,Al Baker,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Kentucky,
+1991Hyland Hickson,,1991,10,265,TAM,Hyland Hickson,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Michigan St.,
+1991Eric Harmon,,1991,10,271,PHI,Eric Harmon,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Clemson,
+1991Tom Backes,,1991,10,272,CHI,Tom Backes,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma,
+1991Michael Titley,,1991,10,275,MIA,Michael Titley,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Iowa,
+1991Vince Moore,,1991,11,279,NWE,Vince Moore,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Tennessee,
+1991Joe Sims,SimsJo20,1991,11,283,ATL,Joe Sims,No,T,T,14,22,1995,0,0,1,14,0,53,,,,,,,,,,,,,,Nebraska,
+1991Shawn Moore,MoorSh00,1991,11,284,DEN,Shawn Moore,No,QB,QB,1,23,1992,0,0,0,1,1,3,17,34,232,0,3,8,39,0,,,,,,Virginia,
+1991Ivan Caesar,CaesIv20,1991,11,286,MIN,Ivan Caesar,No,LB,LB,2,24,1991,0,0,0,2,2,14,,,,,,,,,,,,,,Boston Col.,
+1991Jerry Crafts,CrafJe20,1991,11,292,IND,Jerry Crafts,No,T,T,7,23,1998,0,0,0,10,,54,,,,,,,,,,,,,,Louisville,
+1991Scott Ross,RossSc20,1991,11,293,NOR,Scott Ross,No,LB,LB,0,22,1991,0,0,0,0,0,4,,,,,,,,,,,,,,USC,
+1991James Smith,,1991,11,294,HOU,James Smith,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Richmond,
+1991Bobby Olive,OlivBo20,1991,11,300,KAN,Bobby Olive,No,WR,WR,0,22,1996,0,0,0,0,,2,,,,,,,,,,,,,,Ohio St.,
+1991Jeff Bridewell,,1991,12,309,PHO,Jeff Bridewell,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,California-Davis,
+1991Zeno Alexander,,1991,12,318,DET,Zeno Alexander,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Arizona,
+1991Larry Brown,BrowLa22,1991,12,320,DAL,Larry Brown,No,DB,DB,32,21,1998,0,0,5,30,29,95,,,,,,,,,,,,14,,TCU,
+1991Jeff Brady,BradJe20,1991,12,323,PIT,Jeff Brady,No,LB,LB,9,22,1999,0,0,3,28,1,115,,,,,,,,,,,,9,8.5,Kentucky,
+1991Ike Harris,,1991,12,324,SEA,Ike Harris,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,South Carolina,
+1991Dennis Johnson,,1991,12,330,RAI,Dennis Johnson,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Winston-Salem St.,
+1991Cliff Confer,,1991,12,332,SFO,Cliff Confer,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Michigan St.,
+1991Larry Wanke,,1991,12,334,NYG,Larry Wanke,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,John Carroll,
+1990Jeff George,GeorJe00,1990,1,1,IND,Jeff George,No,QB,QB,33,22,2001,0,0,9,65,16,131,2298,3967,27602,154,113,168,307,2,,,,,,Illinois,
+1990Blair Thomas,ThomBl00,1990,1,2,NYJ,Blair Thomas,No,RB,RB,21,22,1995,0,0,3,20,18,64,1,1,16,1,0,533,2236,7,71,513,2,,,Penn St.,
+1990Darrell Thompson,ThomDa01,1990,1,19,GNB,Darrell Thompson,No,RB,RB,17,22,1994,0,0,2,16,16,60,,,,,,464,1641,7,41,330,1,,,Minnesota,
+1990Dexter Carter,CartDe00,1990,1,25,SFO,Dexter Carter,No,RB,RB,18,23,1996,0,0,1,18,18,100,,,,,,247,1042,5,61,656,2,,,Florida St.,
+1990Terry Wooden,WoodTe20,1990,2,29,SEA,Terry Wooden,No,LB,LB,35,23,1998,0,0,9,50,41,120,,,,,,,,,,,,7,10,Syracuse,
+1990Ron Cox,CoxxRo20,1990,2,33,CHI,Ron Cox,No,LB,LB,10,22,1997,0,0,2,20,19,113,,,,,,,,,,,,1,8,Fresno St.,
+1990Robert Blackmon,BlacRo20,1990,2,34,SEA,Robert Blackmon,No,DB,DB,32,23,1998,0,0,8,44,39,135,,,,,,,,,,,,17,10.5,Baylor,
+1990Anthony Johnson,JohnAn00,1990,2,36,IND,Anthony Johnson,No,RB,RB,13,22,2000,0,0,3,32,12,159,0,2,0,0,1,816,2966,9,284,2422,7,,,Notre Dame,
+1990Harold Green,GreeHa00,1990,2,38,CIN,Harold Green,No,RB,RB,27,22,1998,0,1,6,40,30,124,,,,,,1151,4365,13,213,1644,4,,,South Carolina,
+1990Keith Sims,SimsKe00,1990,2,39,MIA,Keith Sims,No,G,G,47,23,2000,0,3,9,69,59,142,,,,,,,,,1,9,0,,,Iowa St.,
+1990Jeff Alm,AlmxJe20,1990,2,41,HOU,Jeff Alm,No,DT,DT,5,22,1993,0,0,1,5,5,44,,,,,,,,,,,,,2.5,Notre Dame,
+1990Leroy Hoard,HoarLe00,1990,2,45,CLE,Leroy Hoard,No,RB,RB,29,22,1999,0,1,4,43,28,144,0,1,0,0,0,1008,3964,36,238,2430,15,,,Michigan,
+1990Glenn Parker,ParkGl20,1990,3,69,BUF,Glenn Parker,No,G,G,28,24,2001,0,0,9,57,30,174,,,,,,,,,,,,,,Arizona,
+1990Willis Peguese,PeguWi20,1990,3,72,HOU,Willis Peguese,No,DE,DE,4,23,1993,0,0,0,4,1,35,,,,,,,,,,,,,2,Miami (FL),
+1990Bobby Houston,HousBo20,1990,3,75,GNB,Bobby Houston,No,LB,LB,25,22,1998,0,0,5,35,0,109,,,,,,,,,,,,4,14.5,North Carolina St.,
+1990Mohammed Elewonibi,ElewMo20,1990,3,76,WAS,Mohammed Elewonibi,No,T,T,9,24,1995,0,0,1,9,9,26,,,,,,,,,,,,,,BYU,
+1990Latin Berry,BerrLa20,1990,3,78,RAM,Latin Berry,No,DB,DB,2,23,1992,0,0,0,2,1,32,,,,,,,,,,,,,,Oregon,
+1990Mike Brennan,BrenMi20,1990,4,91,CIN,Mike Brennan,No,T,T,1,23,1991,0,0,0,1,1,19,,,,,,,,,,,,,,Notre Dame,
+1990Dean Caliguire,CaliDe20,1990,4,92,SFO,Dean Caliguire,No,G,G,1,23,1991,0,0,0,1,0,9,,,,,,,,,,,,,,Pittsburgh,
+1990William Schultz,SchuWi20,1990,4,94,IND,William Schultz,No,G,G,9,23,1997,0,0,2,10,8,56,,,,,,,,,1,3,1,,,USC,
+1990Fred Jones,JoneFr01,1990,4,96,KAN,Fred Jones,No,WR,WR,5,23,1993,0,0,0,5,5,41,,,,,,6,33,0,36,466,0,,,Grambling St.,
+1990DeMond Winston,WinsDe20,1990,4,98,NOR,DeMond Winston,No,LB,LB,3,22,1994,0,0,0,3,3,51,,,,,,,,,,,,,,Vanderbilt,
+1990Ian Beckles,BeckIa20,1990,5,114,TAM,Ian Beckles,No,G,G,26,23,1998,0,0,9,37,32,126,,,,,,,,,,,,,,Indiana,
+1990Reggie Thornton,ThorRe20,1990,5,116,MIN,Reggie Thornton,No,WR,WR,0,23,1993,0,0,0,0,,6,,,,,,,,,1,38,0,,,Bowling Green,
+1990Eric Hayes,HayeEr20,1990,5,119,SEA,Eric Hayes,No,DT,DT,4,22,1993,0,0,0,4,4,24,,,,,,,,,,,,,,Florida St.,
+1990Lynn James,JameLy00,1990,5,122,CIN,Lynn James,No,WR,WR,1,25,1991,0,0,0,1,1,25,0,1,0,0,0,1,11,0,10,139,1,,,Arizona St.,
+1990Stan Smagala,SmagSt20,1990,5,123,DAL,Stan Smagala,No,DB,DB,0,22,1991,0,0,0,0,0,11,,,,,,,,,,,,,,Notre Dame,
+1990Charles Arbuckle,ArbuCh00,1990,5,125,NOR,Charles Arbuckle,No,TE,TE,2,22,1995,0,0,0,2,,42,,,,,,,,,33,282,1,,,UCLA,
+1990Tony Jones,JoneTo00,1990,6,153,HOU,Tony Jones,No,WR,WR,7,24,1993,0,0,0,7,6,43,,,,,,1,-2,0,63,798,9,,,Texas,
+1990James Williams,WillJa24,1990,6,158,NOR,James Williams,No,LB,LB,14,21,1999,0,0,1,17,13,137,,,,,,,,,,,,4,3,Mississippi St.,
+1990Ronnie Haliburton,HaliRo20,1990,6,164,DEN,Ronnie Haliburton,No,TE,TE,0,22,1991,0,0,0,0,0,17,,,,,,,,,,,,,,LSU,
+1990Johnny Johnson,JohnJo00,1990,7,169,PHO,Johnny Johnson,No,RB,RB,40,22,1994,0,1,5,37,16,72,0,1,0,0,1,1046,4078,21,177,1513,5,,,San Jose St.,
+1990Brent Collins,,1990,7,170,BUF,Brent Collins,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Carson-Newman,
+1990Jeff Novak,NovaJe20,1990,7,172,SDG,Jeff Novak,No,G,G,10,23,1998,0,0,0,10,,38,,,,,,,,,,,,,,Texas St.,
+1990Andy Murray,,1990,7,184,HOU,Andy Murray,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Kentucky,
+1990Nate Lewis,LewiNa00,1990,7,187,SDG,Nate Lewis,No,WR,WR,20,23,1995,0,0,3,19,19,82,,,,,,12,44,1,130,1802,13,,,Oregon Tech,
+1990Shannon Sharpe,SharSh00,1990,7,192,DEN,Shannon Sharpe,No,TE,TE,29,22,2003,4,8,12,80,72,204,,,,,,3,9,0,815,10060,62,,,Savannah St.,
+1990Gerry Gdowski,,1990,8,207,NOR,Gerry Gdowski,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,
+1990Marvcus Patton,PattMa21,1990,8,208,BUF,Marvcus Patton,No,LB,LB,21,23,2002,0,0,9,67,15,208,,,,,,,,,,,,17,27.5,UCLA,
+1990Derrick Carr,,1990,8,210,NOR,Derrick Carr,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Bowling Green,
+1990Darrell Jordan,,1990,9,222,ATL,Darrell Jordan,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Northern Arizona,
+1990Leon Perry,,1990,9,230,RAI,Leon Perry,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma,
+1990Darvell Huffman,HuffDa20,1990,9,232,IND,Darvell Huffman,No,WR,WR,0,23,1991,0,0,0,0,0,3,,,,,,1,-8,0,3,14,0,,,Boston Univ.,
+1990Broderick Graves,,1990,9,233,NOR,Broderick Graves,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Winston-Salem St.,
+1990Tony Lomack,LomaTo20,1990,9,245,RAM,Tony Lomack,No,WR,WR,0,22,1991,0,0,0,0,0,4,,,,,,,,,,,,,,Florida,
+1990Terry Price,PricTe20,1990,10,255,CHI,Terry Price,No,DE,DE,0,22,1990,0,0,0,0,0,2,,,,,,,,,,,,,,Texas A&M,
+1990Dee Thomas,ThomDe20,1990,10,264,HOU,Dee Thomas,No,DB,DB,0,22,1990,0,0,0,0,0,6,,,,,,,,,,,,,,Nicholls St.,
+1990Eddie Miles,MileEd20,1990,10,266,PIT,Eddie Miles,No,LB,LB,0,22,1990,0,0,0,0,0,1,,,,,,,,,,,,,,Minnesota,
+1990Dempsey Norman,,1990,11,282,PHO,Dempsey Norman,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,St. Francis (IL),
+1990Brent White,,1990,11,284,CHI,Brent White,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Michigan,
+1990Reginald Warnsley,,1990,11,285,DET,Reginald Warnsley,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Southern Miss,
+1990Justin Strzelczyk,StrzJu20,1990,11,293,PIT,Justin Strzelczyk,No,T,T,15,22,1998,0,0,4,33,33,133,,,,,,,,,,,,,,Maine,
+1990Clemente Gordon,,1990,11,296,CLE,Clemente Gordon,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,Grambling St.,
+1990Jon Leverenz,,1990,11,297,WAS,Jon Leverenz,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Minnesota,
+1990Tim Downing,,1990,11,302,NYG,Tim Downing,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington St.,
+1990Andre Riley,,1990,12,314,CIN,Andre Riley,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1990Bobby Harden,HardBo20,1990,12,315,MIA,Bobby Harden,No,DB,DB,4,23,1993,0,0,0,4,4,29,,,,,,,,,,,,2,1,Miami (FL),
+1990Kerry Simien,,1990,12,323,CLE,Kerry Simien,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M-Kingsville,
+1990Kirk Maggio,,1990,12,325,GNB,Kirk Maggio,No,P,P,0,,,0,0,0,,,,,,,,,,,,,,,,,UCLA,
+1990Elliott Searcy,,1990,12,326,SDG,Elliott Searcy,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Southern,
+1990Ken McMichel,,1990,12,330,PHO,Ken McMichel,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma,
+1989Joe Tofflemire,ToffJo20,1989,2,44,SEA,Joe Tofflemire,No,C,C,5,24,1994,0,0,1,5,5,33,,,,,,,,,,,,,,Arizona,
+1989Robert Massey,MassRo00,1989,2,46,NOR,Robert Massey,No,DB,DB,28,22,1997,0,1,5,34,15,133,,,,,,,,,,,,14,,North Carolina Central,
+1989Warren Powers,PoweWa21,1989,2,47,DEN,Warren Powers,No,DE,DE,16,24,1992,0,0,2,15,15,51,,,,,,,,,,,,,9,Maryland,
+1989Brian Smith,SmitBr23,1989,2,48,RAM,Brian Smith,No,LB,LB,2,23,1990,0,0,0,2,2,19,,,,,,,,,,,,,3,Auburn,
+1989Naz Worthen,WortNa20,1989,3,60,KAN,Naz Worthen,No,WR,WR,1,23,1990,0,0,0,1,1,19,,,,,,,,,5,69,0,,,North Carolina St.,
+1989Keith Jones,JoneKe01,1989,3,62,ATL,Keith Jones,No,RB,RB,11,23,1992,0,0,3,10,10,50,1,3,37,0,0,215,791,6,72,651,0,,,Illinois,
+1989Bob Kratch,KratBo20,1989,3,64,NYG,Bob Kratch,No,G,G,22,23,1996,0,0,4,34,19,105,,,,,,,,,,,,,,Iowa,
+1989Tracy Rocker,RockTr20,1989,3,66,WAS,Tracy Rocker,No,DT,DT,10,23,1990,0,0,1,10,10,24,,,,,,,,,,,,,3,Auburn,
+1989Mike Zandofsky,ZandMi20,1989,3,67,PHO,Mike Zandofsky,No,G,G,17,23,1997,0,0,4,35,2,116,,,,,,,,,,,,,,Washington,
+1989Chris Gannon,GannCh20,1989,3,73,NWE,Chris Gannon,No,DE,DE,5,23,1993,0,0,0,4,4,40,,,,,,1,0,0,,,,,0.5,La-Lafayette,
+1989Greg Jackson,JackGr21,1989,3,78,NYG,Greg Jackson,No,DB,DB,31,23,2000,0,0,9,54,26,168,,,,,,,,,,,,32,4,LSU,
+1989Kim Phillips,PhilKi20,1989,3,79,NOR,Kim Phillips,No,DB,DB,0,22,1990,0,0,0,0,0,6,,,,,,,,,,,,,,North Texas,
+1989Keith Henderson,HendKe00,1989,3,84,SFO,Keith Henderson,No,RB,RB,12,23,1992,0,0,0,12,10,37,1,1,36,1,0,194,755,4,42,532,0,,,Georgia,
+1989Pat Tomberlin,TombPa20,1989,4,99,IND,Pat Tomberlin,No,G,G,5,23,1993,0,0,1,5,5,18,,,,,,,,,,,,,,Florida St.,
+1989Rod Harris,HarrRo21,1989,4,104,HOU,Rod Harris,No,WR,WR,0,22,1991,0,0,0,0,,38,,,,,,,,,2,28,0,,,Texas A&M,
+1989Darryl Ingram,IngrDa00,1989,4,108,MIN,Darryl Ingram,No,TE,TE,0,23,1993,0,0,0,0,0,36,,,,,,,,,5,47,1,,,California,
+1989John Kolesar,,1989,4,109,BUF,John Kolesar,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Michigan,
+1989Kyle Kramer,KramKy20,1989,5,114,CLE,Kyle Kramer,No,DB,DB,1,22,1989,0,0,0,1,1,14,,,,,,,,,,,,1,,Bowling Green,
+1989Lawrence Pete,PeteLa20,1989,5,115,DET,Lawrence Pete,No,NT,DT,12,23,1993,0,0,1,11,11,61,,,,,,,,,,,,,3.5,Nebraska,
+1989Jamie Lawson,LawsJa20,1989,5,117,TAM,Jamie Lawson,No,RB,RB,0,23,1990,0,0,0,0,0,12,,,,,,,,,,,,,,Nicholls St.,
+1989Willis Crockett,CrocWi20,1989,5,119,DAL,Willis Crockett,No,LB,LB,1,23,1990,0,0,0,1,1,13,,,,,,,,,,,,,,Georgia Tech,
+1989Jeff Uhlenhake,UhleJe20,1989,5,121,MIA,Jeff Uhlenhake,No,C,C,32,23,1997,0,0,8,48,28,119,,,,,,,,,,,,,,Ohio St.,
+1989Tim Smiley,,1989,5,129,WAS,Tim Smiley,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Arkansas St.,
+1989Kevin Haverdink,HaveKe20,1989,5,133,NOR,Kevin Haverdink,No,T,T,15,23,1991,0,0,1,14,14,41,,,,,,,,,,,,,,West. Michigan,
+1989Jeff Francis,FranJe20,1989,6,140,RAI,Jeff Francis,No,QB,QB,0,23,1990,0,0,0,0,,1,2,2,26,0,0,,,,,,,,,Tennessee,
+1989Mark Stock,StocMa20,1989,6,144,PIT,Mark Stock,No,WR,WR,1,23,1996,0,0,0,1,1,25,,,,,,,,,6,98,0,,,VMI,
+1989Quintus McDonald,McDoQu20,1989,6,155,IND,Quintus McDonald,No,LB,LB,6,22,1991,0,0,0,6,6,40,,,,,,,,,,,,,2,Penn St.,
+1989Doug Lloyd,LloyDo20,1989,6,156,RAI,Doug Lloyd,No,RB,RB,0,24,1991,0,0,0,0,0,1,,,,,,,,,,,,,,North Dakota St.,
+1989Bo Orlando,OrlaBo20,1989,6,157,HOU,Bo Orlando,No,DB,DB,12,23,1998,0,0,3,23,10,129,,,,,,,,,,,,10,2,West Virginia,
+1989Howard Cross,CrosHo00,1989,6,158,NYG,Howard Cross,No,TE,TE,12,22,2001,0,0,10,17,17,207,,,,,,,,,201,2194,17,,,Alabama,
+1989Floyd Turner,TurnFl00,1989,6,159,NOR,Floyd Turner,No,WR,WR,18,23,1998,0,0,3,34,15,114,,,,,,7,17,0,281,3805,31,,,NW State (LA),
+1989Sean Doctor,,1989,6,164,BUF,Sean Doctor,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Marshall,
+1989Craig Taylor,TaylCr00,1989,6,166,CIN,Craig Taylor,No,RB,RB,5,23,1991,0,0,0,5,5,36,,,,,,114,480,7,28,188,3,,,West Virginia,
+1989Undra Johnson,JohnUn20,1989,7,172,ATL,Undra Johnson,No,RB,RB,0,23,1989,0,0,0,0,0,6,,,,,,,,,,,,,,West Virginia,
+1989Brian Jordan,JordBr20,1989,7,173,BUF,Brian Jordan,No,DB,DB,13,22,1991,0,0,2,13,,36,,,,,,,,,,,,5,4,Richmond,
+1989Benji Roland,RolaBe20,1989,7,191,MIN,Benji Roland,No,DE,DE,1,22,1990,0,0,0,1,,3,,,,,,,,,,,,,,Auburn,
+1989Chris Parker,,1989,8,197,DET,Chris Parker,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,West Virginia,
+1989Carl Bax,BaxxCa20,1989,8,200,TAM,Carl Bax,No,G,G,5,23,1990,0,0,0,5,5,15,,,,,,,,,,,,,,Missouri,
+1989Paul Green,GreePa00,1989,8,208,DEN,Paul Green,No,TE,TE,2,22,1996,0,0,1,5,0,49,,,,,,,,,69,544,3,,,USC,
+1989Kurt Larson,LarsKu20,1989,8,212,IND,Kurt Larson,No,LB,LB,4,23,1991,0,0,0,4,3,42,,,,,,,,,,,,,1,Michigan St.,
+1989Chris Dyko,DykoCh20,1989,8,221,CHI,Chris Dyko,No,T,T,1,23,1989,0,0,0,1,1,8,,,,,,,,,,,,,,Washington St.,
+1989Chris Chenault,,1989,8,222,CIN,Chris Chenault,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Kentucky,
+1989Tim Jackson,JackTi20,1989,9,224,DAL,Tim Jackson,No,DB,DB,0,23,1989,0,0,0,0,0,1,,,,,,,,,,,,,,Nebraska,
+1989Chris Dunn,,1989,9,229,ATL,Chris Dunn,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Cal Poly-San Luis Obispo,
+1989Dana Batisite,,1989,9,232,MIA,Dana Batisite,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M,
+1989William Mackall,,1989,9,239,IND,William Mackall,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Tenn-Martin,
+1989Wayne Williams,,1989,9,241,DEN,Wayne Williams,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Florida,
+1989Curtis Wilson,,1989,9,247,NWE,Curtis Wilson,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,Missouri,
+1989Jim Thompson,,1989,10,266,IND,Jim Thompson,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Auburn,
+1989John Buddenberg,,1989,10,274,CLE,John Buddenberg,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Akron,
+1989Greg Ross,,1989,10,275,MIA,Greg Ross,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Memphis,
+1989Randy Shannon,ShanRa20,1989,11,280,DAL,Randy Shannon,No,LB,LB,2,23,1990,0,0,0,2,2,17,,,,,,,,,,,,,,Miami (FL),
+1989Rod Mounts,,1989,11,284,TAM,Rod Mounts,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M-Kingsville,
+1989Greg Paterra,PateGr20,1989,11,286,ATL,Greg Paterra,No,RB,RB,1,22,1989,0,0,0,1,1,10,,,,,,9,32,0,5,42,0,,,Slippery Rock,
+1989Richard Shelton,ShelRi20,1989,11,292,DEN,Richard Shelton,No,DB,DB,6,23,1993,0,0,0,6,0,44,,,,,,,,,,,,3,,Liberty,
+1989Mike Baum,,1989,11,295,SEA,Mike Baum,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Northwestern,
+1989Norm McGee,,1989,11,307,SFO,Norm McGee,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,North Dakota,
+1989Scott Ankrom,AnkrSc20,1989,12,308,DAL,Scott Ankrom,No,WR,WR,0,23,1989,0,0,0,0,0,10,,,,,,,,,,,,,,TCU,
+1989James Cribbs,CribJa20,1989,12,309,DET,James Cribbs,No,DE,DE,0,23,1989,0,0,0,0,0,7,,,,,,,,,,,,,,Memphis,
+1989Stan Shiver,,1989,12,310,GNB,Stan Shiver,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Florida St.,
+1989William DuBose,,1989,12,314,IND,William DuBose,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,South Carolina St.,
+1989Eric Smith,,1989,12,326,NYG,Eric Smith,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,UCLA,
+1989Marlon Brown,,1989,12,328,CLE,Marlon Brown,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Memphis,
+1989Everett Ross,,1989,12,335,MIN,Everett Ross,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Ohio St.,
+1988Neil Smith,SmitNe00,1988,1,2,KAN,Neil Smith,No,DE,DE,44,22,2000,1,6,11,95,78,191,,,,,,,,,,,,4,104.5,Nebraska,
+1988Dave Cadigan,CadiDa20,1988,1,8,NYJ,Dave Cadigan,No,G,G,18,23,1994,0,0,5,28,23,82,,,,,,,,,,,,,,USC,
+1988Eric Kumerow,KumeEr20,1988,1,16,MIA,Eric Kumerow,No,DE,DE,4,23,1990,0,0,0,4,4,42,,,,,,,,,,,,1,5,Ohio St.,
+1988Clifford Charlton,CharCl20,1988,1,21,CLE,Clifford Charlton,No,LB,LB,3,23,1989,0,0,0,3,3,31,,,,,,,,,,,,,1,Florida,
+1988Craig Heyward,HeywCr00,1988,1,24,NOR,Craig Heyward,No,RB,RB,17,22,1998,0,1,6,38,13,149,1,2,44,0,1,1031,4301,30,177,1559,4,,,Pittsburgh,
+1988Scott Davis,DaviSc20,1988,1,25,RAI,Scott Davis,No,DT,DT,24,23,1994,0,0,3,23,23,75,,,,,,,,,,,,,27.5,Illinois,
+1988Wendell Davis,DaviWe00,1988,1,27,CHI,Wendell Davis,No,WR,WR,28,22,1993,0,0,3,27,27,81,,,,,,5,45,0,207,3000,14,,,LSU,
+1988Terry Williams,WillTe21,1988,2,37,NYJ,Terry Williams,No,DB,DB,0,22,1989,0,0,0,0,0,11,,,,,,,,,,,,,,Bethune-Cookman,
+1988Jarvis Williams,WillJa25,1988,2,42,MIA,Jarvis Williams,No,DB,DB,29,23,1994,0,0,7,36,30,104,,,,,,,,,,,,16,3,Florida,
+1988Flipper Anderson,AndeFl00,1988,2,46,RAM,Flipper Anderson,No,WR,WR,35,23,1997,0,0,6,43,43,114,,,,,,3,23,0,267,5357,28,,,UCLA,
+1988Dante Jones,JoneDa22,1988,2,51,CHI,Dante Jones,No,LB,LB,5,23,1995,0,0,2,21,20,92,,,,,,,,,,,,4,3,Oklahoma,
+1988Brad Edwards,EdwaBr20,1988,2,54,MIN,Brad Edwards,No,DB,DB,23,22,1996,0,0,3,30,4,122,,,,,,,,,,,,18,,South Carolina,
+1988Chip Lohmiller,lohmichi01,1988,2,55,WAS,Chip Lohmiller,No,K,K,17,22,1996,0,1,8,19,17,135,,,,,,,,,,,,,,Minnesota,
+1988Alex Higdon,HigdAl20,1988,3,56,ATL,Alex Higdon,No,TE,TE,0,22,1988,0,0,0,0,0,3,,,,,,,,,3,60,2,,,Ohio St.,
+1988Matt Patchan,,1988,3,64,PHI,Matt Patchan,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Miami (FL),
+1988Chuck Lanza,LanzCh20,1988,3,70,PIT,Chuck Lanza,No,C,C,2,24,1989,0,0,0,2,2,27,,,,,,,,,,,,,,Notre Dame,
+1988Van Waiters,WaitVa20,1988,3,77,CLE,Van Waiters,No,LB,LB,14,23,1992,0,0,1,13,11,80,,,,,,,,,1,14,1,1,2,Indiana,
+1988Ralph Jarvis,JarvRa20,1988,3,78,CHI,Ralph Jarvis,No,DE,DE,1,23,1990,0,0,0,1,,8,,,,,,,,,,,,,,Temple,
+1988Bill Romanowski,RomaBi00,1988,3,80,SFO,Bill Romanowski,No,LB,LB,34,22,2003,0,2,12,84,26,243,,,,,,,,,,,,18,39.5,Boston Col.,
+1988Tony Stephens,,1988,3,81,NOR,Tony Stephens,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Clemson,
+1988James Thornton,ThorJa00,1988,4,105,CHI,James Thornton,No,TE,TE,11,23,1995,0,0,4,12,10,96,,,,,,1,4,0,107,1338,7,,,Cal State-Fullerton,
+1988Lydell Carr,CarrLy20,1988,4,106,NOR,Lydell Carr,No,RB,RB,0,23,1989,0,0,0,0,,5,,,,,,,,,,,,,,Oklahoma,
+1988William Howard,HowaWi00,1988,5,113,TAM,William Howard,No,RB,RB,7,24,1989,0,0,2,7,7,31,,,,,,223,809,2,41,285,1,,,Tennessee,
+1988Jon Carter,CartJo21,1988,5,118,NYG,Jon Carter,No,DT,DT,1,23,1989,0,0,0,1,,13,,,,,,,,,,,,,,Pittsburgh,
+1988Chris Gaines,GainCh20,1988,5,120,PHO,Chris Gaines,No,LB,LB,0,23,1988,0,0,0,0,,4,,,,,,,,,,,,,,Vanderbilt,
+1988Rodney Thomas,ThomRo22,1988,5,126,MIA,Rodney Thomas,No,DB,DB,4,22,1991,0,0,0,4,4,46,,,,,,,,,,,,3,1,BYU,
+1988Carl Mims,,1988,5,127,WAS,Carl Mims,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Sam Houston St.,
+1988John Baylor,BaylJo21,1988,5,129,IND,John Baylor,No,DB,DB,18,23,1993,0,0,2,17,17,74,,,,,,,,,,,,8,4,Southern Miss,
+1988Dennis Price,PricDe20,1988,5,131,RAI,Dennis Price,No,DB,DB,3,23,1992,0,0,0,3,2,31,,,,,,,,,,,,3,,UCLA,
+1988Warren Williams,WillWa00,1988,6,155,PIT,Warren Williams,No,RB,RB,10,23,1993,0,0,1,9,9,71,,,,,,251,1191,8,38,339,2,,,Miami (FL),
+1988Derrick Crudup,CrudDe20,1988,7,171,RAI,Derrick Crudup,No,DB,DB,1,23,1991,0,0,0,1,1,20,,,,,,,,,,,,,,Oklahoma,
+1988Gary Richard,RichGa20,1988,7,173,GNB,Gary Richard,No,DB,DB,1,22,1988,0,0,0,1,1,10,,,,,,,,,,,,,,Pittsburgh,
+1988Pat Kelly,KellPa21,1988,7,174,DEN,Pat Kelly,No,TE,TE,0,22,1991,0,0,0,0,0,41,,,,,,,,,4,17,0,,,Syracuse,
+1988Mike Perez,,1988,7,175,NYG,Mike Perez,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,San Jose St.,
+1988Harold Hicks,,1988,7,193,WAS,Harold Hicks,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,San Diego St.,
+1988Gary Hadd,HaddGa20,1988,8,196,DET,Gary Hadd,No,DT,DT,2,22,1989,0,0,0,2,0,15,,,,,,,,,,,,,,Minnesota,
+1988Darryl Franklin,,1988,8,201,RAM,Darryl Franklin,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1988Keith Neubert,NeubKe00,1988,8,203,NYJ,Keith Neubert,No,TE,TE,2,24,1989,0,0,0,2,2,17,,,,,,,,,28,302,1,,,Nebraska,
+1988Joe Cain,CainJo20,1988,8,210,MIN,Joe Cain,No,LB,LB,19,23,1997,0,0,4,37,,131,,,,,,,,,,,,3,1,Oregon Tech,
+1988Harry Galbreath,GalbHa20,1988,8,212,MIA,Harry Galbreath,No,G,G,41,23,1996,0,0,9,60,31,141,,,,,,,,,,,,,,Tennessee,
+1988Glenn Derby,DerbGl20,1988,8,218,NOR,Glenn Derby,No,T,T,0,24,1990,0,0,0,0,0,7,,,,,,,,,,,,,,Wisconsin,
+1988Larry Clarkson,,1988,8,219,SFO,Larry Clarkson,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Montana,
+1988Louis Cheek,CheeLo20,1988,8,220,MIA,Louis Cheek,No,T,T,8,23,1991,0,0,1,8,3,45,,,,,,,,,,,,,,Texas A&M,
+1988Kip Corrington,CorrKi20,1988,9,223,DET,Kip Corrington,No,DB,DB,3,23,1990,0,0,0,3,,32,,,,,,,,,,,,1,,Texas A&M,
+1988Reuben Davis,DaviRe21,1988,9,225,TAM,Reuben Davis,No,DE,DE,26,23,1996,0,0,8,47,19,139,,,,,,,,,,,,1,20.5,North Carolina,
+1988Neal Wilkinson,,1988,9,228,GNB,Neal Wilkinson,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,James Madison,
+1988Ralph Tamm,TammRa20,1988,9,230,NYJ,Ralph Tamm,No,G,G,17,22,1999,0,0,2,20,,121,,,,,,,,,,,,,,West Chester,
+1988Gordie Lockbaum,,1988,9,236,PIT,Gordie Lockbaum,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Holy Cross,
+1988Paul McGowan,,1988,9,237,MIN,Paul McGowan,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Florida St.,
+1988Joey Howard,HowaJo20,1988,9,238,SDG,Joey Howard,No,T,T,1,23,1989,0,0,0,1,1,9,,,,,,,,,,,,,,Tennessee,
+1988Neil Galbraith,,1988,9,240,NWE,Neil Galbraith,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Central Oklahoma,
+1988Danny Copeland,CopeDa20,1988,9,244,CLE,Danny Copeland,No,DB,DB,20,22,1993,0,0,3,19,,73,,,,,,,,,,,,2,1,East. Kentucky,
+1988Steve Wilkes,,1988,10,265,NYG,Steve Wilkes,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Appalachian St.,
+1988Derwin Jones,,1988,10,269,SEA,Derwin Jones,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Miami (FL),
+1988Tim Foley,,1988,10,275,SFO,Tim Foley,No,K,K,0,,,0,0,0,,,,,,,,,,,,,,,,,Georgia Southern,
+1988David Weber,,1988,11,283,RAI,David Weber,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,,
+1988Rick McLeod,,1988,11,284,SEA,Rick McLeod,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington,
+1988Chad Hennings,HennCh20,1988,11,290,DAL,Chad Hennings,No,DT,DT,17,22,2000,0,0,4,40,40,119,,,,,,,,,,,,,27.5,Air Force,
+1988Keith McCoy,,1988,11,291,PHO,Keith McCoy,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Fresno St.,
+1988George Hinkle,HinkGe20,1988,11,293,SDG,George Hinkle,No,DE,DE,10,23,1993,0,0,2,13,8,68,,,,,,,,,,,,,7.5,Arizona,
+1988Marvin Allen,AlleMa01,1988,11,294,NWE,Marvin Allen,No,RB,RB,1,22,1991,0,0,0,1,1,37,,,,,,94,378,2,7,57,0,,,Tulane,
+1988Gary Couch,,1988,11,302,NOR,Gary Couch,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Minnesota,
+1988Carter Wiley,,1988,12,306,ATL,Carter Wiley,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Virginia Tech,
+1988Carl Parker,ParkCa20,1988,12,307,CIN,Carl Parker,No,WR,WR,0,23,1989,0,0,0,0,0,6,,,,,,,,,1,45,0,,,Vanderbilt,
+1988Tom Erlandson,ErlaTo20,1988,12,316,BUF,Tom Erlandson,No,LB,LB,0,22,1988,0,0,0,0,0,4,,,,,,,,,,,,,,Washington,
+1988Chris Carrier,,1988,12,318,PHO,Chris Carrier,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,LSU,
+1988Brian Kinchen,KincBr00,1988,12,320,MIA,Brian Kinchen,No,TE,TE,0,23,2003,0,0,4,15,0,193,,,,,,,,,160,1648,7,,,LSU,
+1988James Earle,,1988,12,322,PIT,James Earle,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Clemson,
+1988Steve Slayden,,1988,12,328,CLE,Steve Slayden,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,Duke,
+1987Cornelius Bennett,BennCo00,1987,1,2,IND,Cornelius Bennett,No,LB,LB,48,22,2000,1,5,14,90,9,206,,,,,,,,,,,,7,71.5,Alabama,
+1987Alonzo Highsmith,HighAl00,1987,1,3,HOU,Alonzo Highsmith,No,RB,RB,12,22,1992,0,0,2,12,12,65,,,,,,283,1195,7,42,428,3,,,Miami (FL),
+1987Shane Conlan,ConlSh00,1987,1,8,BUF,Shane Conlan,No,LB,LB,47,23,1995,0,3,8,59,47,120,,,,,,,,,,,,5,7,Penn St.,
+1987Jerome Brown,BrowJe00,1987,1,9,PHI,Jerome Brown,No,DT,DT,52,22,1991,2,2,5,48,48,76,,,,,,,,,,,,3,29.5,Miami (FL),
+1987Rod Woodson,WoodRo01,1987,1,10,PIT,Rod Woodson,No,DB,DB,52,22,2003,6,11,15,141,95,238,,,,,,1,0,0,,,,71,13.5,Purdue,
+1987Danny Noonan,NoonDa20,1987,1,12,DAL,Danny Noonan,No,DT,DT,20,22,1992,0,0,2,20,20,73,,,,,,,,,,,,1,15,Nebraska,
+1987Chris Miller,MillCh00,1987,1,13,ATL,Chris Miller,No,QB,QB,37,22,1999,0,1,7,52,41,98,1580,2892,19320,123,102,178,814,2,,,,,,Oregon,
+1987John Bosa,BosaJo20,1987,1,16,MIA,John Bosa,No,DE,DE,10,23,1989,0,0,1,10,10,31,,,,,,,,,,,,,7,Boston Col.,
+1987Jason Buck,BuckJa20,1987,1,17,CIN,Jason Buck,No,DE,DE,14,24,1993,0,0,1,18,12,97,,,,,,,,,,,,,19,BYU,
+1987Ricky Nattiel,NattRi00,1987,1,27,DEN,Ricky Nattiel,No,WR,WR,20,21,1992,0,0,1,19,19,70,0,1,0,0,0,7,64,0,121,1972,8,,,Florida,
+1987Roland Mitchell,MitcRo20,1987,2,33,BUF,Roland Mitchell,No,DB,DB,5,23,1994,0,0,1,15,1,89,,,,,,,,,,,,6,1,Texas Tech,
+1987Tim McDonald,McDoTi00,1987,2,34,STL,Tim McDonald,No,DB,DB,30,22,1999,0,6,12,71,31,191,,,,,,,,,,,,40,9.5,USC,
+1987Lonzell Hill,HillLo00,1987,2,40,NOR,Lonzell Hill,No,WR,WR,18,22,1990,0,0,2,17,17,55,0,1,0,0,0,4,-9,0,136,1696,13,,,Washington,
+1987Bruce Wilkerson,WilkBr20,1987,2,52,RAI,Bruce Wilkerson,No,T,T,26,23,1997,0,0,5,41,36,147,,,,,,,,,,,,,,Tennessee,
+1987Scott Schwedes,SchwSc00,1987,2,56,MIA,Scott Schwedes,No,WR,WR,5,22,1990,0,0,0,5,5,46,,,,,,,,,19,370,2,,,Syracuse,
+1987Mark Carrier,CarrMa00,1987,3,57,TAM,Mark Carrier,No,WR,WR,34,21,1998,0,1,10,60,31,177,,,,,,8,36,2,569,8763,48,,,Nicholls St.,
+1987Robert Awalt,AwalRo00,1987,3,62,STL,Robert Awalt,No,TE,TE,14,23,1993,0,0,3,13,12,95,0,1,0,0,1,2,-9,0,138,1583,10,,,San Diego St.,
+1987Cody Carlson,CarlCo00,1987,3,64,HOU,Cody Carlson,No,QB,QB,12,23,1994,0,0,0,15,15,45,370,659,4469,21,28,81,217,4,,,,,,Baylor,
+1987Henry Thomas,ThomHe00,1987,3,72,MIN,Henry Thomas,No,DT,DT,40,22,2000,0,2,13,83,53,213,,,,,,,,,,,,4,93.5,LSU,
+1987Todd Howard,HowaTo20,1987,3,73,KAN,Todd Howard,No,LB,LB,1,22,1988,0,0,0,1,1,19,,,,,,,,,,,,,,Texas A&M,
+1987Bob Perryman,PerrBo00,1987,3,79,NWE,Bob Perryman,No,RB,RB,13,22,1992,0,0,3,12,10,68,,,,,,393,1338,9,83,616,0,,,Michigan,
+1987Randy Dixon,DixoRa20,1987,4,85,IND,Randy Dixon,No,G,G,25,22,1995,0,0,8,40,40,118,,,,,,,,,,,,,,Pittsburgh,
+1987Lorenzo Freeman,FreeLo20,1987,4,89,GNB,Lorenzo Freeman,No,NT,DT,8,23,1991,0,0,0,7,,62,,,,,,,,,,,,,2.5,Pittsburgh,
+1987Byron Evans,EvanBy20,1987,4,93,PHI,Byron Evans,No,LB,LB,31,23,1994,0,0,6,43,43,113,,,,,,,,,,,,13,3.5,Arizona,
+1987Kelvin Martin,MartKe00,1987,4,95,DAL,Kelvin Martin,No,WR,WR,20,22,1996,0,0,4,39,24,139,,,,,,11,7,0,367,4768,15,,,Boston Col.,
+1987Steve Trapilo,TrapSt20,1987,4,96,NOR,Steve Trapilo,No,G,G,29,23,1992,0,0,3,27,27,57,,,,,,,,,,,,,,Boston Col.,
+1987Rich Gannon,GannRi00,1987,4,98,NWE,Rich Gannon,No,QB,QB,18,21,2004,2,4,8,99,,157,2533,4206,28743,180,104,521,2449,21,2,-3,0,,,Delaware,
+1987Tim Jordan,JordTi20,1987,4,107,NWE,Tim Jordan,No,LB,LB,8,23,1989,0,0,0,8,8,30,,,,,,,,,,,,1,3,Wisconsin,
+1987Steve Beuerlein,BeueSt00,1987,4,110,RAI,Steve Beuerlein,No,QB,QB,16,22,2003,0,1,4,69,9,147,1894,3328,24046,147,112,225,496,5,1,21,0,,,Notre Dame,
+1987Roy Banks,BankRo21,1987,5,114,IND,Roy Banks,No,WR,WR,0,21,1988,0,0,0,0,0,15,,,,,,,,,,,,,,East. Illinois,
+1987Steve Bryan,BryaSt20,1987,5,120,CHI,Steve Bryan,No,DE,DE,3,23,1988,0,0,0,3,,12,,,,,,,,,,,,,,Oklahoma,
+1987Hardy Nickerson,NickHa00,1987,5,122,PIT,Hardy Nickerson,No,LB,LB,23,22,2002,2,5,14,99,20,225,,,,,,,,,,,,12,21,California,
+1987Milton Mack,MackMi20,1987,5,123,NOR,Milton Mack,No,DB,DB,11,24,1994,0,0,1,17,9,111,,,,,,,,,,,,12,2,Alcorn St.,
+1987Everett Gay,GayxEv00,1987,5,124,DAL,Everett Gay,No,WR,WR,2,22,1988,0,0,0,2,2,16,,,,,,,,,15,205,1,,,Texas,
+1987Kitrick Taylor,TaylKi00,1987,5,128,KAN,Kitrick Taylor,No,WR,WR,5,23,1993,0,0,0,5,1,47,,,,,,1,2,0,36,414,1,,,Washington St.,
+1987Chris Conlin,ConlCh20,1987,5,132,MIA,Chris Conlin,No,G,G,2,22,1991,0,0,0,2,0,27,,,,,,,,,,,,,,Penn St.,
+1987Will Johnson,JohnWi20,1987,5,138,CHI,Will Johnson,No,LB,LB,1,22,1987,0,0,0,1,1,11,,,,,,,,,,,,,,La-Monroe,
+1987Steve Gage,GageSt20,1987,6,144,WAS,Steve Gage,No,DB,DB,2,23,1988,0,0,0,2,2,20,,,,,,,,,,,,1,,Tulsa,
+1987Willie Marshall,,1987,6,145,GNB,Willie Marshall,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Temple,
+1987Al Smith,SmitAl01,1987,6,147,HOU,Al Smith,No,LB,LB,34,22,1996,1,2,8,55,55,125,,,,,,,,,,,,2,5.5,Utah St.,
+1987Paul Kiser,KisePa20,1987,6,153,ATL,Paul Kiser,No,G,G,0,23,1987,0,0,0,0,,1,,,,,,,,,,,,,,Wake Forest,
+1987Greg Richardson,RichGr21,1987,6,156,MIN,Greg Richardson,No,WR,WR,0,22,1988,0,0,0,0,0,4,,,,,,,,,,,,,,Alabama,
+1987Sonny Gordon,GordSo20,1987,6,157,CIN,Sonny Gordon,No,DB,DB,0,22,1987,0,0,0,0,,7,,,,,,,,,,,,,,Ohio St.,
+1987Tim Richardson,,1987,6,160,NYG,Tim Richardson,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Pacific,
+1987Tony Leiker,LeikTo20,1987,7,172,GNB,Tony Leiker,No,DE,DE,1,23,1987,0,0,0,1,1,1,,,,,,,,,,,,,,Stanford,
+1987Bo Jackson,JackBo00,1987,7,183,RAI,Bo Jackson,No,RB,RB,24,24,1990,0,1,3,22,22,38,,,,,,515,2782,16,40,352,2,,,Auburn,
+1987Johnny Thomas,ThomJo24,1987,7,192,WAS,Johnny Thomas,No,DB,DB,2,23,1996,0,0,0,5,3,94,,,,,,,,,,,,,,Baylor,
+1987Joe MacEsker,,1987,8,199,SDG,Joe MacEsker,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas-El Paso,
+1987Sammy Garza,GarzSa20,1987,8,216,SEA,Sammy Garza,No,QB,QB,1,22,1987,0,0,0,1,,2,11,20,183,1,2,8,31,1,,,,,,Texas-El Paso,
+1987Steve Bullitt,,1987,8,220,CLE,Steve Bullitt,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M,
+1987Dan Morgan,MorgDa20,1987,8,222,DEN,Dan Morgan,No,G,G,1,23,1987,0,0,0,1,,2,,,,,,,,,,,,,,Penn St.,
+1987Stan Parker,,1987,9,225,NYG,Stan Parker,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,
+1987Ken Lambiotte,,1987,9,232,PHI,Ken Lambiotte,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,William & Mary,
+1987Tracy Ham,,1987,9,240,RAM,Tracy Ham,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Georgia Southern,
+1987Alfred Jenkins,,1987,9,248,WAS,Alfred Jenkins,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Arizona,
+1987Ray Brown,BrowRa23,1987,10,259,DET,Ray Brown,No,WR,WR,0,22,1987,0,0,0,0,,1,,,,,,,,,,,,,,South Carolina,
+1987Sid Lewis,LewiSi20,1987,10,268,NYJ,Sid Lewis,No,DB,DB,0,23,1987,0,0,0,0,0,2,,,,,,,,,,,,,,Penn St.,
+1987David McCluskey,McClDa22,1987,10,269,CIN,David McCluskey,No,RB,RB,1,23,1987,0,0,0,1,1,3,,,,,,29,94,1,1,8,0,,,Georgia,
+1987Louis Clark,ClarLo00,1987,10,270,SEA,Louis Clark,No,WR,WR,4,23,1992,0,0,1,6,6,55,,,,,,,,,67,798,5,,,Mississippi St.,
+1987Frank Winters,WintFr00,1987,10,276,CLE,Frank Winters,No,C,C,9,23,2002,0,1,9,72,1,231,,,,,,,,,,,,,,West. Illinois,
+1987Brent Pease,PeasBr00,1987,11,295,MIN,Brent Pease,No,QB,QB,3,22,1988,0,0,0,3,,20,62,135,792,3,9,23,31,2,,,,,,Montana,
+1987Darryl Oliver,OlivDa20,1987,11,297,SEA,Darryl Oliver,No,RB,RB,0,23,1987,0,0,0,0,,2,,,,,,1,0,0,1,2,0,,,Miami (FL),
+1987Craig Richardson,,1987,11,298,KAN,Craig Richardson,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,East. Washington,
+1987Joe McGrail,McGrJo20,1987,12,311,BUF,Joe McGrail,No,NT,DT,0,23,1987,0,0,0,0,0,2,,,,,,,,,,,,,,Delaware,
+1987Chad Stark,StarCh20,1987,12,329,NYG,Chad Stark,No,RB,RB,0,22,1987,0,0,0,0,,2,,,,,,,,,,,,,,North Dakota St.,
+1987Elgin Davis,DaviEl20,1987,12,330,NWE,Elgin Davis,No,RB,RB,0,21,1988,0,0,0,0,0,9,,,,,,9,43,0,,,,,,Central Florida,
+1987Fred Stokes,StokFr20,1987,12,332,RAM,Fred Stokes,No,DE,DE,18,23,1996,0,0,4,33,14,131,,,,,,,,,,,,1,38,Georgia Southern,
+1987Tyrone Braxton,BraxTy00,1987,12,334,DEN,Tyrone Braxton,No,DB,DB,21,22,1999,0,1,8,58,58,181,,,,,,,,,,,,36,3.5,North Dakota St.,
+1986Bo Jackson,JackBo00,1986,1,1,TAM,Bo Jackson,No,RB,RB,24,23,1990,0,1,3,22,,38,,,,,,515,2782,16,40,352,2,,,Auburn,
+1986Bob Buczkowski,BuczBo20,1986,1,24,RAI,Bob Buczkowski,No,DE,DE,3,22,1990,0,0,0,3,0,21,,,,,,,,,,,,,1.5,Pittsburgh,
+1986Markus Koch,KochMa20,1986,2,30,WAS,Markus Koch,No,DE,DE,17,23,1991,0,0,1,19,19,68,,,,,,,,,,,,,10.5,Boise St.,
+1986John Lee,leexxjoh02,1986,2,32,STL,John Lee,No,K,K,0,22,1986,0,0,1,0,0,11,,,,,,,,,,,,,,UCLA,
+1986Darryl Clack,ClacDa00,1986,2,33,DAL,Darryl Clack,No,RB,RB,2,22,1989,0,0,0,2,2,51,,,,,,29,113,2,22,213,1,,,Arizona St.,
+1986Walter Murray,MurrWa00,1986,2,45,WAS,Walter Murray,No,WR,WR,3,23,1987,0,0,0,3,,19,,,,,,,,,22,373,3,,,Hawaii,
+1986Tom Newberry,NewbTo20,1986,2,50,RAM,Tom Newberry,No,G,G,53,23,1995,2,2,10,72,66,147,,,,,,,,,,,,,,Wisc-LaCrosse,
+1986Pepper Johnson,JohnPe01,1986,2,51,NYG,Pepper Johnson,No,LB,LB,40,22,1998,1,2,10,76,44,193,,,,,,,,,,,,14,25.5,Ohio St.,
+1986Rueben Mayes,MayeRu00,1986,3,57,NOR,Rueben Mayes,No,RB,RB,30,23,1993,0,2,3,28,28,76,,,,,,866,3484,23,57,401,0,,,Washington St.,
+1986Mike Hammerstein,HammMi20,1986,3,65,CIN,Mike Hammerstein,No,DE,DE,6,23,1990,0,0,0,6,6,56,,,,,,,,,,,,,5.5,Michigan,
+1986Hugh Millen,MillHu00,1986,3,71,RAM,Hugh Millen,No,QB,QB,11,22,1995,0,0,2,16,0,40,560,928,6440,22,35,65,260,1,,,,,,Washington,
+1986Robbie Bosco,,1986,3,72,GNB,Robbie Bosco,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,BYU,
+1986John Washington,WashJo20,1986,3,73,NYG,John Washington,No,DE,DE,20,23,1993,0,0,4,29,22,119,,,,,,,,,,,,,1,Oklahoma St.,
+1986Tim Harris,HarrTi00,1986,4,84,GNB,Tim Harris,No,LB,LB,50,22,1995,1,1,6,58,46,122,,,,,,,,,,,,,81,Memphis,
+1986Bill Brooks,BrooBi00,1986,4,86,IND,Bill Brooks,No,WR,WR,41,22,1996,0,0,10,57,41,169,,,,,,21,113,0,583,8001,46,,,Boston Univ.,
+1986Kelvin Edwards,EdwaKe00,1986,4,88,NOR,Kelvin Edwards,No,WR,WR,7,22,1988,0,0,1,7,1,35,,,,,,3,67,1,49,746,3,,,Liberty,
+1986Joe Phillips,PhilJo20,1986,4,93,MIN,Joe Phillips,No,NT,DT,20,23,1999,0,0,10,56,1,200,,,,,,,,,,,,1,24.5,SMU,
+1986Ty Allert,AlleTy20,1986,4,95,SDG,Ty Allert,No,LB,LB,4,23,1990,0,0,0,4,2,51,,,,,,,,,,,,,,Texas,
+1986Doug Gaynor,GaynDo20,1986,4,99,CIN,Doug Gaynor,No,QB,QB,0,23,1986,0,0,0,0,0,1,3,3,30,0,0,1,4,0,,,,,,Long Beach St.,
+1986Napoleon McCallum,McCaNa00,1986,4,108,RAI,Napoleon McCallum,No,RB,RB,4,22,1994,0,0,0,6,6,74,,,,,,223,790,6,17,121,0,,,Navy,
+1986Scott Gieselman,,1986,4,109,NWE,Scott Gieselman,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Boston Col.,
+1986Ravin Caldwell,CaldRa20,1986,5,113,WAS,Ravin Caldwell,No,LB,LB,14,23,1993,0,0,1,13,13,79,,,,,,,,,,,,,8.5,Arkansas,
+1986Doug Landry,,1986,5,118,SDG,Doug Landry,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,Louisiana Tech,
+1986Matt Koart,KoarMa20,1986,5,125,GNB,Matt Koart,No,DE,DE,1,23,1986,0,0,0,1,1,6,,,,,,,,,,,,,,USC,
+1986Ron Hadley,HadlRo20,1986,5,132,NYJ,Ron Hadley,No,LB,LB,2,22,1988,0,0,0,2,,6,,,,,,,,,,,,,,Washington,
+1986Tony Colorito,ColoTo20,1986,5,134,DEN,Tony Colorito,No,NT,DT,1,22,1986,0,0,0,1,1,15,,,,,,,,,,,,,,USC,
+1986Mark Rypien,RypiMa00,1986,6,146,WAS,Mark Rypien,No,QB,QB,55,23,2001,0,2,5,56,51,104,1466,2613,18473,115,88,127,166,8,,,,,,Washington St.,
+1986Bob Landsee,LandBo20,1986,6,149,PHI,Bob Landsee,No,C,C,2,22,1987,0,0,0,2,2,9,,,,,,,,,,,,,,Wisconsin,
+1986Lloyd Yancey,,1986,6,158,DAL,Lloyd Yancey,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Temple,
+1986Mark Jackson,JackMa00,1986,6,161,DEN,Mark Jackson,No,WR,WR,32,23,1994,0,0,6,44,38,130,,,,,,21,94,1,342,5551,29,,,Purdue,
+1986Doug Marrone,MarrDo20,1986,6,164,RAI,Doug Marrone,No,G,G,0,22,1989,0,0,0,0,,5,,,,,,,,,,,,,,Syracuse,
+1986Steve O'Malley,,1986,7,171,IND,Steve O'Malley,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Northern Illinois,
+1986Pat Franklin,FranPa21,1986,7,177,CIN,Pat Franklin,No,RB,RB,0,23,1987,0,0,0,0,0,10,,,,,,7,7,0,7,29,1,,,Houston,
+1986Mark Pike,PikeMa20,1986,7,178,BUF,Mark Pike,No,DE,DE,6,22,1998,0,0,0,10,10,173,,,,,,,,,,,,,1,Georgia Tech,
+1986Carl Hilton,HiltCa00,1986,7,179,MIN,Carl Hilton,No,TE,TE,0,22,1989,0,0,0,0,0,36,,,,,,,,,3,17,3,,,Houston,
+1986Johnny Holloway,HollJo23,1986,7,185,DAL,Johnny Holloway,No,DB,DB,2,22,1987,0,0,0,2,1,19,,,,,,,,,,,,1,,Kansas,
+1986Tommy Sims,SimsTo21,1986,7,190,IND,Tommy Sims,No,DB,DB,0,22,1986,0,0,0,0,0,1,,,,,,,,,,,,,,Tennessee,
+1986Kevin Hudgens,,1986,8,197,ATL,Kevin Hudgens,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Idaho St.,
+1986Ray Brown,BrowRa00,1986,8,201,STL,Ray Brown,No,G,G,7,23,2005,0,1,12,82,2,262,,,,,,,,,,,,,,Arkansas St.,
+1986Tony Furjanic,FurjTo20,1986,8,202,BUF,Tony Furjanic,No,LB,LB,2,22,1988,0,0,0,2,2,28,,,,,,,,,,,,,,Notre Dame,
+1986Jim Popp,,1986,8,203,SFO,Jim Popp,No,TE,TE,0,,,0,0,0,,,,,,,,,,,,,,,,,Vanderbilt,
+1986Michael Cline,,1986,8,210,GNB,Michael Cline,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Arkansas St.,
+1986Joe Mauntel,,1986,8,219,RAI,Joe Mauntel,No,LB,LB,0,,,0,0,0,,,,,,,,,,,,,,,,,East. Kentucky,
+1986Tommy Barnhardt,BarnTo22,1986,9,223,TAM,Tommy Barnhardt,No,P,P,10,23,2000,0,0,9,21,2,186,2,3,32,0,0,12,66,0,,,,,,North Carolina,
+1986Cary Whittingham,WhitCa20,1986,9,230,CIN,Cary Whittingham,No,LB,LB,0,23,1987,0,0,0,0,,3,,,,,,,,,,,,,,BYU,
+1986Clyde Simmons,SimmCl00,1986,9,233,PHI,Clyde Simmons,No,DE,DE,33,22,2000,2,2,12,87,63,236,,,,,,,,,,,,3,121.5,West. Carolina,
+1986Tony Baker,BakeTo20,1986,10,252,ATL,Tony Baker,No,RB,RB,0,22,1989,0,0,0,0,0,18,,,,,,24,53,0,2,18,0,,,East Carolina,
+1986Jon Dumbauld,DumbJo20,1986,10,253,NOR,Jon Dumbauld,No,DE,DE,1,23,1988,0,0,0,1,1,17,,,,,,,,,,,,,,Kentucky,
+1986Ike Readon,ReadIk20,1986,10,257,KAN,Ike Readon,No,NT,DT,0,23,1987,0,0,0,0,,3,,,,,,,,,,,,,2,Hampton,
+1986Gary Spann,SpanGa21,1986,10,263,GNB,Gary Spann,No,LB,LB,0,23,1987,0,0,0,0,,2,,,,,,,,,,,,,,TCU,
+1986Barton Hundley,,1986,10,277,CHI,Barton Hundley,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Kansas St.,
+1986Chris Hegg,,1986,11,280,ATL,Chris Hegg,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,NE Missouri St.,
+1986Aaron Pearson,PearAa20,1986,11,285,KAN,Aaron Pearson,No,LB,LB,8,22,1988,0,0,2,8,8,43,,,,,,,,,,,,,,Mississippi St.,
+1986Steve Bogdalek,,1986,11,288,PHI,Steve Bogdalek,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Michigan St.,
+1986Chuck Sanders,SandCh21,1986,11,293,SDG,Chuck Sanders,No,RB,RB,0,22,1987,0,0,0,0,,19,,,,,,15,77,1,3,30,0,,,Slippery Rock,
+1986Kenny Fells,,1986,11,297,WAS,Kenny Fells,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Henderson St.,
+1986Drew Smetana,,1986,11,298,SDG,Drew Smetana,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,Oregon,
+1986Vince Amoia,,1986,11,299,NYJ,Vince Amoia,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Arizona St.,
+1986Arnold Franklin,FranAr20,1986,11,303,MIA,Arnold Franklin,No,TE,TE,0,22,1987,0,0,0,0,,3,,,,,,,,,,,,,,North Carolina,
+1986Steve Griffin,GrifSt22,1986,12,308,ATL,Steve Griffin,No,WR,WR,0,21,1987,0,0,0,0,0,2,,,,,,,,,,,,,,Purdue,
+1986Brian McClure,McClBr20,1986,12,313,BUF,Brian McClure,No,QB,QB,1,22,1987,0,0,0,1,1,1,20,38,181,0,3,2,4,0,,,,,,Bowling Green,
+1986Reggie Singletary,SingRe20,1986,12,315,PHI,Reggie Singletary,No,G,G,19,22,1990,0,0,2,18,18,61,,,,,,,,,1,-11,0,,1,North Carolina St.,
+1986Steve Bradley,BradSt20,1986,12,316,CIN,Steve Bradley,No,QB,QB,0,23,1987,0,0,0,0,,1,6,18,77,2,3,1,-3,0,,,,,,Indiana,
+1986Eric Yarber,YarbEr20,1986,12,323,WAS,Eric Yarber,No,WR,WR,0,23,1987,0,0,0,0,0,14,,,,,,,,,1,5,0,,,Idaho,
+1986Bobby Howard,HowaBo00,1986,12,325,PHI,Bobby Howard,No,RB,RB,3,22,1988,0,0,0,3,,20,,,,,,60,210,2,15,183,0,,,Indiana,
+1986Marcus Dupree,DuprMa00,1986,12,327,RAM,Marcus Dupree,No,RB,RB,1,22,1991,0,0,0,1,1,15,,,,,,68,251,1,6,46,0,,,Southern Miss,
+1985Duane Bickett,BickDu00,1985,1,5,IND,Duane Bickett,No,LB,LB,48,22,1996,0,1,9,63,62,175,,,,,,,,,,,,9,53,USC,
+1985Jim Lachey,LachJi00,1985,1,12,SDG,Jim Lachey,No,T,T,46,22,1995,3,3,9,77,18,131,,,,,,,,,,,,,,Ohio St.,
+1985Eddie Brown,BrowEd00,1985,1,13,CIN,Eddie Brown,No,WR,WR,51,22,1991,0,1,7,58,58,102,0,0,0,0,0,25,164,0,363,6134,41,,,Miami (FL),
+1985Emanuel King,KingEm20,1985,1,25,CIN,Emanuel King,No,LB,LB,16,22,1989,0,0,2,15,14,67,,,,,,,,,,,,,15,Alabama,
+1985Steve Sewell,SeweSt00,1985,1,26,DEN,Steve Sewell,No,RB,RB,21,22,1991,0,0,0,26,26,94,2,7,47,1,0,229,917,13,187,2354,13,,,Oklahoma,
+1985Lorenzo Hampton,HampLo00,1985,1,27,MIA,Lorenzo Hampton,No,RB,RB,27,23,1989,0,0,3,25,25,70,,,,,,500,1949,22,123,954,6,,,Florida,
+1985Mark Traynowicz,TrayMa20,1985,2,29,BUF,Mark Traynowicz,No,G,G,3,22,1989,0,0,0,3,3,52,,,,,,,,,,,,,,Nebraska,
+1985Issiac Holt,HoltIs20,1985,2,30,MIN,Issiac Holt,No,DB,DB,18,22,1992,0,0,5,34,15,113,,,,,,,,,,,,23,,Alcorn St.,
+1985Don Anderson,AndeDo20,1985,2,32,IND,Don Anderson,No,DB,DB,1,22,1987,0,0,0,1,0,16,,,,,,,,,,,,1,,Purdue,
+1985Jonathan Hayes,HayeJo00,1985,2,41,KAN,Jonathan Hayes,No,TE,TE,7,23,1996,0,0,6,14,13,184,,,,,,,,,153,1718,13,,,Iowa,
+1985Jesse Penn,PennJe20,1985,2,44,DAL,Jesse Penn,No,LB,LB,5,23,1987,0,0,0,5,5,42,,,,,,,,,,,,1,2.5,Virginia Tech,
+1985Stacy Robinson,RobiSt00,1985,2,46,NYG,Stacy Robinson,No,WR,WR,6,23,1990,0,0,1,6,6,43,,,,,,,,,48,749,7,,,North Dakota St.,
+1985Mark Behning,BehnMa20,1985,2,47,PIT,Mark Behning,No,T,T,2,24,1986,0,0,0,2,2,16,,,,,,,,,,,,,,Nebraska,
+1985Reggie Phillips,PhilRe20,1985,2,49,CHI,Reggie Phillips,No,DB,DB,11,24,1988,0,0,0,10,10,60,,,,,,,,,,,,3,,SMU,
+1985Jeffery Dale,DaleJe20,1985,2,55,SDG,Jeffery Dale,No,DB,DB,14,22,1988,0,0,2,14,14,42,,,,,,,,,,,,6,,LSU,
+1985Ervin Randle,RandEr20,1985,3,64,TAM,Ervin Randle,No,LB,LB,19,22,1992,0,0,3,25,20,105,,,,,,,,,,,,1,8,Baylor,
+1985Ricky Moore,MoorRi00,1985,3,75,SFO,Ricky Moore,No,RB,RB,2,22,1988,0,0,1,2,,22,,,,,,40,126,1,27,220,0,,,Alabama,
+1985Crawford Ker,KerxCr20,1985,3,76,DAL,Crawford Ker,No,G,G,26,23,1991,0,0,6,33,29,92,,,,,,,,,,,,,,Florida,
+1985James Maness,ManeJa20,1985,3,78,CHI,James Maness,No,WR,WR,0,22,1985,0,0,0,0,0,8,,,,,,,,,1,34,0,,,TCU,
+1985Tim Moffett,MoffTi00,1985,3,79,RAI,Tim Moffett,No,WR,WR,3,23,1987,0,0,0,3,2,32,,,,,,1,1,0,16,247,1,,,Mississippi,
+1985Audray McMillian,McMiAu00,1985,3,84,NWE,Audray McMillian,No,DB,DB,6,23,1993,1,1,2,35,,123,,,,,,,,,,,,19,,Houston,
+1985Tom Briehl,BrieTo20,1985,4,87,HOU,Tom Briehl,No,LB,LB,2,23,1987,0,0,0,2,2,19,,,,,,,,,,,,,,Stanford,
+1985Greg Naron,,1985,4,93,PHI,Greg Naron,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,North Carolina,
+1985Walter Stanley,StanWa00,1985,4,98,GNB,Walter Stanley,No,WR,WR,18,22,1992,0,0,3,17,14,85,,,,,,6,58,0,130,2213,5,,,Mesa,
+1985Bob Olderman,OldeBo20,1985,4,99,KAN,Bob Olderman,No,G,G,7,23,1985,0,0,1,7,7,16,,,,,,,,,,,,,,Virginia,
+1985Jamie Kimmel,KimmJa20,1985,4,107,RAI,Jamie Kimmel,No,LB,LB,3,23,1987,0,0,0,3,3,31,,,,,,,,,,,,,,Syracuse,
+1985Dale Hellestrae,HellDa20,1985,4,112,BUF,Dale Hellestrae,No,T,T,3,23,2001,0,0,0,10,3,205,,,,,,,,,,,,,,SMU,
+1985Joe McIntosh,McInJo20,1985,5,118,DET,Joe McIntosh,No,RB,RB,0,22,1987,0,0,0,0,,2,,,,,,5,11,0,3,15,1,,,North Carolina St.,
+1985Tony Degrate,DegrTo20,1985,5,127,CIN,Tony Degrate,No,NT,DT,0,23,1985,0,0,0,0,,1,,,,,,,,,,,,,,Texas,
+1985Arnold Brown,BrowAr20,1985,5,128,SEA,Arnold Brown,No,DB,DB,0,23,1987,0,0,0,0,0,9,,,,,,,,,,,,,,North Carolina Central,
+1985Tracy Henderson,,1985,5,132,NYG,Tracy Henderson,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Iowa St.,
+1985George Shorthose,ShorGe20,1985,6,145,MIA,George Shorthose,No,WR,WR,0,23,1985,0,0,0,0,,3,,,,,,,,,,,,,,Missouri,
+1985Jeff Deaton,,1985,6,151,NYJ,Jeff Deaton,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Stanford,
+1985Ken Reeves,ReevKe20,1985,6,156,PHI,Ken Reeves,No,T,T,16,23,1990,0,0,2,16,15,85,,,,,,,,,,,,,,Texas A&M,
+1985Danzell Lee,LeexDa20,1985,6,163,WAS,Danzell Lee,No,TE,TE,1,22,1988,0,0,1,1,,18,,,,,,,,,12,124,0,,,Lamar,
+1985Mark Pembrook,,1985,6,165,NYG,Mark Pembrook,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Cal State-Fullerton,
+1985Rich Miano,MianRi20,1985,6,166,NYJ,Rich Miano,No,DB,DB,15,23,1995,0,0,4,27,12,135,,,,,,,,,,,,15,0.5,Hawaii,
+1985Scott Barry,,1985,6,168,SFO,Scott Barry,No,QB,QB,0,,,0,0,0,,,,,,,,,,,,,,,,,California-Davis,
+1985Jim Herrmann,,1985,7,184,DAL,Jim Herrmann,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,BYU,
+1985Danny Bradley,BradDa21,1985,7,189,RAM,Danny Bradley,No,RB,RB,0,22,1987,0,0,0,0,,3,,,,,,,,,7,50,2,,,Oklahoma,
+1985Charles Bennett,BennCh20,1985,7,190,CHI,Charles Bennett,No,DE,DE,1,22,1987,0,0,0,1,,3,,,,,,,,,,,,,,La-Lafayette,
+1985Fuad Reveiz,reveifua01,1985,7,195,MIA,Fuad Reveiz,No,K,K,12,22,1995,0,1,9,25,10,147,,,,,,,,,,,,,,Tennessee,
+1985Jacque Robinson,RobiJa21,1985,8,197,BUF,Jacque Robinson,No,FB,FB,1,22,1987,0,0,0,1,,3,,,,,,24,114,0,2,9,0,,,Washington,
+1985Scott Caldwell,CaldSc20,1985,8,202,DET,Scott Caldwell,No,RB,RB,1,22,1987,0,0,0,1,,3,,,,,,16,53,0,4,34,0,,,Texas-Arlington,
+1985Joe Kohlbrand,KohlJo20,1985,8,206,NOR,Joe Kohlbrand,No,LB,LB,6,22,1989,0,0,0,6,6,72,,,,,,,,,,,,,2,Miami (FL),
+1985Harry Newsome,NewsHa20,1985,8,214,PIT,Harry Newsome,No,P,P,9,22,1993,0,0,9,19,7,140,1,3,12,1,0,8,6,0,,,,,,Wake Forest,
+1985Ronnie Washington,WashRo21,1985,8,215,ATL,Ronnie Washington,No,LB,LB,2,22,1989,0,0,0,2,1,20,,,,,,,,,,,,,1.5,La-Monroe,
+1985Leon Gonzalez,GonzLe20,1985,8,216,DAL,Leon Gonzalez,No,WR,WR,0,22,1987,0,0,0,0,0,13,,,,,,,,,6,68,0,,,Bethune-Cookman,
+1985Marlon McIntyre,,1985,8,218,RAM,Marlon McIntyre,No,RB,RB,0,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,
+1985Milford Hodge,HodgMi20,1985,8,224,NWE,Milford Hodge,No,DE,DE,7,24,1989,0,0,0,7,7,50,,,,,,,,,,,,,3,Washington St.,
+1985Jaime Covington,CoviJa20,1985,9,227,MIN,Jaime Covington,No,RB,RB,0,22,1987,0,0,0,0,,2,,,,,,4,0,0,1,9,0,,,Syracuse,
+1985Joe Drake,DrakJo20,1985,9,233,PHI,Joe Drake,No,NT,DT,2,22,1987,0,0,0,2,1,19,,,,,,,,,,,,,,Arizona,
+1985Frank Wright,,1985,9,240,NYG,Frank Wright,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,South Carolina,
+1985Daryl Smith,SmitDa23,1985,9,249,DEN,Daryl Smith,No,DB,DB,3,22,1989,0,0,0,3,,15,,,,,,,,,,,,2,,North Alabama,
+1985Thomas Sanders,SandTh00,1985,9,250,CHI,Thomas Sanders,No,RB,RB,9,23,1991,0,0,0,11,8,90,,,,,,321,1239,12,28,284,1,,,Texas A&M,
+1985Dan Remsberg,RemsDa20,1985,9,252,SDG,Dan Remsberg,No,T,T,3,23,1987,0,0,0,3,,21,,,,,,,,,,,,,,Abilene Christian,
+1985Chris Babyar,,1985,10,253,BUF,Chris Babyar,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Illinois,
+1985Ronnie Burgess,BurgRo20,1985,10,266,GNB,Ronnie Burgess,No,DB,DB,0,22,1985,0,0,0,0,0,7,,,,,,,,,,,,,,Wake Forest,
+1985Chris Jackson,,1985,11,293,KAN,Chris Jackson,No,C,C,0,,,0,0,0,,,,,,,,,,,,,,,,,SMU,
+1985Kevin Brown,,1985,11,301,RAM,Kevin Brown,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Northwestern,
+1985David Wood,,1985,11,308,SFO,David Wood,No,DE,DE,0,,,0,0,0,,,,,,,,,,,,,,,,,Arizona,
+1985Byron Jones,,1985,12,310,MIN,Byron Jones,No,DT,DT,0,,,0,0,0,,,,,,,,,,,,,,,,,Tulsa,
+1985Todd Russell,,1985,12,317,PHI,Todd Russell,No,DB,DB,0,,,0,0,0,,,,,,,,,,,,,,,,,Boston Col.,
+1985Bill Wallace,,1985,12,319,NYJ,Bill Wallace,No,WR,WR,0,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,
+1985Louis Garza,,1985,12,322,CIN,Louis Garza,No,T,T,0,,,0,0,0,,,,,,,,,,,,,,,,,New Mexico St.,
+1985Dan Lynch,,1985,12,334,DEN,Dan Lynch,No,G,G,0,,,0,0,0,,,,,,,,,,,,,,,,,Washington St.,
